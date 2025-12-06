@@ -1,6 +1,7 @@
 """Health check endpoints."""
 
 import psycopg2
+import requests
 from flask import Blueprint, jsonify
 
 from config import config
@@ -94,3 +95,50 @@ def health_check():
 def ping():
     """Simple ping endpoint."""
     return jsonify({'status': 'ok'}), 200
+
+@health_bp.route('/models', methods=['GET'])
+def get_models():
+    """
+    Get list of available Ollama models.
+    
+    Returns:
+        JSON with list of available models
+    """
+    try:
+        response = requests.get(f"{config.OLLAMA_BASE_URL}/api/tags", timeout=5)
+        response.raise_for_status()
+        
+        models_data = response.json().get('models', [])
+        models = []
+        
+        for model in models_data:
+            model_name = model.get('name', '')
+            # Extract model info
+            model_info = {
+                'name': model_name,
+                'size': model.get('size', 0),
+                'modified_at': model.get('modified_at', ''),
+            }
+            models.append(model_info)
+        
+        # Sort by name
+        models.sort(key=lambda x: x['name'])
+        
+        return jsonify({
+            'models': models,
+            'count': len(models),
+            'default_model': config.OLLAMA_MODEL
+        }), 200
+        
+    except requests.exceptions.RequestException as e:
+        logger.error(f"Error fetching Ollama models: {e}")
+        return jsonify({
+            'error': 'Failed to fetch models',
+            'message': f'Could not connect to Ollama: {str(e)}'
+        }), 503
+    except Exception as e:
+        logger.error(f"Unexpected error fetching models: {e}")
+        return jsonify({
+            'error': 'Failed to fetch models',
+            'message': str(e)
+        }), 500

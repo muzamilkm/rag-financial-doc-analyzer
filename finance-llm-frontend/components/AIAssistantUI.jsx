@@ -91,6 +91,7 @@ export default function AIAssistantUI() {
   const [isThinking, setIsThinking] = useState(false);
   const [thinkingConvId, setThinkingConvId] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [selectedModel, setSelectedModel] = useState(null);
 
   const API_BASE_URL =
     process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000";
@@ -300,6 +301,7 @@ export default function AIAssistantUI() {
         body: JSON.stringify({
           query: content,
           chat_id: chatId,
+          model: selectedModel, // Include selected model
         }),
       });
 
@@ -441,6 +443,8 @@ export default function AIAssistantUI() {
             createNewChat={createNewChat}
             sidebarCollapsed={sidebarCollapsed}
             setSidebarOpen={setSidebarOpen}
+            selectedModel={selectedModel}
+            onModelChange={setSelectedModel}
           />
           <ChatPane
             ref={composerRef}

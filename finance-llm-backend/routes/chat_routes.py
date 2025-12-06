@@ -65,8 +65,11 @@ def chat():
         company_filter = data.get('company')
         period_filter = data.get('period')
         top_k = data.get('top_k', config.RETRIEVAL_TOP_K)
+        model = data.get('model')  # Get model from request, or use default
 
         logger.info(f"Processing query from chat {chat_id}: {query[:100]}...")
+        if model:
+            logger.info(f"Using model: {model}")
 
         # Step 1: Retrieve relevant chunks from vector database
         logger.info("Step 1: Retrieving relevant context...")
@@ -93,7 +96,9 @@ def chat():
                 # Step 3: Generate answer using LLM
                 logger.info("Step 2: Generating answer with LLM...")
                 try:
-                    answer = llm_client.generate_answer(
+                    # Use specified model or default
+                    current_llm_client = OllamaClient(model=model) if model else llm_client
+                    answer = current_llm_client.generate_answer(
                         user_query=query,
                         context_chunks=relevant_chunks,
                         chat_history=chat_history
@@ -142,7 +147,7 @@ def chat():
             'sources': sources,
             'metadata': {
                 'chunks_retrieved': len(relevant_chunks) if relevant_chunks else 0,
-                'model': config.OLLAMA_MODEL,
+                'model': model or config.OLLAMA_MODEL,
                 'filters_applied': {
                     'company': company_filter,
                     'period': period_filter
