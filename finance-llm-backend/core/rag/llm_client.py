@@ -2,6 +2,7 @@
 
 import requests
 import json
+import time
 from typing import List, Dict, Any, Optional
 from config import config
 from core.utils.logger import setup_logger
@@ -78,37 +79,91 @@ Based on the above context, please answer the following question:"""
         # Add user query
         messages.append({"role": "user", "content": user_query})
         
+        # Log detailed request information
+        logger.info(f"Sending request to Ollama LLM:")
+        logger.info(f"  - Model: {self.model}")
+        logger.info(f"  - URL: {self.chat_url}")
+        logger.info(f"  - Timeout: {self.timeout}s")
+        logger.info(f"  - Total messages: {len(messages)}")
+        logger.info(f"  - System message length: {len(system_message)} chars")
+        logger.info(f"  - Context chunks: {len(context_chunks)}")
+        logger.info(f"  - Chat history messages: {len(chat_history) if chat_history else 0}")
+        logger.info(f"  - User query: {user_query[:200]}{'...' if len(user_query) > 200 else ''}")
+        
+        # Log message structure (truncate long content for readability)
+        for i, msg in enumerate(messages):
+            role = msg.get('role', 'unknown')
+            content = msg.get('content', '')
+            content_preview = content[:300] + '...' if len(content) > 300 else content
+            logger.info(f"  - Message {i+1} ({role}): {len(content)} chars - {content_preview}")
+        
+        # Prepare request payload
+        request_payload = {
+            "model": self.model,
+            "messages": messages,
+            "stream": False,
+            "options": {
+                "temperature": 0.7,
+                "top_p": 0.9,
+                "num_predict": 4096  # Increased from 512 to allow longer responses
+            }
+        }
+        
+        logger.info(f"  - Request payload size: ~{len(json.dumps(request_payload))} bytes")
+        logger.info(f"  - Options: temperature=0.7, top_p=0.9, num_predict=4096")
+        
         try:
             # Call Ollama chat API
+            start_time = time.time()
+            logger.info(f"Making POST request to Ollama...")
             response = requests.post(
                 self.chat_url,
-                json={
-                    "model": self.model,
-                    "messages": messages,
-                    "stream": False,
-                    "options": {
-                        "temperature": 0.7,
-                        "top_p": 0.9,
-                        "num_predict": 512
-                    }
-                },
+                json=request_payload,
                 timeout=self.timeout
             )
+            elapsed_time = time.time() - start_time
+            logger.info(f"Ollama request completed in {elapsed_time:.2f}s (status: {response.status_code})")
             
-            response.raise_for_status()
+            # Check for HTTP errors and extract error message from response
+            if not response.ok:
+                try:
+                    error_data = response.json()
+                    error_message = error_data.get('error', response.text)
+                    logger.error(f"Ollama API error ({response.status_code}): {error_message}")
+                    raise Exception(f"LLM service error: {error_message}")
+                except (ValueError, KeyError):
+                    # If response is not JSON, use status text
+                    logger.error(f"Ollama API error ({response.status_code}): {response.text}")
+                    response.raise_for_status()
+            
             result = response.json()
             
+            # Check if response contains an error field
+            if 'error' in result:
+                error_message = result.get('error', 'Unknown error from Ollama')
+                logger.error(f"Ollama returned error: {error_message}")
+                raise Exception(f"LLM service error: {error_message}")
+            
             answer = result.get('message', {}).get('content', '')
+            if not answer:
+                logger.warning("Ollama returned empty answer")
+                answer = "I apologize, but I couldn't generate a response. Please try again."
+            
             logger.info(f"Generated answer of length: {len(answer)}")
             
             return answer.strip()
             
         except requests.exceptions.Timeout:
-            logger.error("Ollama request timed out")
-            raise Exception("LLM request timed out. Please try again.")
+            logger.error(f"Ollama request timed out after {self.timeout}s")
+            logger.error(f"Request details: model={self.model}, messages={len(messages)}, context_chunks={len(context_chunks)}")
+            raise Exception(f"LLM request timed out after {self.timeout} seconds. The model may need more time to process. Please try again or consider using a smaller model.")
         except requests.exceptions.ConnectionError:
             logger.error("Could not connect to Ollama")
             raise Exception("Could not connect to LLM service. Is Ollama running?")
+        except requests.exceptions.HTTPError as e:
+            # This should not be reached due to our error handling above, but keep as fallback
+            logger.error(f"HTTP error from Ollama: {e}")
+            raise Exception(f"LLM service HTTP error: {str(e)}")
         except Exception as e:
             logger.error(f"Error generating answer: {e}")
             raise Exception(f"Error generating answer: {str(e)}")

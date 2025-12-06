@@ -153,6 +153,51 @@ BEGIN
     LIMIT match_count;
 END;
 $$ LANGUAGE plpgsql;
+
+-- ============================================
+-- CHAT HISTORY TABLES
+-- ============================================
+
+-- Chat sessions table
+CREATE TABLE IF NOT EXISTS chat_sessions (
+    chat_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    title TEXT,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Chat messages table
+CREATE TABLE IF NOT EXISTS chat_messages (
+    id BIGSERIAL PRIMARY KEY,
+    chat_id UUID NOT NULL REFERENCES chat_sessions(chat_id) ON DELETE CASCADE,
+    role TEXT NOT NULL CHECK (role IN ('user', 'assistant')),
+    content TEXT NOT NULL,
+    sources JSONB,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Indexes for chat tables
+CREATE INDEX IF NOT EXISTS idx_chat_sessions_created_at ON chat_sessions(created_at DESC);
+CREATE INDEX IF NOT EXISTS idx_chat_sessions_updated_at ON chat_sessions(updated_at DESC);
+CREATE INDEX IF NOT EXISTS idx_chat_messages_chat_id ON chat_messages(chat_id);
+CREATE INDEX IF NOT EXISTS idx_chat_messages_created_at ON chat_messages(created_at);
+
+-- Trigger to automatically update chat_sessions.updated_at when new message is added
+CREATE OR REPLACE FUNCTION update_chat_session_timestamp()
+RETURNS TRIGGER AS $$
+BEGIN
+    UPDATE chat_sessions 
+    SET updated_at = CURRENT_TIMESTAMP 
+    WHERE chat_id = NEW.chat_id;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+DROP TRIGGER IF EXISTS trigger_update_chat_session_timestamp ON chat_messages;
+CREATE TRIGGER trigger_update_chat_session_timestamp
+    AFTER INSERT ON chat_messages
+    FOR EACH ROW
+    EXECUTE FUNCTION update_chat_session_timestamp();
 """
 
 
@@ -160,52 +205,53 @@ class DatabaseSchema:
     """
     Manages database schema creation and initialization.
     """
-    
+
     def __init__(self, connection: Connection):
         """
         Initialize with a database connection.
-        
+
         Args:
             connection: psycopg2 connection object
         """
         self.conn = connection
         self.conn.autocommit = False  # Use transactions
-    
+
     def create_schema(self, drop_existing: bool = False) -> None:
         """
         Create the complete database schema.
-        
+
         Args:
             drop_existing: If True, drop existing table first (WARNING: data loss)
         """
         cursor = self.conn.cursor()
-        
+
         try:
             if drop_existing:
                 print("⚠️  Dropping existing table (if exists)...")
-                cursor.execute("DROP TABLE IF EXISTS financial_documents CASCADE")
-            
+                cursor.execute(
+                    "DROP TABLE IF EXISTS financial_documents CASCADE")
+
             print("Creating database schema...")
-            
+
             # Execute schema creation
             cursor.execute(SCHEMA_DEFINITION)
-            
+
             self.conn.commit()
             print("✓ Schema created successfully!")
-            
+
             # Verify pgvector extension
             self._verify_pgvector(cursor)
-            
+
             # Print schema info
             self._print_schema_info(cursor)
-            
+
         except Exception as e:
             self.conn.rollback()
             print(f"❌ Error creating schema: {e}")
             raise
         finally:
             cursor.close()
-    
+
     def _verify_pgvector(self, cursor) -> None:
         """Verify pgvector extension is installed."""
         cursor.execute("""
@@ -214,12 +260,12 @@ class DatabaseSchema:
             )
         """)
         has_pgvector = cursor.fetchone()[0]
-        
+
         if has_pgvector:
             print("✓ pgvector extension verified")
         else:
             raise Exception("pgvector extension not found! Install it first.")
-    
+
     def _print_schema_info(self, cursor) -> None:
         """Print information about the created schema."""
         # Get table info
@@ -230,13 +276,13 @@ class DatabaseSchema:
             ORDER BY ordinal_position
         """)
         columns = cursor.fetchall()
-        
+
         print("\n📋 Table: financial_documents")
         print("Columns:")
         for col_name, data_type, nullable in columns:
             null_str = "NULL" if nullable == "YES" else "NOT NULL"
             print(f"  • {col_name}: {data_type} ({null_str})")
-        
+
         # Get index info
         cursor.execute("""
             SELECT indexname, indexdef
@@ -244,11 +290,11 @@ class DatabaseSchema:
             WHERE tablename = 'financial_documents'
         """)
         indexes = cursor.fetchall()
-        
+
         print("\nIndexes:")
         for idx_name, idx_def in indexes:
             print(f"  • {idx_name}")
-    
+
     def table_exists(self) -> bool:
         """Check if the financial_documents table exists."""
         cursor = self.conn.cursor()
@@ -262,35 +308,41 @@ class DatabaseSchema:
             return cursor.fetchone()[0]
         finally:
             cursor.close()
-    
+
     def get_table_stats(self) -> Dict[str, Any]:
         """Get statistics about the financial_documents table."""
         cursor = self.conn.cursor()
         try:
             stats = {}
-            
+
             # Total count
             cursor.execute("SELECT COUNT(*) FROM financial_documents")
             stats['total_documents'] = cursor.fetchone()[0]
-            
+
             # Count by content type
             cursor.execute("""
                 SELECT content_type, COUNT(*)
                 FROM financial_documents
                 GROUP BY content_type
             """)
-            stats['by_type'] = dict(cursor.fetchall())
-            
+            by_type = dict(cursor.fetchall())
+            stats['by_type'] = by_type
+            stats['text_chunks'] = by_type.get('text_chunk', 0)
+            stats['table_rows'] = by_type.get('table_row', 0)
+
             # Count by company
             cursor.execute("""
                 SELECT company, COUNT(*)
                 FROM financial_documents
+                WHERE company IS NOT NULL
                 GROUP BY company
                 ORDER BY COUNT(*) DESC
                 LIMIT 10
             """)
-            stats['by_company'] = dict(cursor.fetchall())
-            
+            companies_list = [row[0] for row in cursor.fetchall()]
+            stats['by_company'] = companies_list
+            stats['companies'] = companies_list
+
             # Count by period
             cursor.execute("""
                 SELECT period, COUNT(*)
@@ -300,11 +352,18 @@ class DatabaseSchema:
                 LIMIT 10
             """)
             stats['by_period'] = dict(cursor.fetchall())
-            
+
+            # Chat statistics
+            cursor.execute("SELECT COUNT(*) FROM chat_sessions")
+            stats['total_chats'] = cursor.fetchone()[0]
+
+            cursor.execute("SELECT COUNT(*) FROM chat_messages")
+            stats['total_messages'] = cursor.fetchone()[0]
+
             return stats
         finally:
             cursor.close()
-    
+
     def drop_all(self) -> None:
         """Drop all schema objects (WARNING: data loss)."""
         cursor = self.conn.cursor()
@@ -323,7 +382,7 @@ class DatabaseSchema:
 def create_database_schema(connection_string: str, drop_existing: bool = False) -> None:
     """
     Convenience function to create schema from connection string.
-    
+
     Args:
         connection_string: PostgreSQL connection string
         drop_existing: Whether to drop existing table
@@ -341,36 +400,36 @@ def print_schema_documentation():
     print("="*80)
     print("FINANCIAL DOCUMENTS SCHEMA DOCUMENTATION")
     print("="*80)
-    
+
     print("\n📊 TABLE: financial_documents")
     print("\nStores both text chunks and table rows with embeddings for semantic search.")
-    
+
     print("\n🔑 Key Columns:")
     print("  • id: Primary key (auto-increment)")
     print("  • content: The actual text content")
     print("  • embedding: 1024-dimensional vector for similarity search")
     print("  • metadata: JSONB with flexible metadata")
-    
+
     print("\n🏷️ Extracted Metadata Columns (for fast filtering):")
     print("  • company: Company name (e.g., 'PTCL')")
     print("  • period: Reporting period (e.g., '2024Q3', '2025FY')")
     print("  • content_type: 'text_chunk' or 'table_row'")
     print("  • doc_type: Document type (e.g., 'financial_report')")
     print("  • table_name: Table name (only for table_row type)")
-    
+
     print("\n📅 Timestamps:")
     print("  • created_at: When the record was inserted")
     print("  • updated_at: When the record was last updated")
-    
+
     print("\n🔍 Indexes:")
     print("  • HNSW index on embedding for fast similarity search")
     print("  • B-tree indexes on company, period, content_type")
     print("  • GIN index on metadata JSONB")
-    
+
     print("\n👁️ Views:")
     print("  • text_chunks: Only text chunk records")
     print("  • table_rows: Only table row records")
-    
+
     print("\n🔧 Functions:")
     print("  • search_similar_documents(): Semantic search with filters")
     print("    Parameters:")
@@ -379,7 +438,7 @@ def print_schema_documentation():
     print("      - filter_company: Optional company filter")
     print("      - filter_period: Optional period filter")
     print("      - filter_content_type: Optional type filter")
-    
+
     print("\n💡 Usage Example:")
     print("""
     -- Search for similar documents
@@ -396,5 +455,5 @@ def print_schema_documentation():
     -- Get table rows by table name
     SELECT * FROM table_rows WHERE table_name = 'income_statement';
     """)
-    
+
     print("\n" + "="*80)
