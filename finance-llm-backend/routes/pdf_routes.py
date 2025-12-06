@@ -54,8 +54,8 @@ def upload_pdf():
             return jsonify({'error': 'Invalid file type. Only PDF files are allowed'}), 400
 
         # Get optional metadata from form
-        company = request.form.get('company')
-        period = request.form.get('period')
+        company = request.form.get('company', '').strip()
+        period = request.form.get('period', '').strip()
 
         # Save uploaded file
         filename = secure_filename(file.filename)
@@ -63,6 +63,10 @@ def upload_pdf():
         file.save(filepath)
 
         logger.info(f"Processing PDF: {filename}")
+        if company:
+            logger.info(f"User provided company: {company}")
+        if period:
+            logger.info(f"User provided period: {period}")
 
         # Step 1: Extract text and tables from PDF
         logger.info("Step 1: Extracting content from PDF...")
@@ -80,13 +84,16 @@ def upload_pdf():
             remove_front_matter=True
         )
 
-        # Use extracted or provided metadata
+        # Use provided metadata if available, otherwise use extracted metadata
         metadata = cleaned_data['metadata']
-        final_company = company or metadata.get('company', 'Unknown')
-        final_period = period or metadata.get('period', 'Unknown')
+        final_company = company if company else metadata.get('company', 'Unknown')
+        final_period = period if period else metadata.get('period', 'Unknown')
 
         logger.info(
-            f"Extracted metadata - Company: {final_company}, Period: {final_period}")
+            f"Using metadata - Company: {final_company}, Period: {final_period}")
+        logger.info(
+            f"Metadata source - Company: {'User provided' if company else 'Extracted from document'}, "
+            f"Period: {'User provided' if period else 'Extracted from document'}")
 
         # Get cleaned text and tables
         cleaned_text_by_page = cleaned_data['text_by_page']

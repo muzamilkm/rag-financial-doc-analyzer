@@ -9,12 +9,17 @@ import {
 } from "react";
 import { Send, Loader2, Upload } from "lucide-react";
 import { cls } from "./utils";
+import UploadMetadataModal from "./UploadMetadataModal";
+import UploadSuccessCard from "./UploadSuccessCard";
 
 const Composer = forwardRef(function Composer({ onSend, busy }, ref) {
   const [value, setValue] = useState("");
   const [sending, setSending] = useState(false);
   const [lineCount, setLineCount] = useState(1);
   const [uploading, setUploading] = useState(false);
+  const [showUploadModal, setShowUploadModal] = useState(false);
+  const [selectedFile, setSelectedFile] = useState(null);
+  const [uploadStatistics, setUploadStatistics] = useState(null);
   const inputRef = useRef(null);
   const fileInputRef = useRef(null);
 
@@ -78,7 +83,7 @@ const Composer = forwardRef(function Composer({ onSend, busy }, ref) {
     }
   }
 
-  const handleFileChange = async (e) => {
+  const handleFileChange = (e) => {
     const file = e.target.files?.[0];
     if (!file) return;
 
@@ -90,11 +95,28 @@ const Composer = forwardRef(function Composer({ onSend, busy }, ref) {
       return;
     }
 
+    // Store the file and show the metadata modal
+    setSelectedFile(file);
+    setShowUploadModal(true);
+  };
+
+  const handleUploadConfirm = async (metadata) => {
+    if (!selectedFile) return;
+
     setUploading(true);
+    setShowUploadModal(false);
 
     try {
       const formData = new FormData();
-      formData.append("file", file);
+      formData.append("file", selectedFile);
+      
+      // Add company and period if provided
+      if (metadata.company) {
+        formData.append("company", metadata.company);
+      }
+      if (metadata.period) {
+        formData.append("period", metadata.period);
+      }
 
       const response = await fetch(`${API_BASE_URL}/api/upload`, {
         method: "POST",
@@ -107,21 +129,15 @@ const Composer = forwardRef(function Composer({ onSend, busy }, ref) {
         throw new Error(data.message || "Upload failed");
       }
 
-      // Success
-      alert(
-        `✅ PDF uploaded successfully!\n\n` +
-          `File: ${data.statistics.filename}\n` +
-          `Company: ${data.statistics.company}\n` +
-          `Period: ${data.statistics.period}\n` +
-          `Text chunks: ${data.statistics.text_chunks}\n` +
-          `Table chunks: ${data.statistics.table_chunks}\n` +
-          `Total: ${data.statistics.total_chunks} chunks ingested`
-      );
+      // Show success card with statistics
+      setUploadStatistics(data.statistics);
     } catch (error) {
       console.error("PDF upload error:", error);
       alert(`❌ Upload failed: ${error.message}`);
+      setUploadStatistics(null);
     } finally {
       setUploading(false);
+      setSelectedFile(null);
       // Reset file input
       if (fileInputRef.current) {
         fileInputRef.current.value = "";
@@ -129,10 +145,25 @@ const Composer = forwardRef(function Composer({ onSend, busy }, ref) {
     }
   };
 
+  const handleCloseUploadModal = () => {
+    setShowUploadModal(false);
+    setSelectedFile(null);
+    // Reset file input
+    if (fileInputRef.current) {
+      fileInputRef.current.value = "";
+    }
+  };
+
   const hasContent = value.trim().length > 0;
 
   return (
     <div className="border-t border-zinc-200/60 p-4 dark:border-zinc-800">
+      {uploadStatistics && (
+        <UploadSuccessCard
+          statistics={uploadStatistics}
+          onClose={() => setUploadStatistics(null)}
+        />
+      )}
       <div
         className={cls(
           "mx-auto flex flex-col rounded-3xl border bg-white shadow-sm dark:bg-zinc-950 transition-all duration-200",
@@ -210,6 +241,14 @@ const Composer = forwardRef(function Composer({ onSend, busy }, ref) {
       <div className="mx-auto mt-2 max-w-3xl px-1 text-center text-[11px] text-zinc-400 dark:text-zinc-500">
         Always verify financial data and insights with authoritative sources.
       </div>
+
+      <UploadMetadataModal
+        isOpen={showUploadModal}
+        onClose={handleCloseUploadModal}
+        onUpload={handleUploadConfirm}
+        fileName={selectedFile?.name || ""}
+        uploading={uploading}
+      />
     </div>
   );
 });

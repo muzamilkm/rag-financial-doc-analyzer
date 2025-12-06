@@ -23,7 +23,8 @@ def text_metadata(company: str, year: str, doc_type: str = "financial_report") -
     """
     return {
         "company": company,
-        "period": year,  # Use 'period' key for consistency
+        "year": year,  # Use 'year' key to match database schema (stores period like "2024Q3")
+        "period": year,  # Also include 'period' for backward compatibility
         "doc_type": doc_type,
         "type": "text_chunk"
     }
@@ -51,7 +52,8 @@ def table_metadata(
     """
     return {
         "company": company,
-        "period": period,
+        "year": period,  # Use 'year' key to match database schema (stores period like "2024Q3")
+        "period": period,  # Also include 'period' for backward compatibility
         "table_name": table_name,
         "row_id": row_id,
         "doc_type": doc_type,
