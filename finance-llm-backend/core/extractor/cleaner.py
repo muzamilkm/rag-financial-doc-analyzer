@@ -501,6 +501,28 @@ class TextCleaner:
         
         print(f"  ✓ Cleaned {total_tables} tables (for vector DB)")
         
+        # Extract metadata (company name and period) from text
+        print("  → Extracting metadata (company name, period)...")
+        from core.utils.metadata import extract_company_from_text, extract_period_from_text
+        
+        # Combine some text for metadata extraction
+        sample_text = '\n'.join(str(text) for text in list(cleaned_text.values())[:10])
+        
+        company_name = extract_company_from_text(sample_text)
+        period = extract_period_from_text(sample_text)
+        
+        if company_name:
+            print(f"  ✓ Extracted company: {company_name}")
+        else:
+            print("  ⚠ Could not extract company name")
+            company_name = "Unknown Company"
+        
+        if period:
+            print(f"  ✓ Extracted period: {period}")
+        else:
+            print("  ⚠ Could not extract period")
+            period = "Unknown Period"
+        
         return {
             "pdf_name": data['pdf_name'],
             "total_pages": data['total_pages'],
@@ -509,7 +531,11 @@ class TextCleaner:
             "financial_statements": data['financial_statements'],
             "segment_information": data['segment_information'],
             "table_format": table_format,
-            "table_markers": table_markers
+            "table_markers": table_markers,
+            "metadata": {
+                "company": company_name,
+                "period": period
+            }
         }
 
 
