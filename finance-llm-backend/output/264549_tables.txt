@@ -1,0 +1,805 @@
+================================================================================
+EXTRACTED TABLES: 264549.pdf
+For Vector Database Storage
+================================================================================
+
+
+================================================================================
+TABLE 1
+================================================================================
+Shape: 6 rows × 4 columns
+
+        0               1       2       3
+     <NA>         Unit of      1Q      1Q
+ Products            <NA>    <NA>    <NA>
+     <NA>     Measurement 2025-26 2024-25
+Crude oil Barrels per day  31,315  31,768
+      Gas    MMcf per day     641     699
+      LPG    Tons per day     630     618
+
+
+================================================================================
+TABLE 2
+================================================================================
+Shape: 8 rows × 1 columns
+
+                                                                                                                    0
+            Reko Diq Mining Company (RDMC) Board also granted its approval. On 18 August 2025, the Board of Directors
+           approved the Company's pro-rata funding commitment, including project financing costs amounting to USD 715
+           million. This funding commitment was fur ther endorsed by the shareholders in an EOGM held on 10 September
+2025. Financing for the project is in its final stages. Early site development activities have already commenced, and
+                                                            first production is targeted for the fiscal year 2028-29.
+                                                                                           Abu Dhabi Offshore Block-5
+      At Offshore Block-5, exploration and appraisal activities are underway, whereby drilling of 4 wells is planned,
+            comprising 2 appraisal wells, 1 shallow well and 1 deep exploration well. Moreover, work on prospectivity
+
+
+================================================================================
+TABLE 3
+================================================================================
+Shape: 19 rows × 3 columns
+
+                                   0             1             2
+                       Share capital    43,009,284    43,009,284
+                          Reserves 4    33,682,217    33,909,396
+               Unappropriated profit 1,309,261,362 1,271,319,016
+                                <NA> 1,385,952,863 1,348,237,696
+             NON CURRENT LIABILITIES          <NA>          <NA>
+                   Deferred taxation    77,004,275    75,920,108
+          Deferred employee benefits    42,552,626    41,519,272
+Provision for decommissioning cost 5    62,781,526    61,594,813
+         Long term lease liability 6     1,752,546     2,056,059
+                                <NA>   184,090,973   181,090,252
+                 CURRENT LIABILITIES          <NA>          <NA>
+        Short term lease liability 6     1,031,130       983,551
+          Trade and other payables 7   106,373,371   123,760,613
+                                <NA>       290,857       331,720
+                     Unpaid dividend          <NA>          <NA>
+          202,238 Unclaimed dividend       201,385          <NA>
+                   TOTAL LIABILITIES   107,896,743   125,278,122
+                                <NA>   291,987,716   306,368,374
+                                <NA> 1,677,940,579 1,654,606,070
+
+
+================================================================================
+TABLE 4
+================================================================================
+Shape: 26 rows × 4 columns
+
+                                       0    1             2             3
+           Property, plant and equipment  9.0   111,753,424    97,861,516
+       Development and production assets 10.0   141,166,266   139,011,750
+       Exploration and evaluation assets 11.0    35,108,965    28,939,818
+                                    <NA>  NaN   288,028,655   265,813,084
+                   Long term investments  NaN          <NA>          <NA>
+Investments in subsidiary and associates  NaN   141,086,223   137,640,235
+           Investments at amortized cost  NaN    20,285,645    20,285,645
+                                    <NA> 12.0   161,371,868   157,925,880
+                Long term loans- secured  NaN    10,741,816    11,263,991
+      Long term advances and prepayments  NaN     3,942,046     4,021,001
+                       Lease receivables 13.0    87,230,264    92,198,179
+                                    <NA>  NaN   551,314,649   531,222,135
+                          CURRENT ASSETS  NaN          <NA>          <NA>
+     Stores, spare parts and loose tools  NaN    29,246,677    29,693,368
+                          Stock in trade  NaN       955,298       942,938
+                             Trade debts 14.0   612,777,849   613,660,983
+                      Loans and advances  NaN    22,556,408    22,284,662
+     Deposits and short term prepayments  NaN     2,992,921     2,582,403
+                       Other receivables  NaN     1,337,179     1,452,187
+                     Income tax- advance 15.0   128,807,923   114,026,596
+Current portion of long term investments  NaN    65,631,946    84,520,671
+    Current portion of lease receivables  NaN    40,011,655    48,696,323
+                  Other financial assets 16.0   209,794,663   152,710,231
+                  Cash and bank balances  NaN    12,513,411    52,813,573
+                                    <NA>  NaN 1,126,625,930 1,123,383,935
+                                    <NA>  NaN 1,677,940,579 1,654,606,070
+
+
+================================================================================
+TABLE 5
+================================================================================
+Shape: 16 rows × 4 columns
+
+                                              0    1            2            3
+                                    Sales - net 17.0   96,191,968  106,010,995
+                                        Royalty  NaN (10,598,216) (13,150,861)
+                             Operating expenses  NaN (28,803,456) (26,265,083)
+                         Transportation charges  NaN    (505,368)    (779,371)
+                                           <NA>  NaN (39,907,040) (40,195,315)
+                                   Gross profit  NaN   56,284,928   65,815,680
+                       Finance and other income 19.0   12,184,695   25,726,888
+        Exploration and prospecting expenditure  NaN  (3,081,840)  (3,852,538)
+            General and administration expenses  NaN  (2,094,701)  (1,830,597)
+                                   Finance cost  NaN  (1,221,481)  (1,613,972)
+             Workers' profit participation fund  NaN  (3,262,222)  (4,374,620)
+ Share of profit in associate - net of taxation  NaN    3,172,841    3,246,937
+                         Profit before taxation  NaN   61,982,220   83,117,778
+                                       Taxation 19.0 (23,677,374) (42,097,867)
+                         Profit for the quarter  NaN   38,304,846   41,019,911
+Earnings per share - basic and diluted (Rupees) 20.0         8.91         9.54
+
+
+================================================================================
+TABLE 6
+================================================================================
+Shape: 10 rows × 4 columns
+
+                                                                         0    1          2          3
+                                                    Profit for the quarter  NaN 38,304,846 41,019,911
+                                        Other comprehensive (loss)/ income  NaN       <NA>       <NA>
+                    Items that will not be reclassified to profit or loss:  NaN          -          -
+           Items that will be subsequently reclassified to profit or loss:  NaN       <NA>       <NA>
+               Effects of translation of investment in a foreign associate 12.3  (175,303)   (26,321)
+Share of effect of translation of investment in foreign associated company  NaN       <NA>       <NA>
+                                         of the associates-net of taxation  NaN  (414,376)   (87,989)
+                                                                      <NA>  NaN  (589,679)  (114,310)
+                                Other comprehensive (loss) for the quarter  NaN  (589,679)  (114,310)
+                                Total comprehensive income for the quarter  NaN 37,715,167 40,905,601
+
+
+================================================================================
+TABLE 7
+================================================================================
+Shape: 25 rows × 8 columns
+
+                                                                                     0       1   2          3                  4   5          6                            7
+                                                                                  <NA>    <NA> NaN       <NA>      (Rupees '000) NaN       <NA>                         <NA>
+                                                 Balance as at 1 July 2024  43,009,284 836,000 NaN 19,300,000 2,118,000  920,000 NaN 15,147,066 1,169,165,868  1,250,496,218
+                                            Total comprehensive income for the quarter    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                             Profit for the quarter  -       - NaN          -                - - NaN          -       41,019,911  41,019,911
+                                         Other comprehensive (loss) for the quarter  -       - NaN          -                - - NaN  (114,310)                  - (114,310)
+                                  Total comprehensive (loss) income for the quarter  -       - NaN          -                - - NaN  (114,310)       41,019,911  40,905,601
+                                                 Transfer to self insurance reserve  -       - NaN    362,754                - - NaN          -                 (362,754)  -
+                                                   Charge to self insurance reserve  -       - NaN      (254)                - - NaN          -                       254  -
+                                               Transactions with owners of the Company    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                                         Distributions    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                       Total distributions to owners of the Company  -       - NaN          -                - - NaN          -                          - -
+                                           Balance as at 30 September 2024  43,009,284 836,000 NaN 19,662,500 2,118,000  920,000 NaN 15,032,756 1,209,823,279  1,291,401,819
+                                                 Balance as at 1 July 2025  43,009,284 836,000 NaN 20,750,000          - 920,000 NaN 11,403,396 1,271,319,016  1,348,237,696
+                                            Total comprehensive income for the quarter    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                             Profit for the quarter  -       - NaN          -                - - NaN          -        38,304,846 38,304,846
+                                         Other comprehensive (loss) for the quarter  -       - NaN          -                - - NaN  (589,679)                  - (589,679)
+                                  Total comprehensive (loss) income for the quarter  -       - NaN          -                - - NaN  (589,679)                         <NA>
+                                                 Transfer to self insurance reserve  -       - NaN    363,097                - - NaN          -                 (363,097)  -
+                                                   Charge to self insurance reserve  -       - NaN      (597)                - - NaN          -                       597  -
+                                               Transactions with owners of the Company    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                                         Distributions    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                       Total distributions to owners of the Company  -       - NaN          -                - - NaN          -                          - -
+                                           Balance as at 30 September 2025  43,009,284 836,000 NaN 21,112,500          - 920,000 NaN 10,813,717  1,309,261,362 1,385,952,863
+The annexed notes 1 to 27 form an integral part of these interim financial statements.    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                               Chief Financial Officer    <NA> NaN       <NA>    Chief Executive NaN       <NA>                     Director
+
+
+================================================================================
+TABLE 8
+================================================================================
+Shape: 56 rows × 4 columns
+
+                                                                   0    1            2            3
+                                              Profit before taxation  NaN   61,982,220   83,117,778
+                                                    Adjustments for:  NaN         <NA>         <NA>
+                                                        Depreciation  NaN    2,942,126    2,257,165
+                   Amortization of development and production assets 10.0    4,416,749    3,889,331
+                           Delayed payments surcharge from customers 18.0            -  (5,943,653)
+                  Unwinding of loss on modification in terms of TFCs  NaN  (3,627,968)  (3,511,365)
+                                                             Royalty  NaN   10,598,216   13,150,861
+                                  Workers' profit participation fund  NaN    3,262,222    4,374,620
+                            Provision for deferred employee benefits  NaN    2,357,024    2,084,856
+         Unwinding of discount on provision for decommissioning cost  5.0    1,134,943    1,611,280
+                    Interest income on investments and bank deposits 18.0  (4,588,304) (11,405,604)
+                                            Interest income on lease 18.0  (4,564,085)  (5,047,616)
+                                        Unwinding of lease liability  NaN       82,967            -
+Un-realized gain on investments at fair value through profit or loss 18.0    (159,364)     (21,793)
+                                              Exchange loss on lease  NaN      877,623      250,480
+  Exchange loss on foreign currency investments and deposit accounts  NaN    1,118,755      440,015
+                   Gain on disposal of property, plant and equipment 18.0     (29,837)      (3,971)
+                      Share of profit in associates -net of taxation  NaN  (3,172,841)  (3,246,937)
+                                        Stores inventory written off  NaN      178,762       20,174
+                  Cost of dry and abandoned wells during the quarter  NaN      100,123      562,675
+                                   Reversal of trade debts provision  NaN         <NA>            -
+                                                                <NA>  NaN   72,895,745   82,578,296
+                                                         Changes in:  NaN         <NA>         <NA>
+                                 Stores, spare parts and loose tools  NaN      267,929       22,677
+                                                      Stock in trade  NaN     (12,360)      310,157
+                                                         Trade debts  NaN      896,720   27,039,645
+                                 Deposits and short term prepayments  NaN    (410,518)  (1,496,775)
+                             Loan and advances and other receivables  NaN      365,437    (750,961)
+                                            Trade and other payables  NaN    (969,127)  (8,531,477)
+                                      Cash generated from operations  NaN   73,033,826   99,171,562
+                                                        Royalty paid  NaN (14,530,086) (15,055,000)
+                                     Deferred employee benefits paid  NaN  (2,447,236) (10,894,144)
+                                               Long term prepayments  NaN       78,955       49,893
+                                           Decommissioning cost paid  5.0     (48,708)            -
+                   Payment to workers' profit participation fund-net  NaN (15,000,000) (15,462,479)
+                                                   Income taxes paid 15.0 (37,374,534) (47,663,249)
+                                                                <NA>  NaN (69,321,609) (89,024,979)
+                        Net cash generated from operating activities  NaN    3,712,217   10,146,583
+                                Cash flows from investing activities  NaN         <NA>         <NA>
+                                                 Capital expenditure  NaN (29,211,537)  (9,812,464)
+                                                   Interest received  NaN   13,707,092   21,404,691
+                                             Lease payments received 13.0    7,534,150    2,621,222
+                                                  Dividends received  NaN    5,167,279    3,545,394
+                        Terrm Finance Certificates interest received  NaN   23,176,369            -
+                                          Investment in Mutual Funds  NaN (41,500,000)            -
+                                            Investment in associates  NaN  (6,030,107)  (1,649,333)
+             Proceeds from disposal of property, plant and equipment  NaN       42,385        4,562
+             Net cash (used in)/ generated from investing activities  NaN (27,114,369)   16,114,072
+                                Cash flows from financing activities  NaN         <NA>         <NA>
+                                                      Dividends paid  NaN     (41,716) (20,000,253)
+                                                 Lease payments made  6.0    (312,471)            -
+                               Net cash used in financing activities  NaN    (354,187) (20,000,253)
+               Net (decrease)/ increase in cash and cash equivalents  NaN (23,756,339)    6,260,402
+               Cash and cash equivalents at beginning of the quarter  NaN  204,923,032  258,613,241
+   Effect of movements in exchange rate on cash and cash equivalents  NaN  (1,118,755)    (440,015)
+                     Cash and cash equivalents at end of the quarter 22.0  180,047,938  264,433,628
+
+
+================================================================================
+TABLE 9
+================================================================================
+Shape: 8 rows × 4 columns
+
+                                                     0   1          2          3
+                                       Capital reserve 4.1    836,000    836,000
+                                Self insurance reserve 4.2 21,112,500 20,750,000
+                     Self insurance reserve- associate 4.3    920,000    920,000
+                                       Other reserves: 4.4 22,868,500 22,506,000
+                  Foreign currency translation reserve NaN  1,918,431  2,093,734
+Foreign currency translation reserve- associates (net) 4.5  88,95,286  9,309,662
+                                                  <NA> NaN 10,813,717 11,403,396
+                                                  <NA> NaN 33,682,217 33,909,396
+
+
+================================================================================
+TABLE 10
+================================================================================
+Shape: 13 rows × 4 columns
+
+  0                                                                                                                         1          2          3
+NaN                                                                                                       Other reserves: 4.4 22,868,500 22,506,000
+NaN                                                                                      Foreign currency translation reserve  1,918,431  2,093,734
+NaN                                                                Foreign currency translation reserve- associates (net) 4.5  88,95,286  9,309,662
+NaN                                                                                                                      <NA> 10,813,717 11,403,396
+NaN                                                                                                                      <NA> 33,682,217 33,909,396
+4.1               This represents bonus shares issued by former wholly owned subsidiary- Pirkoh Gas Company (Private) Limited       <NA>       <NA>
+NaN                      (PGCL) prior to merger. Accordingly, this reserve is not available for distribution to shareholders.       <NA>       <NA>
+4.2     The Company has set aside a specific capital reserve for self insurance of rigs, buildings, wells, plants, pipelines,       <NA>       <NA>
+NaN       workmen compensation, inventory, terrorism, vehicle repair and losses for petroleum products in transit. Refer note       <NA>       <NA>
+NaN    16.1 for investment against this reserve. Accordingly, this reserve is not available for distribution to shareholders.       <NA>       <NA>
+4.3 This represents a specific capital reserve set aside by an associate for self insurance of its assets which have not been       <NA>       <NA>
+NaN                                                insured, for uninsured risks and for deductibles against insurance claims.       <NA>       <NA>
+4.4           This represents accumulated balance of translation effect of a foreign operation in Rupees as per the Company's       <NA>       <NA>
+
+
+================================================================================
+TABLE 11
+================================================================================
+Shape: 21 rows × 2 columns
+
+    0                                                                                                                         1
+8.2.1      Commitments outstanding at end of the quarter amounted to Rs 78,431 million (30 June 2025: Rs 81,413 million). These
+ <NA>       include amounts aggregating to Rs 41,862 million (30 June 2025: Rs 42,210 million) representing the Company's share
+ <NA>               in the minimum work commitments under Petroleum Concession Agreements (PCAs). The Company and its associate
+ <NA>                              has given corporate guarantees to GoP under various PCAs for the performance of obligations.
+8.2.2 Letters of credit issued by various banks on behalf of the Company in ordinary course of the business, outstanding at end
+ <NA>                                           of the quarter amounted to Rs 40,047 million (30 June 2025: Rs 49,957 million).
+8.2.3        The Company's share of associate commitments as per latest available financial statements of the associates are as
+ <NA>                                                                                                                  follows:
+ <NA>                                                                                                         Unaudited Audited
+ <NA>                                                                                                      30 September 30 June
+ <NA>                                                                                                                 2025 2025
+ <NA>                                                                                                             (Rupees '000)
+ <NA>                                                                Commitment for capital expenditure  32,385,203  32,385,203
+ <NA>                                             Outstanding minimum work commitments under various PCAs  4,868,520  4,868,520
+8.2.4       As part of the Shareholders Agreement with the consortium partners in PIOL, associate, the Company has committed to
+ <NA>  invest upto US$ 100 million in PIOL during the next five years from 31 August 2021, out of which US$ 85 million has been
+ <NA>          invested till 30 September 2025 (30 June 2025: US$ 85 million). The remaining amount of US$ 15 million; Rs 4,224
+ <NA>     million (30 June 2025: US$ 15 million; Rs 4,262 million) will be invested in subsequent years. The Company's share of
+ <NA>        associate commitment in this respect amounts to US$ 3 million; Rs 845 million (30 June 2025: US$ 3 million; Rs 852
+ <NA>                                                                                                                 million).
+8.2.5   With respect to PMPL (note 12.4), the Company had earlier entered into a Joint Venture Agreement with the stakeholders,
+
+
+================================================================================
+TABLE 12
+================================================================================
+Shape: 46 rows × 5 columns
+
+   0                                                                           1   2           3            4
+ NaN                           Carrying amount at beginning of the quarter/ year NaN  97,861,516   86,837,819
+ NaN                          Additions/adjustments during the quarter/ year 9.1 NaN  17,087,183   23,602,381
+ NaN                                                     Book value of disposals NaN    (12,548)     (51,276)
+ NaN                                   Depreciation charge for the quarter/ year NaN (3,182,727) (11,568,974)
+ NaN       Revision in estimate of decommissioning cost during the quarter/ year NaN           -    (958,434)
+ NaN                             Carrying amount at end of the quarter/ year 9.2 NaN 111,753,424   97,861,516
+ 9.1                              Additions/adjustments during the quarter/ year NaN        <NA>         <NA>
+ NaN                                                               Freehold land NaN      67,454            -
+ NaN                               Buildings, offices and roads on freehold land NaN       3,154      244,668
+ NaN                              Buildings, offices and roads on leasehold land NaN      70,560      685,192
+ NaN                                                         Plant and machinery NaN   1,411,189   10,556,041
+ NaN                                                                        Rigs NaN     121,061      112,055
+ NaN                                                                   Pipelines NaN     127,314      294,832
+ NaN                                               Office and domestic equipment NaN     142,569      207,270
+ NaN                                         Office and technical data computers NaN      61,578      272,843
+ NaN                                                       Furniture and fixture NaN          51        2,420
+ NaN                                                                    Vehicles NaN     151,127      931,154
+ NaN                                                       Right of use of Asset NaN           -    3,468,690
+ NaN                                                        Decommissioning cost NaN           -      881,617
+ NaN                                     Capital work in progress (net movement) NaN  14,439,543    3,918,979
+ NaN                          Stores held for capital expenditure (net movement) NaN     491,583    2,026,620
+ NaN                                                                        <NA> NaN  17,087,183   23,602,381
+ 9.2                                    Property, plant and equipment comprises: NaN        <NA>         <NA>
+ NaN                                                      Operating fixed assets NaN  78,687,207   79,726,425
+ NaN                                                    Capital work in progress NaN  24,574,023   10,134,480
+ NaN                                         Stores held for capital expenditure NaN   8,492,194    8,000,611
+ NaN                                                                        <NA> NaN 111,753,424   97,861,516
+10.0                                           DEVELOPMENT AND PRODUCTION ASSETS NaN        <NA>         <NA>
+ NaN                           Carrying amount at beginning of the quarter/ year NaN 139,011,750  120,435,679
+ NaN                                          Additions during the quarter/ year NaN   3,805,892   10,444,594
+ NaN Transferred from exploration and evaluation assets during the quarter/ year NaN   1,241,940   24,470,927
+ NaN        Stores held for development and production activities (net movement) NaN   1,523,433   10,237,513
+ NaN                                   Amortization charge for the quarter/ year NaN (4,416,749) (23,058,571)
+ NaN      Revision in estimates of decommissioning cost during the quarter/ year NaN           -  (3,518,392)
+ NaN                                 Carrying amount at end of the quarter/ year NaN 141,166,266  139,011,750
+11.0                                           EXPLORATION AND EVALUATION ASSETS NaN        <NA>         <NA>
+ NaN                                   Balance at beginning of the quarter/ year NaN  23,674,238   18,552,999
+ NaN                                          Additions during the quarter/ year NaN   7,999,617   33,825,293
+ NaN                                                                        <NA> NaN  31,673,855   52,378,292
+ NaN                    Cost of dry and abandoned wells during the quarter/ year NaN   (100,123)  (4,233,127)
+ NaN                     Cost of wells transferred to development and production NaN        <NA>         <NA>
+ NaN                                             assets during the quarter/ year NaN (1,241,940) (24,470,927)
+ NaN                                                                        <NA> NaN (1,342,063) (28,704,054)
+ NaN                                                                        <NA> NaN  30,331,792   23,674,238
+ NaN                       Stores held for exploration and evaluation activities NaN   4,777,173    5,265,580
+ NaN                                         Balance at end of the quarter/ year NaN  35,108,965   28,939,818
+
+
+================================================================================
+TABLE 13
+================================================================================
+Shape: 13 rows × 4 columns
+
+                                                       0    1            2            3
+      OGDC Renewable Energy (Private) Limited (formerly, 12.1          100          100
+Pakistan Energy Development (Private) Limited), unquoted  NaN         <NA>         <NA>
+                               Investment in associates:  NaN         <NA>         <NA>
+ Mari Energies Limited (formerly, Mari Petroleum Company  NaN         <NA>         <NA>
+                                        Limited), quoted 12.2   52,626,669   54,525,502
+            Pakistan International Oil Limited, unquoted 12.3   19,739,738   19,929,016
+           Pakistan Minerals (Private) Limited, unquoted 12.4   68,719,716   63,185,617
+                           Investments at amortized cost 12.5   21,361,203   20,701,527
+                        Pakistan Investment Bonds (PIBs) 12.6   64,556,388   84,104,789
+                        Term Finance Certificates (TFCs)  NaN   85,917,591  104,806,316
+        Less: Current portion shown under current assets  NaN (65,631,946) (84,520,671)
+                                                    <NA>  NaN   20,285,645   20,285,645
+                                                    <NA>  NaN  161,371,868  157,925,880
+
+
+================================================================================
+TABLE 14
+================================================================================
+Shape: 33 rows × 4 columns
+
+   0                                                                                                                          1            2            3
+ NaN                                                                                         Investments at amortized cost 12.5   21,361,203   20,701,527
+ NaN                                                                                      Pakistan Investment Bonds (PIBs) 12.6   64,556,388   84,104,789
+ NaN                                                                                           Term Finance Certificates (TFCs)   85,917,591  104,806,316
+ NaN                                                                           Less: Current portion shown under current assets (65,631,946) (84,520,671)
+ NaN                                                                                                                       <NA>   20,285,645   20,285,645
+ NaN                                                                                                                       <NA>  161,371,868  157,925,880
+12.1        During the year ended 30 June 2024, the Company incorporated a wholly owned subsidiary in Pakistan, Pakistan Energy         <NA>         <NA>
+ NaN       Development (Private) Limited (PEDL), under the Companies Act, 2017. During the year ended 30 June 2025, the name of         <NA>         <NA>
+ NaN     the PEDL has been changed to OGDC Renewable Energy (Private) Limited (OREL). The principal line of business of OREL is         <NA>         <NA>
+ NaN           to engage in exploration, exploitation and development of renewable energy resources in Pakistan and has not yet         <NA>         <NA>
+ NaN               commenced commercial operations. The total subscribed capital of OREL is Rs 100 thousand divided into 10,000         <NA>         <NA>
+ NaN                                                                        ordinary shares of Rs 10 each, paid by the Company.         <NA>         <NA>
+12.2    Mari Energies Limited (formerly, Mari Petroleum Company Limited) (MEL) is a listed company incorporated in Pakistan and         <NA>         <NA>
+ NaN       is principally engaged in exploration, production and sale of hydrocarbons in Pakistan. The Company has 20% (30 June         <NA>         <NA>
+ NaN       2025: 20%) holding in the associate. The market value of the investment in associate as at quarter end is Rs 177,942         <NA>         <NA>
+ NaN                                                                                million (30 June 2025: Rs 150,532 million).         <NA>         <NA>
+ NaN           During the year ended 30 June 2025, MEL has issued 213,444,000 bonus shares to the Company in the ratio of eight         <NA>         <NA>
+ NaN    shares for every one share held after collection of tax under the Income Tax Ordinance, 2001 from the Company amounting         <NA>         <NA>
+ NaN  to Rs 9,498 million, equal to ten- percent of the market value of the bonus shares to be issued to the Company, which was         <NA>         <NA>
+ NaN         charged as taxation expense during the quarter ended 30 September 2024. As the quarter end, 2,001,042 bonus shares         <NA>         <NA>
+ NaN            (30 June 2025: 2,001,042 bonus shares) have been withheld by MEL due to pending resolution of issue relating to         <NA>         <NA>
+ NaN                                                                               withholding tax on issuance of bonus shares.         <NA>         <NA>
+12.3 Pakistan International Oil Limited (PIOL) is a company engaged in the business of extraction of oil and natural gas and is         <NA>         <NA>
+ NaN    registered as a limited liability company in the Emirate of Abu Dhabi and incorporated in Abu Dhabi Global Market. Each         <NA>         <NA>
+ NaN                     consortium company (investors) which includes OGDCL, MEL, Pakistan Petroleum Company Limited (PPL) and         <NA>         <NA>
+ NaN        Government Holdings (Private) Limited (GHPL) have a 25% equity stake in PIOL. The concession agreement between PIOL         <NA>         <NA>
+ NaN            and Abu Dhabi National Oil Company (ADNOC) was signed on 31 August 2021 and the Offshore Block 5 was awarded to         <NA>         <NA>
+ NaN    PIOL. Till 30 September 2025, the Company has subscribed 8.5 million ordinary shares of PIOL (30 June 2025: 8.5 million         <NA>         <NA>
+ NaN            ordinary shares) by paying USD 85 million; Rs 20,426 million (30 June 2025: USD 85 million; Rs 20,426 million).         <NA>         <NA>
+ NaN          On 11 June 2025, the Supreme Council for financial and Economic Affairs (SCFEA) awarded the Production Concession         <NA>         <NA>
+ NaN             Agreement to ADNOC and PIOL in respect of Offshore Block 5 with PIOL holding 40% participating interest in the         <NA>         <NA>
+ NaN                                                                                                                concession.         <NA>         <NA>
+12.4             The Company has invested in the project company, i.e. Reko Diq Mining Company (Private) Limited (RDMC) through         <NA>         <NA>
+
+
+================================================================================
+TABLE 15
+================================================================================
+Shape: 11 rows × 3 columns
+
+                      0            1            2
+              Crude oil   45,277,057   51,278,105
+                    Gas   52,172,589   56,782,433
+Liquefied petroleum gas   10,396,121   11,213,224
+                Sulphur            -       64,546
+                   <NA>  107,845,767  119,338,308
+      Government levies         <NA>         <NA>
+      General sales tax (10,926,687) (12,554,566)
+         Petroleum Levy    (270,526)    (265,351)
+            Excise duty    (456,586)    (507,396)
+                   <NA> (11,653,799) (13,327,313)
+                   <NA>   96,191,968  106,010,995
+
+
+================================================================================
+TABLE 16
+================================================================================
+Shape: 18 rows × 4 columns
+
+                                 0   1             2             3
+                     Share capital NaN    43,009,284    43,009,284
+                          Reserves 4.0    33,682,217    33,909,396
+             Unappropriated profit NaN 1,309,260,262 1,271,317,916
+                              <NA> NaN 1,385,951,763 1,348,236,596
+           NON CURRENT LIABILITIES NaN          <NA>          <NA>
+                 Deferred taxation NaN    77,004,275    75,920,108
+        Deferred employee benefits NaN    42,552,626    41,519,272
+Provision for decommissioning cost 5.0    62,781,526    61,594,813
+         Long term lease liability 6.0     1,752,546     2,056,059
+                              <NA> NaN   18,4090,973   181,090,252
+               CURRENT LIABILITIES NaN          <NA>          <NA>
+        Short term lease liability 6.0     1,031,130       983,551
+          Trade and other payables 7.0   106,374,471   12,3761,613
+                   Unpaid dividend NaN       290,857       331,720
+                Unclaimed dividend NaN       201,385       202,238
+                              <NA> NaN   107,897,843   125,279,122
+                 TOTAL LIABILITIES NaN   291,988,816   306,369,374
+                              <NA> NaN 1,677,940,579 1,654,605,970
+
+
+================================================================================
+TABLE 17
+================================================================================
+Shape: 26 rows × 4 columns
+
+                                       0    1             2             3
+           Property, plant and equipment  9.0   111,753,424    97,861,516
+       Development and production assets 10.0   141,166,266   139,011,750
+       Exploration and evaluation assets 11.0    35,108,965    28,939,818
+                                    <NA>  NaN   288,028,655   265,813,084
+                   Long term investments  NaN          <NA>          <NA>
+Investments in subsidiary and associates  NaN   141,086,123   137,640,135
+           Investments at amortized cost  NaN    20,285,645    20,285,645
+                                    <NA> 12.0   161,371,768   157,925,780
+                 Long term loans-secured  NaN    10,741,816    11,263,991
+        Long term advances & Prepayments  NaN     3,942,046     4,021,001
+                       Lease receivables 13.0    87,230,264    92,198,179
+                                    <NA>  NaN   551,314,549   531,222,035
+                          CURRENT ASSETS  NaN          <NA>          <NA>
+     Stores, spare parts and loose tools  NaN    29,246,677    29,693,368
+                          Stock in trade  NaN       955,298       942,938
+                             Trade debts 14.0   612,777,849   613,660,983
+                      Loans and advances  NaN    22,556,408    22,284,662
+     Deposits and short term prepayments  NaN     2,992,921     2,582,403
+                       Other receivables  NaN     1,337,179     1,452,187
+                     Income tax- advance 15.0   128,807,923   114,026,596
+Current portion of long term investments  NaN    65,631,946    84,520,671
+    Current portion of lease receivables  NaN    40,011,655    48,696,323
+                  Other financial assets 16.0   209,794,663   152,710,231
+                  Cash and bank balances  NaN    12,513,511    52,813,573
+                                    <NA>  NaN 1,126,626,030 1,123,383,935
+                                    <NA>  NaN 1,677,940,579 1,654,605,970
+
+
+================================================================================
+TABLE 18
+================================================================================
+Shape: 16 rows × 3 columns
+
+                                                     0            1            2
+                                        Sales - net 17   96,191,968  106,010,995
+                                               Royalty (10,598,216) (13,150,861)
+                                    Operating expenses (28,803,456) (26,265,083)
+                                Transportation charges    (505,386)    (779,371)
+                                                  <NA> (39,907,040) (40,195,315)
+                                          Gross profit   56,284,928   65,815,680
+                           Finance and other income 18   12,184,695   25,726,888
+               Exploration and prospecting expenditure  (3,081,840)  (3,852,538)
+                   General and administration expenses  (2,094,701)  (1,830,597)
+                                          Finance cost  (1,221,481)  (1,613,972)
+                    Workers' profit participation fund  (3,262,222)  (4,374,620)
+        Share of profit in associates- net of taxation    3,172,841    3,246,937
+                                 Profit beforeTaxation   61,982,220   83,117,778
+                                           Taxation 19 (23,677,374) (42,097,867)
+                                Profit for the quarter   38,304,846   41,019,911
+9.54 Earnings per share- basic and diluted (Rupees) 20         8.91         <NA>
+
+
+================================================================================
+TABLE 19
+================================================================================
+Shape: 10 rows × 4 columns
+
+                                                                 0    1          2          3
+                                            Profit for the quarter  NaN 38,304,846 41,019,911
+                                       Other comprehensive income:  NaN       <NA>       <NA>
+             Items that will not be reclassified to profit or loss  NaN          -          -
+   Items that will be subsequently reclassified to profit or loss:  NaN       <NA>       <NA>
+       Effects of translation of investment in a foreign associate 12.2  (175,303)   (26,321)
+Share of effect of translation of investment in foreign associated  NaN  (141,376)   (87,989)
+                       company of the associatenn -net of taxation  NaN       <NA>       <NA>
+                                                              <NA>  NaN  (589,679)  (114,310)
+                        Other comprehensive (loss) for the quarter  NaN  (589,679)  (114,310)
+                        Total comprehensive income for the quarter  NaN 37,715,167 40,905,601
+
+
+================================================================================
+TABLE 20
+================================================================================
+Shape: 25 rows × 8 columns
+
+                                                                                                  0       1   2          3                  4   5          6                            7
+                                                                                               <NA>    <NA> NaN       <NA>      (Rupees '000) NaN       <NA>                         <NA>
+                                                              Balance as at 1 July 2024  43,009,284 836,000 NaN 19,300,000 2,118,000  920,000 NaN 15,147,066 1,169,165,868  1,250,496,218
+                                                         Total comprehensive income for the quarter    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                                          Profit for the quarter  -       - NaN          -                - - NaN          -       41,019,911  41,019,911
+                                                      Other comprehensive (loss) for the quarter  -       - NaN          -                - - NaN  (114,310)                  - (114,310)
+                                               Total comprehensive (loss) income for the quarter  -       - NaN          -                - - NaN  (114,310)       41,019,911  40,905,601
+                                                              Transfer to self insurance reserve  -       - NaN    362,754                - - NaN          -                 (362,754)  -
+                                                                Charge to self insurance reserve  -       - NaN      (254)                - - NaN          -                       254  -
+                                                              Transactions with owners of the Group    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                                                      Distributions    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                    Total distributions to owners of the Company  -       - NaN          -                - - NaN          -                          - -
+                                                        Balance as at 30 September 2024  43,009,284 836,000 NaN 19,662,500 2,118,000  920,000 NaN 15,032,756 1,209,823,279  1,291,401,819
+                                                              Balance as at 1 July 2025  43,009,284 836,000 NaN 20,750,000          - 920,000 NaN 11,403,396 1,271,317,916  1,348,236,596
+                                                         Total comprehensive income for the quarter    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                                          Profit for the quarter  -       - NaN          -                - - NaN          -        38,304,846 38,304,846
+                                                      Other comprehensive (loss) for the quarter  -       - NaN          -                - - NaN  (589,679)                  - (589,679)
+                                               Total comprehensive (loss) income for the quarter  -       - NaN          -                - - NaN  (589,679)        38,304,846 37,715,167
+                                                              Transfer to self insurance reserve  -       - NaN    363,097                - - NaN          -                 (363,097)  -
+                                                                Charge to self insurance reserve  -       - NaN      (597)                - - NaN          -                       597  -
+                                                              Transactions with owners of the Group    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                                                      Distributions    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                    Total distributions to owners of the Company  -       - NaN          -                - - NaN          -                          - -
+                                                        Balance as at 30 September 2025  43,009,284 836,000 NaN 21,112,500          - 920,000 NaN 10,813,717  1,309,260,262 1,385,951,763
+The annexed notes 1 to 27 form an integral part of these interim consolidated financial statements.    <NA> NaN       <NA>               <NA> NaN       <NA>                         <NA>
+                                                                            Chief Financial Officer    <NA> NaN       <NA>    Chief Executive NaN       <NA>                     Director
+
+
+================================================================================
+TABLE 21
+================================================================================
+Shape: 56 rows × 4 columns
+
+                                                                   0    1            2            3
+                                              Profit before Taxation  NaN   61,892,220   83,117,778
+                                                    Adjustments for:  NaN         <NA>         <NA>
+                                                        Depreciation  NaN    29,421,26    2,257,165
+                   Amortization of development and production assets 10.0    4,416,749    3,889,331
+                           Delayed payments surcharge from customers 18.0         <NA>  (5,943,653)
+                  Unwinding of loss on modification in terms of TFCs  NaN  (3,627,968)  (3,511,365)
+                                                             Royalty  NaN   10,598,216   13,150,861
+                                  Workers' profit participation fund  NaN    3,262,222    4,374,620
+                                     Provision for employee benefits  NaN    2,357,024    2,084,856
+         Unwinding of discount on provision for decommissioning cost  5.0    1,134,943    1,611,280
+                    Interest income on investments and bank deposits 18.0  (4,588,304) (11,405,604)
+                                            Interest income on lease 18.0  (4,564,085)  (5,047,616)
+                                        Unwinding of lease liability  NaN       82,967            -
+Un-realized gain on investments at fair value through profit or loss 18.0    (159,364)     (21,793)
+                                                   Exchange on lease  NaN      877,623      250,480
+   Exchange loss on foreign currency investment and deposit accounts  NaN    1,118,755      440,015
+                   Gain on disposal of property, plant and equipment 18.0     (29,837)      (3,971)
+                Share of profit (net) in associates- net of taxation  NaN  (3,172,841)  (3,246,937)
+                                        Stores inventory written off  NaN      178,762       20,174
+                  Cost of dry and abandoned wells during the quarter  NaN      100,123      562,675
+                                   Reversal of trade debts provision  NaN     (13,586)            -
+                                                                <NA>  NaN   72,895,745   82,578,296
+                                                         Changes in:  NaN         <NA>         <NA>
+                                 Stores, spare parts and loose tools  NaN      267,929       22,677
+                                                      Stock in trade  NaN     (12,360)      310,157
+                                                         Trade debts  NaN      896,720   27,039,645
+                                 Deposits and short term prepayments  NaN    (410,518)  (1,496,775)
+                             Loan and advances and other receivables  NaN      365,437    (750,961)
+                                            Trade and other payables  NaN    (969,027)  (8,531,477)
+                                      Cash generated from operations  NaN   73,033,926   99,171,562
+                                                        Royalty paid  NaN (14,530,086) (15,055,000)
+                                     Deferred Employee benefits paid  NaN (2,447,236,) (10,894,144)
+                                               Long term prepayments  NaN       78,955       49,893
+                                           Decommissioning cost paid  5.0     (48,708)            -
+                   Payment to workers' profit participation fund-net  NaN (15,000,000) (15,462,479)
+                                                   Income taxes paid 15.0 (37,374,534) (47,663,249)
+                                                                <NA>  NaN (69,321,609) (47,663,249)
+                        Net cash generated from operating activities  NaN    3,712,217   10,146,583
+                                Cash flows from investing activities  NaN         <NA>         <NA>
+                                                 Capital expenditure  NaN (29,211,537)  (9,812,464)
+                                                   Interest received  NaN   13,707,092   21,404,691
+                                             Lease payments received 13.0    7,534,150    2,621,222
+                                                  Dividends received  NaN    5,167,279    3,545,394
+                         Term Finance Certificates interest received  NaN   23,176,369            -
+                                          Investment in Mutual Funds  NaN   41,500,000            -
+                                            Investment in associates  NaN  (6,030,107)  (1,649,333)
+             Proceeds from disposal of property, plant and equipment  NaN       42,385        4,562
+             Net cash (used in)/ generated from investing activities  NaN (27,114,369)   16,114,072
+                                Cash flows from financing activities  NaN         <NA>         <NA>
+                                                      Dividends paid  NaN       41,716 (20,000,253)
+                                                 Lease payments made  6.0    (312,471)            -
+                               Net cash used in financing activities  NaN    (354,187) (20,000,253)
+               Net (decrease)/ increase in cash and cash equivalents  NaN (23,756,239)    6,260,402
+               Cash and cash equivalents at beginning of the quarter  NaN  204,923,032  258,613,241
+   Effect of movements in exchange rate on cash and cash equivalents  NaN   (1,118759)    (440,015)
+                     Cash and cash equivalents at end of the quarter 22.0  180,047,938  264,433,628
+
+
+================================================================================
+TABLE 22
+================================================================================
+Shape: 9 rows × 4 columns
+
+                                                     0   1          2          3
+                                       Capital reserve 4.1    836,000    836,000
+                                Self insurance reserve 4.2 21,112,500 20,750,000
+           Self insurance reserve - associated company 4.3    920,000    920,000
+                                                  <NA> NaN 22,868,500 22,506,000
+                                       Other reserves: NaN       <NA>       <NA>
+                  Foreign currency translation reserve 4.4  1,918,431  2,093,734
+Foreign currency translation reserve- associates (Net) 4.5  8,895,286  9,309,662
+                                                  <NA> NaN 10,813,717 11,403,396
+                                                  <NA> NaN 33,682,217 33,909,396
+
+
+================================================================================
+TABLE 23
+================================================================================
+Shape: 30 rows × 5 columns
+
+  0                                                                1      2           3           4
+NaN                                                  Lease liability   <NA>   2,783,676   3,039,610
+NaN                  Less: Current portion of net liability in lease   <NA> (1,031,130)   (983,551)
+NaN                                                             <NA>   <NA>   1,752,546   2,056,059
+NaN                        Balance at beginning of the quarter/ year   <NA>   3,039,610           -
+NaN                               Additions during the quarter/ year   <NA>           -   3,468,690
+NaN                                   Unwinding of lease liabilities   <NA>      82,967      95,663
+NaN                           Payments made during the quarter/ year   <NA>   (312,471)   (565,295)
+NaN                                            Exchange (gain)/ loss   <NA>    (26,430)    (40,552)
+NaN                              Balance at the end of quarter/ year   <NA>   2,783,676   3,039,610
+NaN Less: current portion of long term lease liabilities shown under   <NA>        <NA>        <NA>
+NaN                                              current liabilities   <NA> (1,031,130)   (983,551)
+NaN                                                             <NA>   <NA>   1,752,546   2,056,059
+7.0                                         TRADE AND OTHER PAYABLES   <NA>        <NA>        <NA>
+NaN                                                        Creditors   <NA>   1,581,710   1,215,105
+NaN                                              Accrued liabilities   <NA>  16,177,217  20,663,274
+NaN                          Payable to partners of joint operations   <NA>   8,008,831  1,060,5676
+NaN                                          Retention money payable   <NA>  12,544,635   7,431,297
+NaN                    Royalty payable to the Government of Pakistan   <NA>   7,846,856  11,778,726
+NaN                                              Excise duty payable   <NA>     154,876     101,030
+NaN                                        General sales tax payable   <NA>           -   1,585,703
+NaN                                           Petroleum levy payable   <NA>     130,989     171,418
+NaN                                          Withholding tax payable   <NA>   2,682,148     500,908
+NaN                                         Trade and other deposits   <NA>   3,666,896   3,765,588
+NaN                               Workers' profit participation fund   <NA>   2,963,004  14,700,782
+NaN                                         Employees' pension trust   <NA>  21,050,235  19,816,723
+NaN                                                    Gratuity fund   <NA>     925,254     739,295
+NaN        Liability for staff compensated absences -current portion   <NA>   3,449,588   5,617,526
+NaN                               Advances from customers- unsecured   <NA>   2,598,783   2,552,944
+NaN                                                   Other payables 7  . 1  22,593,449  22,515,618
+NaN                                                             <NA>   <NA> 106,374,471 123,761,613
+
+
+================================================================================
+TABLE 24
+================================================================================
+Shape: 11 rows × 3 columns
+
+    0                                                                                                                     1                     2
+ <NA>                                                                                                                  <NA>             2025 2025
+ <NA>                                                                                                                  <NA>         (Rupees '000)
+ <NA>                                                                                    Commitment for capital expenditure 32,385,203 32,385,203
+ <NA>                                                               Outstanding minimum work commitments under various PCAs   4,868,520 4,868,520
+8.2.4     As part of the Shareholders Agreement with the consortium partners in PIOL, associate, the Group has committed to                  <NA>
+ <NA>   invest upto US$ 100 million in PIOL during the next five years from 31 August 2021, out of which US$ 85 million has                  <NA>
+ <NA>       been invested till 30 September 2025 (30 June 2025: US$ 85 million). The remaining amount of US$ 15 million; Rs                  <NA>
+ <NA>      4,224 million (30 June 2025: US$ 15 million; Rs 4,262 million) will be invested in subsequent years. The Group's                  <NA>
+ <NA>  share of associate commitment in this respect amounts to US$ 3 million; Rs 845 million (30 June 2025: US$ 3 million;                  <NA>
+ <NA>                                                                                                      Rs 852 million).                  <NA>
+8.2.5 With respect to PMPL (note 12.3), the Group had earlier entered into a Joint Venture Agreement with the stakeholders,                  <NA>
+
+
+================================================================================
+TABLE 25
+================================================================================
+Shape: 10 rows × 3 columns
+
+                                                                    0           1            2
+                            Balance at beginning of the quarter/ year  23,674,238   18,552,999
+                                   Additions during the quarter/ year   7,999,617   33,825,293
+                                                                 <NA>  31,673,855   52,378,292
+             Cost of dry and abandoned wells during the quarter/ year   (100,123)  (4,233,127)
+Cost of wells transferred to development and production assets during        <NA>         <NA>
+                                                    the quarter/ year (1,241,940) (24,470,927)
+                                                                 <NA> (1,342,063) (28,704,054)
+                                                                 <NA>  30,331,792   23,674,238
+                Stores held for exploration and evaluation activities   4,777,173    5,265,580
+                                  Balance at end of the quarter/ year  35,108,965   28,939,818
+
+
+================================================================================
+TABLE 26
+================================================================================
+Shape: 11 rows × 4 columns
+
+                                                       0    1            2            3
+Mari Energies Limited, (Formerly, Mari Petroleum Company  NaN         <NA>         <NA>
+                                         Limited),quoted 12.1   52,626,669   54,525,502
+            Pakistan International Oil Limited, unquoted 12.2   19,739,738   19,929,016
+           Pakistan Minerals (Private) Limited, unquoted 12.3   68,719,716   63,185,617
+                           Investments at amortized cost  NaN         <NA>         <NA>
+                        Pakistan Investment Bonds (PIBs) 12.4   21,361,203   20,701,527
+                        Term Finance Certificates (TFCs) 12.5   64,556,388   84,104,789
+                                                    <NA>  NaN   85,917,591  104,806,316
+        Less: Current portion shown under current assets  NaN (65,631,946) (84,520,671)
+                                                    <NA>  NaN   20,285,645   20,285,645
+                                                    <NA>  NaN  161,371,768  157,925,780
+
+
+================================================================================
+TABLE 27
+================================================================================
+Shape: 10 rows × 2 columns
+
+                                 0                        1
+                              <NA>        Unaudited Audited
+                              <NA>     30 September 30 June
+                              <NA>                2025 2025
+                              <NA>            (Rupees '000)
+                       TRADE DEBTS                     <NA>
+       Un-secured- considered good 612,777,849  613,660,983
+   Un-secured- considered doubtful            64,941 78,527
+                              <NA>  612,842,790 613,739,510
+Provision for doubtful trade debts       (64,941)  (78,527)
+                              <NA> 612,777,849  613,660,983
+
+
+================================================================================
+TABLE 28
+================================================================================
+Shape: 11 rows × 3 columns
+
+                      0            1            2
+              Crude oil   45,277,057   51,278,105
+                    Gas   52,172,589   56,782,433
+Liquefied petroleum gas   10,396,121   11,213,224
+                Sulphur            -       64,546
+                   <NA>  107,845,767  119,338,308
+      Government levies         <NA>         <NA>
+      General sales tax (10,926,687) (12,554,566)
+         Petroleum Levy    (270,526)    (265,351)
+            Excise duty    (456,586)    (507,396)
+                   <NA> (11,653,799) (13,327,313)
+                   <NA>   96,191,968  106,010,995
+
+
+================================================================================
+FINANCIAL STATEMENTS IDENTIFIED
+================================================================================
+
+• Statement Of Financial Position
+  - Page: 29
+  - Consolidated: True
+  - Header: consolidated statement of financial position
+
+• Statement Of Profit Or Loss
+  - Page: 35
+  - Consolidated: True
+  - Header: consolidated statement of profit 
+or loss
+
+• Statement Of Cash Flows
+  - Page: 35
+  - Consolidated: True
+  - Header: consolidated 
+statement of cash flows
+

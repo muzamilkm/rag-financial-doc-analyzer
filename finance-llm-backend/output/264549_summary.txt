@@ -1,0 +1,17 @@
+================================================================================
+PROCESSING SUMMARY: 264549.pdf
+================================================================================
+
+Total Pages: 56
+Pages with Text: 55
+Tables Extracted: 28
+Table Format: dataframe
+
+Financial Statements: 3
+  • Statement Of Financial Position (Page 29, Consolidated: True)
+  • Statement Of Profit Or Loss (Page 35, Consolidated: True)
+  • Statement Of Cash Flows (Page 35, Consolidated: True)
+
+Segment Information: 0
+
+Table Markers Removed from Text: 4

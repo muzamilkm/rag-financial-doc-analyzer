@@ -1,0 +1,18 @@
+================================================================================
+PROCESSING SUMMARY: 264237.pdf
+================================================================================
+
+Total Pages: 50
+Pages with Text: 48
+Tables Extracted: 54
+Table Format: dataframe
+
+Financial Statements: 3
+  • Statement Of Financial Position (Page 3, Consolidated: False)
+  • Statement Of Profit Or Loss (Page 41, Consolidated: True)
+  • Statement Of Cash Flows (Page 3, Consolidated: False)
+
+Segment Information: 3
+  • Page 6: business segment
+  • Page 45: segment information
+  • Page 45: segment information

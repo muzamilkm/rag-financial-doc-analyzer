@@ -1,0 +1,4202 @@
+================================================================================
+NARRATIVE TEXT: 264549.pdf
+For LLM Processing (Tables Removed)
+================================================================================
+
+
+================================================================================
+PAGE 2
+================================================================================
+
+Corporate Information
+Directors' Interim Review
+CONDENSED INTERIM FINANCIAL STATEMENTS [Unaudited]
+Statement of Financial Position
+Statement of Profit or Loss
+Statement of Comprehensive Income
+Statement of Changes in Equity
+Statement of Cash Flows
+Notes to the Interim Financial Statements
+CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS [Unaudited]
+Consolidated Statement of Financial Position
+Consolidated Statement of Profit or Loss
+Consolidated Statement of Comprehensive Income
+Consolidated Statement of Changes in Equity
+Consolidated Statement of Cash Flows
+Notes to the Interim Consolidated Financial Statements
+Directors' Interim Review ( )
+
+
+================================================================================
+PAGE 3
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Corporate Information
+Board of Directors
+Chief Financial Officer
+Company Secretary
+Auditor
+M/s A.F. Ferguson & Co., Chartered Accountants
+Legal Advisor
+M/s Khokhar Law Chambers
+Tax Advisor
+M/s A.F. Ferguson & Co., Chartered Accountants
+Registered Office/Head Office
+OGDCL House, Plot No 3, F-6/G-6, Blue Area,
+Jinnah Avenue, Islamabad.
+Website: www.ogdcl.com
+Email: info@ogdcl.com
+Registrar Office
+CDC-Share Registrar Services Limited,
+CDC House, 99-B, Block-B, S.M.C.H.S.,
+Main Shahrah-e-Faisal, Karachi-74400.
+Website: www.cdcsrsl.com
+Email: info@cdcsrsl.com
+Chairman
+Director
+Director
+Director
+Director
+Director
+Director
+Director
+MD/CEO/Director
+Mr. Muhammad Anas Farook
+Mr. Zafar Masud
+Mr. Momin Agha
+Mr. Shakeel Qadir Khan
+Mr. Zafar Abbas
+Mr. Imdad Ullah Bosal
+Mr. Muhammad Riaz Khan
+Mrs. Shamama Tul Amber Arbab
+Mr. Jahanzaib Durrani
+Mr. Ahmed Hayat Lak
+Mr. Wasim Ahmad
+
+
+================================================================================
+PAGE 4
+================================================================================
+
+Directors’ Interim Review
+
+ly Report 2025-26
+The Board of Directors of Oil & Gas Development Company Limited (OGDCL) is pleased to present a concise review of
+the Company's operational and financial performance accompanied with unaudited condensed interim financial
+information for the quarter ended 30 September 2025.
+Against the backdrop of lower crude oil prices coupled with forced production curtailment by SNGPL and UPL due to
+system load constraints, OGDCL demonstrated remarkable resilience during the period under review, consistently
+delivering value to its shareholders. The Company contributed significantly to the national exchequer, remitting Rs 64
+billion in the form of corporate tax, dividend, royalty, and government levies. Additionally, Company's oil and gas
+production also rendered foreign exchange savings of US$ 703 million as import substitution. On the operational
+front, Company's production optimization initiatives yielded an incremental cumulative daily increase of 2,470 barrels
+of crude oil, 5 MMcf of natural gas, and 5 tons of LPG. OGDCL's core product mix accounted for approximately 51%,
+28%, and 33% towards Country's total crude oil, natural gas, and LPG production, respectively.
+Exploration and Development Activities
+As the market leader in Pakistan's E&P sector, OGDCL holds the largest exploration acreage, which as of 30
+September 2025 was 92,308 sq. km, representing 38% of the Country's total area under exploration (source: PPIS).
+Currently, Company's exploration portfolio comprises 51, 100%-owned and operated JV exploration licenses.
+Additionally, Company also possesses working interest in 13 exploration blocks operated by other E&P companies.
+During the reporting period, seismic activities were affected by security constraints resulting in restricted operations
+at Kotra East block and non-commencement of operations at Bettani block. Despite the security concerns, OGDCL
+acquired 233 Line km of 2D (1Q 2024-25: 91 Line km) and 110 sq. km of 3D seismic data (1Q 2024-25: 131 sq. km).
+The acquired seismic data represents 64% and 52% of total 2D and 3D seismic data acquisition in the Country
+respectively (source: PPIS). Moreover, the Company using in-house resources processed/reprocessed 236 Line km
+of 2D and 1,590 sq. km of 3D seismic data.
+On the drilling front, OGDCL continued its activities on 10 wells spud-in fourth quarter of the fiscal year 2024-25.
+During the period under review, total drilling recorded was 20,801 meters (1Q 2024-25: 10,678 meters).
+Discoveries
+During the period under review, OGDCL's sustained efforts to assess and unlock the hydrocarbon potential in its
+exploratory blocks yielded 2 gas condensate discoveries viz., Chakar-1 in district Tando Allah Yar and Bitrism East-1 in
+district Khairpur, Sindh (1Q 2024-25: 2 discoveries). The expected combined daily crude oil and gas production
+potential of these discoveries is 965 barrels and 23 MMcf, whereas 2P reserves are 1.65 MMSTB and 39.34 bcf
+respectively combined 9.24 MMBOE.
+Development Projects
+OGDCL carried on with its efforts for fast-track completion of ongoing development projects, current status of
+ongoing development projects is tabulated below:
+
+
+================================================================================
+PAGE 5
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Production
+OGDCL's average daily net saleable crude oil, gas, and LPG production clocked in at 31,315 barrels, 641 MMcf, and
+630 tons in comparison to 31,768 barrels, 699 MMcf and 618 Tons in the comparative period. The less gas offtake
+from operated fields; Qadirpur, Dakhni, Nashpa, Chanda, Dhok Hussain, Bettani, and Togh and non-operated fields;
+TAL, Waziristan and Adhi owing to SNGPL system constraints and by UPL from Uch field due to less demand from
+power purchaser adversely impacted daily net production by 2,723 barrels of crude oil, 141 MMcf of gas, and 69 tons
+of LPG. Average daily net saleable production of crude oil, gas and LPG in the absence of forced curtailment would
+have clocked in at 34,038 barrels, 783 MMcf, and 698 tons respectively.
+The Company's production capability was augmented by injection of 4 wells in the production gathering system viz.,
+Aradin-1, Soghri North-1, Jhal Magsi South-1 & 2, which cumulatively yielded gross crude oil and gas production of
+4,248 barrels and 599 MMcf respectively. OGDCL with an aim to maintain and increase production successfully
+installed electrical submersible pumps at Rajian-5 and Pasakhi-11, which led to incremental crude oil production of
+3,170 barrels per day. The Company in an effort to arrest natural decline and sustain production, carried out 24 workover jobs, comprising 4 with rig and 20 rig-less.
+Shale Gas and Tight Gas Activities
+In an effort to determine shale gas potential, KUC-1 (horizontal) drilling is planned through a third party on turnkey
+basis. In this regard, consultancy services have been hired for designing specifications of LLIs required for drilling and
+hydraulic frac of KUC-1 (horizontal). The contract for a regional third-party study to identify and validate tight gas
+potential in 80 wells has been awarded to Schlumberger in November 2024. Moreover, Dhamach-1, Gajawah-1 and
+Katiar-1 wells have been shortlisted for re-entry and frac-jobs to fast-track monetization of tight gas potential. At
+Dhamach-1, hydraulic frac jobs have been successfully executed and the well is now in testing phase. The execution
+planning for Gajawah-1 is currently underway, with operations expected to begin in the second quarter of the current
+fiscal year.
+Business Diversification:
+In pursuit of enhanced profitability and risk mitigation, OGDCL is focused on the following business diversification
+initiatives:
+Reko Diq Mining Project
+OGDCL, in 2022, entered into definitive agreements with the Federal Government, Government of Balochistan,
+GHPL, PPL and Barrick Gold Corporation for extraction of gold and copper reserves from Reko Diq. The SOEs;
+Products
+Crude oil
+Barrels per day
+Gas
+MMcf per day
+Unit of
+Measurement
+LPG
+Tons per day
+1Q
+2025-26
+1Q
+2024-25
+31,768
+
+31,315
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+OGDCL, PPL and GHPL hold 25% of equity in the project, divided equally among these companies. Barrick Gold
+Corporation holds 50% of equity in the project along with management and operatorship rights, while remaining
+25% of equity pertains to the Government of Balochistan. A special purpose vehicle namely Pakistan Minerals
+(Private) Limited (PMPL) is managing the equity shareholding of the SOEs.
+The project feasibility study was completed in January 2025 and subsequently approved by the OGDCL Board. The
+Reko Diq Mining Company (RDMC) Board also granted its approval. On 18 August 2025, the Board of Directors
+approved the Company's pro-rata funding commitment, including project financing costs amounting to USD 715
+million. This funding commitment was further endorsed by the shareholders in an EOGM held on 10 September
+2025. Financing for the project is in its final stages. Early site development activities have already commenced, and
+first production is targeted for the fiscal year 2028-29.
+Abu Dhabi Offshore Block-5
+At Offshore Block-5, exploration and appraisal activities are underway, whereby drilling of 4 wells is planned,
+comprising 2 appraisal wells, 1 shallow well and 1 deep exploration well. Moreover, work on prospectivity
+evaluation study and integrated reservoir studies of Mandous and Al-Khair fields is in progress. The first production
+is expected in the second half of 2028 leading to saving of foreign exchange in the future.
+Participation in Libya Bid Round 25
+In March 2025, Libya launched Bid Round 25, offering a total of 22 exploration blocks comprising 11 onshore and
+11 offshore areas. OGDCL has successfully qualified as an eligible investor and is actively advancing its
+participation in the bidding process. Technically shortlisted blocks have been identified, and data acquisition and
+evaluation activities are currently underway. The bid submission date for participation in the bidding round is
+February 2026.
+Initiatives toward ESG
+In demonstration of commitment to robust environmental, social, and governance practices, OGDCL is driving
+sustainable value for stakeholders by embedding ESG principles across its exploration and production operations.
+Beyond business continuity, the Company is committed to protecting the environment and empowering communities.
+Aligned with the UN SDGs, OGDCL's ESG strategy goes beyond risk mitigation, targeting reduction in methane
+emissions and energy efficiency improvements, sustainable growth, and a more inclusive society.
+The Board ESG Committee is tasked with overseeing sustainability relevant risks, guiding the development of
+sustainability and climate related strategies, and tracking performance against emerging targets. It is pertinent to
+mention that OGDCL signed the Oil and Gas de-carbonization Charter at COP-28 in Abu Dhabi and is closely engaged
+with the secretariat for achieving its decarbonization goals. The Company issues its sustainability report on annual
+basis.
+Financial Results
+During the quarter ended 30 September 2025, OGDCL registered Sales Revenue of Rs 96.192 billion (1Q 2024-25: Rs
+106.011 billion). The Company's Sales declined primarily due to forced production curtailment amounting Rs 16.707
+billion accompanied with reduction in average basket price of crude oil, which led to lower realized price of US$
+57.61/barrel (1Q 2024-25: US$ 64.31/barrel). Whereas, increase in average realized price of gas to Rs 718.38/Mcf
+(1Q 2024-25: Rs 706.30/Mcf) combined with appreciation of US Dollar against Pak Rupee to Rs 282.96/US$ (1Q
+2024-25: Rs 278.79/US$) lent partial relief to business revenue.
+In addition to the above, OGDCL's financials were impacted by increase in the operating expenses on account of
+salaries, wages and benefits, depreciation, and amortization. Moreover, decline in finance and other income due to
+reduction in interest income on investments and bank deposits, nil delayed payments surcharge from customers, and
+exchange loss contributed toward lower profitability. While lower taxation in comparison to the corresponding period,
+wherein Rs 12.8 billion is attributable to tax payment on bonus shares issued by Mari Energies Ltd, positively
+influenced the financial performance. Nonetheless, Profit after tax was Rs 38.305 billion (1Q 2024-25: Rs 41.020
+ly Report 2025-26
+
+
+================================================================================
+PAGE 7
+================================================================================
+
+Oil & Gas Development Company Limited
+
+billion) translating into an EPS of Rs 8.91 (1Q 2024-25: Rs 9.54). It is pertinent to mention that increase in gas tariffs
+led to higher rate of collection of gas receivables i.e. 129%. Overall, receivables build-up trend reversed as receivables
+collection rate improved reaching 109% during the period.
+Dividend
+The Board has announced first interim cash dividend of Rs 3.50 per share (35%) for the year ending 30 June 2026.
+Acknowledgment
+OGDCL's Board of Directors acknowledges the continued support extended by all the stakeholders which has always
+been instrumental in the pursuit of achieving organizational goals and objectives. The Board also wishes to place on
+record efforts put in by the Company's employees while driving forward business operational and financial
+performance, safely and responsibly.
+On behalf of the Board
+(Zafar Masud)
+Chairman
+
+(Ahmed Hayat Lak)
+Managing Director/CEO
+29 October 2025
+
+
+================================================================================
+PAGE 8
+================================================================================
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 9
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Note
+SHARE CAPITAL AND RESERVES
+Share capital
+Reserves
+Unappropriated profit
+
+
+NON CURRENT LIABILITIES
+
+CONTINGENCIES AND COMMITMENTS
+
+30 June
+
+30 September
+
+CURRENT LIABILITIES
+
+Condensed Interim Statement of Financial Position [unaudited]
+The annexed notes 1 to 27 form an integral part of these interim financial statements.
+As at 30 September 2025
+TOTAL LIABILITIES
+Chief Financial Officer
+Chief Executive
+Director
+Deferred taxation
+Deferred employee benefits
+Provision for decommissioning cost
+Long term lease liability
+Short term lease liability
+Trade and other payables
+Unpaid dividend
+Unclaimed dividend
+43,009,284
+33,909,396
+1,271,319,016
+1,309,261,362
+1,348,237,696
+1,385,952,863
+75,920,108
+41,519,272
+61,594,813
+2,056,059
+181,090,252
+983,551
+123,760,613
+331,720
+202,238
+201,385
+125,278,122
+107,896,743
+306,368,374
+291,987,716
+1,654,606,070
+43,009,284
+33,682,217
+77,004,275
+42,552,626
+62,781,526
+1,752,546
+184,090,973
+1,031,130
+106,373,371
+290,857
+1,677,940,579
+
+
+================================================================================
+PAGE 10
+================================================================================
+
+Note
+
+30 June
+
+30 September
+
+Chief Financial Officer
+Chief Executive
+Director
+NON CURRENT ASSETS
+Property, plant and equipment
+Development and production assets
+Exploration and evaluation assets
+Long term investments
+Investments in subsidiary and associates
+Investments at amortized cost
+Long term loans- secured
+Long term advances and prepayments
+Lease receivables
+CURRENT ASSETS
+Stores, spare parts and loose tools
+Stock in trade
+Trade debts
+Loans and advances
+Deposits and short term prepayments
+Other receivables
+Income tax- advance
+Current portion of long term investments
+Current portion of lease receivables
+Other financial assets
+Cash and bank balances
+97,861,516
+139,011,750
+28,939,818
+265,813,084
+137,640,235
+20,285,645
+157,925,880
+11,263,991
+4,021,001
+92,198,179
+531,222,135
+
+29,693,368
+942,938
+613,660,983
+22,284,662
+2,582,403
+1,452,187
+114,026,596
+84,520,671
+48,696,323
+152,710,231
+52,813,573
+1,123,383,935
+1,654,606,070
+111,753,424
+141,166,266
+35,108,965
+288,028,655
+141,086,223
+20,285,645
+161,371,868
+10,741,816
+3,942,046
+87,230,264
+551,314,649
+29,246,677
+955,298
+612,777,849
+22,556,408
+2,992,921
+1,337,179
+128,807,923
+65,631,946
+40,011,655
+209,794,663
+12,513,411
+1,126,625,930
+1,677,940,579
+ly Report 2025-26
+
+
+================================================================================
+PAGE 11
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Condensed Interim Statement of Profit or Loss [unaudited]
+Sales - net
+Royalty
+Operating expenses
+Transportation charges
+Gross profit
+Exploration and prospecting expenditure
+General and administration expenses
+Finance cost
+Workers' profit participation fund
+Share of profit in associate - net of taxation
+Profit before taxation
+Taxation
+Earnings per share - basic and diluted (Rupees)
+Finance and other income
+Profit for the quarter
+
+The annexed notes 1 to 27 form an integral part of these interim financial statements.
+For the Quarter ended 30 September 2025
+
+(Rupees '000)
+Quarter ended 30 September
+Note
+Chief Financial Officer
+Chief Executive
+Director
+106,010,995
+(13,150,861)
+(26,265,083)
+(779,371)
+(505,368)
+(40,195,315)
+(39,907,040)
+56,284,928
+65,815,680
+25,726,888
+(3,852,538)
+(1,830,597)
+(1,613,972)
+(4,374,620)
+3,246,937
+83,117,778
+61,982,220
+(42,097,867)
+(23,677,374)
+41,019,911
+38,304,846
+9.54
+8.91
+96,191,968
+(10,598,216)
+(28,803,456)
+12,184,695
+(3,081,840)
+(2,094,701)
+(1,221,481)
+(3,262,222)
+3,172,841
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+Condensed Interim Statement of Comprehensive Income [unaudited]
+
+The annexed notes 1 to 27 form an integral part of these interim financial statements.
+
+(Rupees '000)
+Quarter ended 30 September
+For the Quarter ended 30 September 2025
+-
+Profit for the quarter
+-
+Chief Financial Officer
+Chief Executive
+Director
+Other comprehensive (loss)/ income
+Items that will not be reclassified to profit or loss:
+Items that will be subsequently reclassified to profit or loss:
+Effects of translation of investment in a foreign associate
+Share of effect of translation of investment in foreign associated company
+of the associates-net of taxation
+Other comprehensive (loss) for the quarter
+Total comprehensive income for the quarter
+41,019,911
+38,304,846
+(26,321)
+(87,989)
+(414,376)
+(114,310)
+(589,679)
+(114,310)
+40,905,601
+37,715,167
+(175,303)
+(589,679)
+Note
+12.3
+ly Report 2025-26
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Total
+equity
+Unappropriated
+profit
+Capital
+reserve
+(Rupees '000)
+Share of capital
+redemption reserve
+fund in associated
+company
+Share
+capital
+Self
+insurance
+reserve
+Share of self
+insurance reserve
+in associated
+company
+Reserves
+Capital reserves
+Other reserves
+Condensed Interim Statement of Changes in Equity [unaudited]
+The annexed notes 1 to 27 form an integral part of these interim financial statements.
+For the Quarter ended 30 September 2025
+Foreign translation
+currency reserve
+Chief Financial Officer
+Chief Executive
+Director
+Balance as at 1 July 2024
+Total comprehensive income for the quarter
+Profit for the quarter
+Other comprehensive (loss) for the quarter
+Total comprehensive (loss) income for the quarter
+Transfer to self insurance reserve
+Charge to self insurance reserve
+Transactions with owners of the Company
+Distributions
+Total distributions to owners of the Company
+Balance as at 30 September 2024
+Balance as at 1 July 2025
+Total comprehensive income for the quarter
+Profit for the quarter
+Other comprehensive (loss) for the quarter
+Total comprehensive (loss) income for the quarter
+Transfer to self insurance reserve
+Charge to self insurance reserve
+Transactions with owners of the Company
+Distributions
+Total distributions to owners of the Company
+Balance as at 30 September 2025
+1,250,496,218
+41,019,911
+(114,310)
+40,905,601
+-
+-
+-
+1,291,401,819
+1,348,237,696
+38,304,846
+(589,679)
+-
+-
+-
+1,385,952,863
+1,169,165,868
+41,019,911
+-
+41,019,911
+(362,754)
+-
+1,209,823,279
+1,271,319,016
+38,304,846
+-
+(363,097)
+-
+1,309,261,362
+15,147,066
+-
+(114,310)
+(114,310)
+-
+-
+-
+15,032,756
+11,403,396
+-
+(589,679)
+(589,679)
+-
+-
+-
+10,813,717
+920,000
+-
+-
+-
+-
+-
+-
+920,000
+920,000
+-
+-
+-
+-
+-
+-
+920,000
+2,118,000
+-
+-
+-
+-
+-
+-
+2,118,000
+-
+-
+-
+-
+-
+-
+-
+-
+19,300,000
+-
+-
+-
+362,754
+(254)
+-
+19,662,500
+20,750,000
+-
+-
+-
+363,097
+(597)
+-
+21,112,500
+836,000
+-
+-
+-
+-
+-
+-
+836,000
+836,000
+-
+-
+-
+-
+-
+-
+836,000
+43,009,284
+-
+-
+-
+-
+-
+-
+43,009,284
+43,009,284
+-
+-
+-
+-
+-
+-
+43,009,284
+
+
+================================================================================
+PAGE 14
+================================================================================
+
+Condensed Interim Statement of Cash Flows [unaudited]
+For the Quarter ended 30 September 2025
+
+(Rupees '000)
+Quarter ended 30 September
+The annexed notes 1 to 27 form an integral part of these interim financial statements.
+Note
+
+Chief Financial Officer
+Chief Executive
+Director
+83,117,778
+2,257,165
+3,889,331
+(5,943,653)
+(3,511,365)
+13,150,861
+4,374,620
+2,084,856
+1,611,280
+(11,405,604)
+(5,047,616)
+-
+(21,793)
+250,480
+440,015
+(3,971)
+(3,246,937)
+20,174
+562,675
+-
+82,578,296
+22,677
+310,157
+27,039,645
+(1,496,775)
+(750,961)
+(8,531,477)
+99,171,562
+(15,055,000)
+(10,894,144)
+49,893
+-
+(15,462,479)
+(47,663,249)
+(89,024,979)
+10,146,583
+(9,812,464)
+21,404,691
+2,621,222
+3,545,394
+-
+-
+(1,649,333)
+4,562
+16,114,072
+(20,000,253)
+-
+(20,000,253)
+6,260,402
+258,613,241
+(440,015)
+264,433,628
+61,982,220
+2,942,126
+4,416,749
+-
+(3,627,968)
+10,598,216
+3,262,222
+2,357,024
+1,134,943
+(4,588,304)
+(4,564,085)
+82,967
+(159,364)
+877,623
+1,118,755
+(29,837)
+(3,172,841)
+178,762
+100,123
+72,895,745
+267,929
+(12,360)
+896,720
+(410,518)
+365,437
+(969,127)
+73,033,826
+(14,530,086)
+(2,447,236)
+78,955
+(48,708)
+(15,000,000)
+(37,374,534)
+(69,321,609)
+3,712,217
+(29,211,537)
+13,707,092
+7,534,150
+5,167,279
+23,176,369
+(41,500,000)
+(6,030,107)
+42,385
+(27,114,369)
+(41,716)
+(312,471)
+(354,187)
+(23,756,339)
+204,923,032
+(1,118,755)
+180,047,938
+Profit before taxation
+Adjustments for:
+Depreciation
+Amortization of development and production assets
+Delayed payments surcharge from customers
+Unwinding of loss on modification in terms of TFCs
+Royalty
+Workers' profit participation fund
+Provision for deferred employee benefits
+Unwinding of discount on provision for decommissioning cost
+Interest income on investments and bank deposits
+Interest income on lease
+Unwinding of lease liability
+Un-realized gain on investments at fair value through profit or loss
+Exchange loss on lease
+Exchange loss on foreign currency investments and deposit accounts
+Gain on disposal of property, plant and equipment
+Share of profit in associates -net of taxation
+Stores inventory written off
+Cost of dry and abandoned wells during the quarter
+Reversal of trade debts provision
+Cash flows from operating activities
+Changes in:
+Stores, spare parts and loose tools
+Stock in trade
+Trade debts
+Deposits and short term prepayments
+Loan and advances and other receivables
+Trade and other payables
+Cash generated from operations
+Royalty paid
+Deferred employee benefits paid
+Long term prepayments
+Decommissioning cost paid
+Payment to workers' profit participation fund-net
+Income taxes paid
+Net cash generated from operating activities
+Cash flows from investing activities
+Capital expenditure
+Interest received
+Lease payments received
+Dividends received
+Terrm Finance Certificates interest received
+Investment in Mutual Funds
+Investment in associates
+Proceeds from disposal of property, plant and equipment
+Net cash (used in)/ generated from investing activities
+Cash flows from financing activities
+Dividends paid
+Lease payments made
+Net cash used in financing activities
+Net (decrease)/ increase in cash and cash equivalents
+Cash and cash equivalents at beginning of the quarter
+Effect of movements in exchange rate on cash and cash equivalents
+Cash and cash equivalents at end of the quarter
+ly Report 2025-26
+
+
+================================================================================
+PAGE 15
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+
+BASIS OF PREPARATION
+
+LEGAL STATUS AND OPERATIONS
+Oil and Gas Development Company Limited (OGDCL), 'the Company', was incorporated on 23 October 1997 under the Companies
+Ordinance, 1984 (now the Companies Act, 2017). The Company was established to undertake exploration and development of oil
+and gas resources, including production and sale of oil and gas and related activities formerly carried on by Oil and Gas Development
+Corporation, which was established in 1961. The registered office of the Company is located at OGDCL House, Plot No.3, F-6/G-6,
+Blue Area, Islamabad, Pakistan. The shares of the Company are quoted on Pakistan Stock Exchange Limited. The Global Depository
+Shares (1GDS = 10 ordinary shares of the Company) of the Company are listed on the London Stock Exchange.
+Government of Pakistan (GoP) holds 74.97% (30 June 2025: 74.97%) paid up capital of the Company. In 2022, the Honorable
+Supreme Court of Pakistan declared the Benazir Employees' Stock Option Scheme ultra vires. Accordingly, the shares currently held
+by OGDCL Employees' Empowerment Trust (OEET) 10.05% (30 June 2025: 10.05%) will be transferred back to the GoP and the GoP
+holding will be increased. During the year ended 30 June 2024, the Pakistan Sovereign Wealth Fund Act, 2023 became effective.
+Under the said Act, the GoP's shareholding in the Company including shares held by OEET stands transferred to the Pakistan
+Sovereign Wealth Fund (PSWF). Accordingly, the GoP is in the process of taking necessary actions required to record the transfer of
+the shares to PSWF.
+These condensed interim financial statements (here in after referred to as the interim financial statements) are the separate interim
+financial statements of the Company and have been prepared in accordance with the accounting and reporting standards as
+applicable in Pakistan for interim financial reporting. The accounting and reporting standards as applicable in Pakistan for interim
+financial reporting comprise of:
+
+
+
+
+
+
+
+
+
+-
+International Accounting Standard (IAS) 34, Interim Financial Reporting, issued by the International
+
+Accounting Standards Board (IASB) as notified under the Companies Act, 2017; and
+
+
+
+
+-
+Provisions of and directives issued under the Companies Act, 2017.
+
+
+
+
+Where provisions of and directives issued under the Companies Act, 2017 differ with the requirements of IAS 34, the provisions of
+and directives issued under the Companies Act, 2017 have been followed.
+
+
+The disclosures in these interim financial statements do not include those reported for full annual audited financial statements and
+should therefore be read in conjunction with the annual audited financial statements for the year ended 30 June 2025. Comparative
+statement of financial position is extracted from the annual audited financial statements as of 30 June 2025, whereas comparative
+statement of profit or loss, statement of comprehensive income, statement of changes in equity and statement of cash flows are
+stated from unaudited interim financial statements for the quarter ended 30 September 2024.
+These interim financial statements are unaudited and are being submitted to the members as required under Section 237 of
+Companies Act, 2017. These interim financial statements are the separate interim financial statements of the Company in which
+investment in subsidiary is accounted for at cost. Consolidated interim financial statements are prepared separately.
+
+ACCOUNTING POLICIES, ESTIMATES AND JUDGEMENTS
+The accounting policies, significant judgments made in the application of accounting policies, key sources of estimations, the
+methods of computation adopted in preparation of these interim financial statements and financial risk management policies are the
+same as those applied in preparation of annual audited financial statements for the year ended 30 June 2025. The management also
+believes that standards, amendments to published standards and interpretations that are effective for the Company from accounting
+periods beginning on or after 01 July 2025 do not have any significant effect on these interim financial statements or are not relevant to
+the Company.
+Furthermore, because of reasons as disclosed in note 2.1.2 to the annual audited financial statements for the year ended 30 June
+2025, the Securities and Exchange Commission of Pakistan (SECP) has notified that the requirements contained in IFRS 9 with
+respect to application of Expected Credit Loss (ECL) method shall not be applicable till the financial year ending on or before 31
+December 2025 in respect of companies holding financial assets due from the Government of Pakistan (GoP), including those that are
+directly due from GoP and that are ultimately due from GoP in consequence of the circular debt issue. Such companies shall follow
+relevant requirements of IAS 39 'Financial Instruments: Recognition and Measurement' in respect of above referred financial assets
+during the exemption period. The Company has requested SECP vide its letter dated 08 August 2025 that deferment/ exemption from
+application of ECL method under IFRS 9 in respect of financial assets due directly or ultimately from GoP may kindly be extended till
+such date the circular debt issue is resolved. The SECP vide letter dated 23 September 2025 has intimated that the application is in
+process.
+
+
+================================================================================
+PAGE 16
+================================================================================
+
+This represents bonus shares issued by former wholly owned subsidiary- Pirkoh Gas Company (Private) Limited
+(PGCL) prior to merger. Accordingly, this reserve is not available for distribution to shareholders.
+
+
+
+
+
+
+
+The Company has set aside a specific capital reserve for self insurance of rigs, buildings, wells, plants, pipelines,
+workmen compensation, inventory, terrorism, vehicle repair and losses for petroleum products in transit. Refer note
+16.1 for investment against this reserve. Accordingly, this reserve is not available for distribution to shareholders.
+
+
+
+
+
+This represents a specific capital reserve set aside by an associate for self insurance of its assets which have not been
+insured, for uninsured risks and for deductibles against insurance claims.
+
+
+
+
+
+
+
+This represents accumulated balance of translation effect of a foreign operation in Rupees as per the Company's
+accounting policy.
+
+This represents accumulated balance of a translation effect of foreign operations in Rupees of associates.
+4.1
+4.2
+4.3
+4.4
+4.5
+Note
+
+4.1
+4.2
+4.3
+4.4
+4.5
+RESERVES
+Capital reserve
+Self insurance reserve
+Capital reserves:
+
+30 September
+(Rupees '000)
+
+30 June
+
+Provision for Decommissioning Cost
+(Rupees '000)
+
+30 September
+
+30 June
+
+Balance at beginning of the quarter/ year
+Provision during the quarter/ year
+Decommissioning cost incurred during the quarter/ year
+Revision due to change in estimates
+Unwinding of discount on provision for decommissioning cost
+Balance at end of the quarter/ year
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+836,000
+21,112,500
+10,813,717
+33,682,217
+Self insurance reserve- associate
+Other reserves:
+Foreign currency translation reserve
+Foreign currency translation reserve- associates (net)
+836,000
+20,750,000
+920,000
+920,000
+22,506,000
+2,093,734
+1,918,431
+9,309,662
+88,95,286
+11,403,396
+33,909,396
+59,600,474
+1,722,273
+(143,416)
+61,179,331
+(5,255,809)
+5,671,291
+61,594,813
+61,594,813
+100,478
+(48,708)
+61,646,583
+-
+1,134,943
+62,781,526
+During the year ended 30 June 2025, the Company has recognized a lease liability and right of use asset of Early
+Production Facilities (facilities) under the Gas Processing Contract, executed by operator, Mari Energies Limited
+(MEL), a related party, for Waziristan block joint operation for a lease term of two years and considering the option to
+purchase the asset upon expiry of the lease term. The Company has recognized its share of the right-of-use asset
+under property, plant and equipment and lease liability towards operator has been recognized separately to the extent
+of the Company's share.
+
+
+
+
+
+LONG TERM LEASE LIABILITY
+22,868,500
+ly Report 2025-26
+
+
+================================================================================
+PAGE 17
+================================================================================
+
+TRADE AND OTHER PAYABLES
+
+Oil & Gas Development Company Limited
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+(Rupees '000)
+
+30 September
+
+30 June
+
+Lease liability
+Less: Current portion of net liability in lease
+3,039,610
+(983,551)
+2,056,059
+-
+3,468,690
+95,663
+(565,295)
+40,552
+3,039,610
+(983,551)
+2,056,059
+2,783,676
+(1,031,130)
+1,752,546
+Balance at beginning of the quarter/ year
+Additions during the quarter/ year
+Unwinding of lease liabilities
+Payments made during the quarter/ year
+Exchange (gain)/ loss
+Balance at the end of quarter/ year
+Less: current portion of long term lease liabilities shown under
+current liabilities
+3,039,610
+-
+82,967
+(312,471)
+(26,430)
+2,783,676
+(1,031,130)
+1,752,546
+Creditors
+Accrued liabilities
+Payable to partners of joint operations
+Retention money payable
+Royalty payable to the Government of Pakistan
+Excise duty payable
+General sales tax payable
+Petroleum levy payable
+Withholding tax payable
+Trade and other deposits
+Workers' profit participation fund
+Employees' pension trust
+Gratuity fund
+Liability for staff compensated absences -current portion
+Advances from customers- unsecured
+Other payables
+1,215,105
+20,662,174
+10,605,676
+7,431,297
+11,778,726
+101,030
+1,585,703
+171,418
+500,908
+3,765,588
+14,700,782
+19,816,723
+739,295
+5,617,526
+2,552,944
+22,515,718
+123,760,613
+1,581,710
+16,176,117
+8,008,831
+12,544,635
+7,846,856
+154,876
+-
+130,989
+2,682,148
+3,666,896
+2,963,004
+21,050,235
+925,254
+3,449,588
+2,598,783
+22,593,449
+106,373,371
+This includes an amount of Rs 21,891 million (30 June 2025: Rs 21,891 million) received from customers on account of
+additional revenue due to enhanced gas price incentive as explained in note 17.1.
+
+
+
+
+
+
+
+
+Gas Infrastructure Development Cess (GIDC) amounting to Rs 2,255 million (30 June 2025: Rs 2,255 million) is
+recoverable from customers and payable to the GoP. These interim financial statements do not reflect the said amount
+since under the provisions of the GIDC laws and regulations, the Company is required to pay the said amount as and when
+the same is collected from customers. The GIDC is presented as payable to the extent that it is received from customers
+but not deposited with the GoP. As at year end, no such amount was received which was not deposited with the GoP. On
+13 August 2020, the Supreme Court of Pakistan has decided the matter of GIDC by restraining from charging GIDC from
+01 August 2020 onward and ordered gas consumers to pay GIDC arrears due upto 31 July 2020 in instalments. The
+fertilizer companies have obtained stay against recovery from the Sindh High Court, where the matter is subjudice.
+7.1
+7.2
+Note
+7.1
+
+
+================================================================================
+PAGE 18
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+
+8.1
+8.1.1
+CONTINGENCIES AND COMMITMENTS
+Contingencies
+Commitments outstanding at end of the quarter amounted to Rs 78,431 million (30 June 2025: Rs 81,413 million). These
+include amounts aggregating to Rs 41,862 million (30 June 2025: Rs 42,210 million) representing the Company's share
+in the minimum work commitments under Petroleum Concession Agreements (PCAs). The Company and its associate
+has given corporate guarantees to GoP under various PCAs for the performance of obligations.
+
+Letters of credit issued by various banks on behalf of the Company in ordinary course of the business, outstanding at end
+of the quarter amounted to Rs 40,047 million (30 June 2025: Rs 49,957 million).
+The Company's share of associate commitments as per latest available financial statements of the associates are as
+follows:
+8.2.1
+There are no significant changes in the status of the contingencies as disclosed in the annual audited financial statements
+for the year ended 30 June 2025.
+8.2
+Commitments
+8.2.2
+8.2.3
+(Rupees '000)
+
+30 September
+
+30 June
+
+Commitment for capital expenditure
+Outstanding minimum work commitments under various PCAs
+32,385,203
+4,868,520
+32,385,203
+4,868,520
+As part of the Shareholders Agreement with the consortium partners in PIOL, associate, the Company has committed to
+invest upto US$ 100 million in PIOL during the next five years from 31 August 2021, out of which US$ 85 million has been
+invested till 30 September 2025 (30 June 2025: US$ 85 million). The remaining amount of US$ 15 million; Rs 4,224
+million (30 June 2025: US$ 15 million; Rs 4,262 million) will be invested in subsequent years. The Company's share of
+associate commitment in this respect amounts to US$ 3 million; Rs 845 million (30 June 2025: US$ 3 million; Rs 852
+million).
+
+
+
+
+With respect to PMPL (note 12.4), the Company had earlier entered into a Joint Venture Agreement with the stakeholders,
+under which the Company had committed to invest a total amount of up to USD 398 million, to be adjusted for inflation, for
+funding its proportionate share during Phase-I of the Reko Diq project. During the quarter, the shareholders of the
+Company has approved to increase the investment amount to USD 715 million to be adjusted for actual inflation and
+financing costs. However, after accounting for the expected project financing to be obtained by RDMC, the proportionate
+shareholder contributions by the Company will be reduced to USD 391 million to be adjusted for actual inflation and
+financing costs. In addition, the Company has committed to contribute, in the form of equity, up to USD 1 million per year
+towards its proportionate share in the administrative expenses of PMPL. Furthermore, the Company has provided a
+several corporate guarantee to fund the obligations of the Company under the Definitive Agreements.
+
+
+
+
+
+
+
+
+
+
+
+RDMC is in the final stages of concluding project financing arrangements for Phase 1 of the Reko Diq project, with
+financial close expected in 2025. During the quarter, as part of the financing terms, the SOEs have agreed to provide joint
+and several Completion Guarantees for their pro rata contributory share (which is equal to 27.7778%) of RDMC’s secured
+debt obligations. This guarantee will remain effective until the project achieves financial completion, i.e., the date when
+specific criteria are met to demonstrate the required level of commercial operations.
+Furthermore, the Company has also committed to enter into a Transfers Restriction Agreement required by the project
+lenders. This agreement mainly requires the SOEs, in aggregate, to maintain their existing shareholding percentage of 25%
+in RDMC until the project achieves financial completion. Post financial completion, the requirements are relaxed to
+maintain 10% shareholding in RDMC, until the project debt has been fully repaid.
+8.2.4
+8.2.5
+ly Report 2025-26
+
+
+================================================================================
+PAGE 19
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+9.1
+9.2
+
+Note
+(Rupees '000)
+
+30 June
+
+30 September
+9.1
+9.2
+PROPERTY, PLANT AND EQUIPMENT
+Carrying amount at beginning of the quarter/ year
+Additions/adjustments during the quarter/ year
+Book value of disposals
+Depreciation charge for the quarter/ year
+Revision in estimate of decommissioning cost during the quarter/ year
+Carrying amount at end of the quarter/ year
+Additions/adjustments during the quarter/ year
+Freehold land
+Buildings, offices and roads on freehold land
+Buildings, offices and roads on leasehold land
+Plant and machinery
+Rigs
+Pipelines
+Office and domestic equipment
+Office and technical data computers
+Furniture and fixture
+Vehicles
+Right of use of Asset
+Decommissioning cost
+Capital work in progress (net movement)
+Stores held for capital expenditure (net movement)
+Property, plant and equipment comprises:
+Operating fixed assets
+Capital work in progress
+Stores held for capital expenditure
+DEVELOPMENT AND PRODUCTION ASSETS
+Carrying amount at beginning of the quarter/ year
+Additions during the quarter/ year
+Transferred from exploration and evaluation assets during the quarter/ year
+Stores held for development and production activities (net movement)
+Amortization charge for the quarter/ year
+Revision in estimates of decommissioning cost during the quarter/ year
+Carrying amount at end of the quarter/ year
+EXPLORATION AND EVALUATION ASSETS
+Balance at beginning of the quarter/ year
+Additions during the quarter/ year
+Cost of dry and abandoned wells during the quarter/ year
+Cost of wells transferred to development and production
+assets during the quarter/ year
+Stores held for exploration and evaluation activities
+Balance at end of the quarter/ year
+86,837,819
+23,602,381
+(51,276)
+(11,568,974)
+(958,434)
+97,861,516
+-
+244,668
+685,192
+10,556,041
+112,055
+294,832
+207,270
+272,843
+2,420
+931,154
+3,468,690
+881,617
+3,918,979
+2,026,620
+23,602,381
+79,726,425
+10,134,480
+8,000,611
+97,861,516
+120,435,679
+10,444,594
+24,470,927
+10,237,513
+(23,058,571)
+(3,518,392)
+139,011,750
+18,552,999
+33,825,293
+52,378,292
+(4,233,127)
+
+(24,470,927)
+(28,704,054)
+23,674,238
+5,265,580
+28,939,818
+97,861,516
+17,087,183
+(12,548)
+(3,182,727)
+-
+111,753,424
+67,454
+3,154
+70,560
+1,411,189
+121,061
+127,314
+142,569
+61,578
+151,127
+-
+-
+14,439,543
+491,583
+17,087,183
+78,687,207
+24,574,023
+8,492,194
+111,753,424
+139,011,750
+3,805,892
+1,241,940
+1,523,433
+(4,416,749)
+-
+141,166,266
+23,674,238
+7,999,617
+31,673,855
+(100,123)
+
+(1,241,940)
+(1,342,063)
+30,331,792
+4,777,173
+35,108,965
+
+
+================================================================================
+PAGE 20
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+(Rupees '000)
+
+30 June
+
+30 September
+Note
+
+LONG TERM INVESTMENTS
+12.2
+12.1
+12.4
+12.3
+12.5
+12.6
+Investment in subsidiary:
+OGDC Renewable Energy (Private) Limited (formerly,
+Pakistan Energy Development (Private) Limited), unquoted
+Investment in associates:
+Mari Energies Limited (formerly, Mari Petroleum Company
+Limited), quoted
+Pakistan International Oil Limited, unquoted
+Pakistan Minerals (Private) Limited, unquoted
+Investments at amortized cost
+Pakistan Investment Bonds (PIBs)
+Term Finance Certificates (TFCs)
+Less: Current portion shown under current assets
+54,525,502
+19,929,016
+63,185,617
+20,701,527
+84,104,789
+104,806,316
+(84,520,671)
+20,285,645
+157,925,880
+
+52,626,669
+19,739,738
+68,719,716
+21,361,203
+64,556,388
+85,917,591
+(65,631,946)
+20,285,645
+161,371,868
+During the year ended 30 June 2024, the Company incorporated a wholly owned subsidiary in Pakistan, Pakistan Energy
+Development (Private) Limited (PEDL), under the Companies Act, 2017. During the year ended 30 June 2025, the name of
+the PEDL has been changed to OGDC Renewable Energy (Private) Limited (OREL). The principal line of business of OREL is
+to engage in exploration, exploitation and development of renewable energy resources in Pakistan and has not yet
+commenced commercial operations. The total subscribed capital of OREL is Rs 100 thousand divided into 10,000
+ordinary shares of Rs 10 each, paid by the Company.
+
+
+
+
+
+
+
+
+Mari Energies Limited (formerly, Mari Petroleum Company Limited) (MEL) is a listed company incorporated in Pakistan and
+is principally engaged in exploration, production and sale of hydrocarbons in Pakistan. The Company has 20% (30 June
+2025: 20%) holding in the associate. The market value of the investment in associate as at quarter end is Rs 177,942
+million (30 June 2025: Rs 150,532 million).
+
+
+
+During the year ended 30 June 2025, MEL has issued 213,444,000 bonus shares to the Company in the ratio of eight
+shares for every one share held after collection of tax under the Income Tax Ordinance, 2001 from the Company amounting
+to Rs 9,498 million, equal to ten- percent of the market value of the bonus shares to be issued to the Company, which was
+charged as taxation expense during the quarter ended 30 September 2024. As the quarter end, 2,001,042 bonus shares
+(30 June 2025: 2,001,042 bonus shares) have been withheld by MEL due to pending resolution of issue relating to
+withholding tax on issuance of bonus shares.
+
+
+
+
+
+
+Pakistan International Oil Limited (PIOL) is a company engaged in the business of extraction of oil and natural gas and is
+registered as a limited liability company in the Emirate of Abu Dhabi and incorporated in Abu Dhabi Global Market. Each
+consortium company (investors) which includes OGDCL, MEL, Pakistan Petroleum Company Limited (PPL) and
+Government Holdings (Private) Limited (GHPL) have a 25% equity stake in PIOL. The concession agreement between PIOL
+and Abu Dhabi National Oil Company (ADNOC) was signed on 31 August 2021 and the Offshore Block 5 was awarded to
+PIOL. Till 30 September 2025, the Company has subscribed 8.5 million ordinary shares of PIOL (30 June 2025: 8.5 million
+ordinary shares) by paying USD 85 million; Rs 20,426 million (30 June 2025: USD 85 million; Rs 20,426 million).
+On 11 June 2025, the Supreme Council for financial and Economic Affairs (SCFEA) awarded the Production Concession
+Agreement to ADNOC and PIOL in respect of Offshore Block 5 with PIOL holding 40% participating interest in the
+concession.
+The Company has invested in the project company, i.e. Reko Diq Mining Company (Private) Limited (RDMC) through
+Pakistan Minerals (Private) Limited (PMPL), an entity incorporated and operating in Pakistan with collective representation
+12.1
+12.2
+12.3
+12.4
+ly Report 2025-26
+
+
+================================================================================
+PAGE 21
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Notes to the Interim Financial Statements [unaudited]
+of the Company, PPL and GHPL, together called the State-Owned Enterprises (SOEs). RDMC is engaged in the mineral
+exploration activities in Pakistan. PMPL holds an indirect working interest of 25% (8.33% of each SOE) in the RDMC
+through offshore holding companies namely Reko Diq Holdings Limited and Reko Diq Investments Limited (hereinafter
+referred to as "Holdcos"). RDMC is incorporated in Pakistan and Holdcos are incorporated in Bailiwick of Jersey. The
+Company's equity interest in PMPL is 33.33% with an effective interest of 8.33% in RDMC. The SOEs have representation
+on the Boards of Holdcos and RDMC through PMPL.
+PMPL through resolution dated 14 May 2025 has increased the paid-up capital of the company by the issue of a further
+1,549,250,040 ordinary shares of face value of PKR 10 each at a subscription price of Rs 100 each, through rights issue
+by offering the shares to existing members of PMPL, in proportion to their existing shareholding. Accordingly, the
+Company has subscribed 516,416,680 ordinary shares of face value PKR 10 along with the premium. The total shares
+subscribed by the Company in PMPL now stands at 516,420,680.
+During the quarter, the Company has made further equity contribution amounting to Rs 6,032.775 million in PMPL.
+
+
+This represents PIBs received from Uch Power Private Limited against partial settlement of overdue trade receivables on 27
+June 2023 and 04 July 2023. Face value and fair value of the PIBs on the date of initial recognition amounted to Rs 21,866
+million (30 June 2025: Rs 21,866 million) and Rs 20,286 million (30 June 2025: Rs 20,286 million) respectively and are
+carried at floating interest rate of 11.97% per annum (30 June 2025: 11.97% per annum).
+
+This represents investment in privately placed TFCs amounting to Rs 82,000 million. In 2013, the Government of Pakistan
+(GoP), for partial resolution of circular debt issue prevailing in the energy sector, approved issuance of TFCs amounting to
+Rs 82,000 million by Power Holding Limited (PHL), which is a government owned entity and a related party. These TFCs
+were subscribed by the Company in order to settle its overdue receivables from oil refineries and gas companies.
+As per original terms of investor agreement between the Company and PHL, TFCs were for a period of seven (7) years
+including grace period of three (3) years carrying interest rate of KIBOR + 1%, payable semi-annually. The principal
+portion of these TFCs was to be paid in eight (8) equal instalments starting from 42nd month of date of transaction.
+National Bank of Pakistan executed the transaction on 10 September 2012 as Trustee. These TFCs are secured by
+Sovereign Guarantee of the GoP, covering the principal, mark-up, and/ or any other amount becoming due for payment in
+respect of investment in TFCs.
+During last year, an addendum to the agreement was signed with PHL on 26 June 2024 for the settlement of TFCs. As per
+the terms of the addendum, the overdue principal amount of Rs 82,000 million was received on 27 June 2024 and the
+interest accrued up to that date of Rs 92,718 million was to be received in twelve (12) equal monthly installments
+commencing from July 2025 and the unrecognized liquidated damages were waived off. There will be no interest on unpaid
+interest. Considering the significant modification of the terms of TFCs, the carrying amount of the existing financial asset of
+Rs 174,718 million was derecognized and a new financial asset of Rs 151,610 million was recognized resulting in a loss
+on modification in terms of TFCs of Rs 23,108 million in the financial statements for the year ended 30 June 2024. During
+the quarter, an effective interest income representing unwinding of discounted cash flows as per modified terms of TFCs
+amounting to Rs 3,628 million (30 June 2025: Rs 14,495 million) has been recognised in the profit or loss. During the
+quarter, an amount of Rs 23,176 million has been received from PHL in respect of the aforementioned interest.
+12.5
+For the Quarter ended 30 September 2025
+12.6
+
+Net investment in lease has been recognized on Gas Sale Agreements (GSAs) with power companies i.e. Uch Power
+(Private) Limited (UPL) and Uch-II Power (Private) Limited (Uch-II) as follows:
+LEASE RECEIVABLES
+Note
+(Rupees '000)
+
+30 June
+
+30 September
+13.1
+Net investment in lease
+Less: Current portion of net investment in lease
+140,894,502
+(48,696,323)
+92,198,179
+127,241,919
+(40,011,655)
+87,230,264
+
+
+================================================================================
+PAGE 22
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Current portion of net investment in lease includes amounts billed to customers of Rs 24,430 million (30 June 2025: Rs
+33,654 million) out of which Rs 20,945 million (30 June 2025: Rs 30,226 million) is overdue on account of intercorporate circular debt. As disclosed in note 3, SECP has deferred the applicability of ECL model till financial year ending
+on or before 31 December 2025 on debts due directly or ultimately from the GoP in consequence of the circular debt. The
+amount is considered to be fully recoverable as the GoP is committed, hence continuously pursuing for satisfactory
+settlement of inter-corporate circular debt issue. The Company has contractual right and is entitled to charge interest if
+lease payments are delayed beyond agreed payment terms, however, the same is recognized when received by the
+Company. During the year ended 30 June 2025, the Board of Directors of the Company has approved the waiver of
+unrecognised late payment surcharge as granted by Federal Cabinet on 19 March 2025, uptil 31 December 2024 to
+exepdite the settlement of circular debt balance.
+13.1
+TRADE DEBTS
+
+Un-secured- considered good
+Un-secured- considered doubtful
+Provision for doubtful trade debts
+(Rupees '000)
+
+30 June
+
+30 September
+613,660,983
+78,527
+613,739,510
+(78,527)
+613,660,983
+612,777,849
+64,941
+612,842,790
+(64,941)
+612,777,849
+Trade debts include overdue amount of Rs 550,839 million (30 June 2025: Rs 549,976 million) on account of intercorporate circular debt, receivable from oil refineries, gas companies and power producers out of which Rs 263,943
+million (30 June 2025: Rs 264,208 million) and Rs 237,012 million (30 June 2025: Rs 231,980 million) are overdue from
+related parties, Sui Northern Gas Pipeline Limited and Sui Southern Gas Company Limited respectively. The Government
+of Pakistan (GoP) is committed, hence continuously pursuing for satisfactory settlement of inter-corporate circular debt
+issue, however, the progress is slower than expected resulting in accumulation of Company's trade debts. The Company
+considers this amount to be fully recoverable because the Government of Pakistan has been assuming the responsibility
+to settle the inter-corporate circular debt in the energy sector. The Company recognizes interest/ surcharge, if any, on
+delayed payments from customers when the interest/ surcharge on delayed payments is received by the Company, also
+refer note 13.1 related to waiver of late payment surcharge from UPL and Uch-II. As disclosed in note 3, SECP has
+deferred the applicability of ECL model till financial year ending on or before 31 December 2025 on financial assets due
+directly or ultimately from the GoP in consequence of the circular debt.
+
+14.1
+
+INCOME TAX-ADVANCE
+Income tax- advance at beginning of the quarter/ year
+Income tax paid during the quarter/ year
+Provision for current taxation- profit or loss
+Income tax- advance at end of the quarter/ year
+Note
+(Rupees '000)
+
+30 June
+
+30 September
+
+-
+Tax credit/ (charge) related to remeasurement loss/ (gain) on
+employee retirement benefit plans-other comprehensive income
+54,019,658
+154,678,576
+(106,995,830)
+12,324,192
+114,026,596
+114,026,596
+37,374,534
+(22,593,207)
+128,807,923
+
+OTHER FINANCIAL ASSETS
+16.1
+16.2
+Investment in Term Deposit Receipts (TDRs)-at amortized cost
+Investment at fair value through profit or loss- Mutual funds
+Investment at fair value through profit or loss- NIT units
+152,109,459
+-
+600,772
+152,710,231
+167,534,527
+41,500,000
+760,136
+209,794,663
+ly Report 2025-26
+
+
+================================================================================
+PAGE 23
+================================================================================
+
+In respect of six of its operated concessions, namely, Gurgalot, Sinjhoro, Bitrisim, Khewari, Nim and TAY Blocks and one
+non-operated Tal Block, Petroleum Concession Agreements (PCAs) were executed under the framework of Petroleum
+Policies 1994 and 1997. Later on, in pursuance to the option available under Petroleum Policy (PP) 2012, the Tal Block
+working interest owners wherein the Company’s working interest is 27.7632% signed the Supplemental Agreement (SA)
+dated 28 August 2015 with the GoP for conversion of eligible existing and future discoveries under Tal PCA to the PP 2012.
+Further, for aforementioned operated Concessions, the Company also signed the SAs for conversion to PP 2012. Under
+the said arrangement, price regimes prevailing in PP 2007, PP 2009 and PP 2012 in terms of PP 2012 shall be applicable,
+correlated with the spud dates of the wells in the respective policies starting from 27 November 2007. The conversion
+package as defined in the SAs included windfall levy on natural gas only.
+Oil and Gas Regulatory Authority (OGRA) has been notifying the revised wellhead prices in accordance with the relevant
+Supplemental Agreements for the period from the commencement of production of the respective discoveries.
+Accordingly, the financial impacts of the price revision were duly accounted for in the financial statements for the years
+ended 30 June 2016, 30 June 2017 and 30 June 2018 on completion of the process laid down in the law and in line with
+the Company’s accounting policy.
+On 27 December 2017, the Ministry of Energy (Petroleum Division) (MoE) notified amendments in PP 2012 after approval
+from the Council of Common Interests (CCI) dated 24 November 2017. These amendments include imposition of Windfall
+Levy on Oil/Condensate (WLO). Under the said Notification, the Supplemental Agreements already executed for
+conversion from Petroleum policies of 1994 and 1997 shall be amended within 90 days, failing which the working interest
+owners will not remain eligible for gas price incentive. On 03 January 2018, the Directorate General Petroleum
+Concessions (DGPC) has required all exploration and production companies to submit supplemental agreements to
+incorporate the aforementioned amendments in PCAs signed under 1994 and 1997 policies, for execution within the
+stipulated time as specified above.
+17.1
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Oil & Gas Development Company Limited
+
+This includes foreign currency TDRs amounting to USD 470.136 million; Rs 132,155 million (30 June 2025: USD
+473.625 million; Rs 134,320 million), and accrued interest amounting to USD 7.181 million; Rs 2,022 million (30 June
+2025: USD 2.155 million; Rs 611 million), carrying interest rate ranging from 5.85% to 7.40% (30 June 2025: 5.85% to
+7.40%) per annum, having maturities up to six months (30 June 2025: six months). This also includes investments in local
+currency TDRs amounting to Rs 32,260 million (30 June 2025: Rs 16,760) and foreign currency TDRs amounting to USD
+34 million ; Rs 9,557 million (30 June 2025: USD 34 million ; Rs 9,753). These investments are earmarked against self
+insurance reserve as explained in note 4.2 to these interim financial statements.
+Fair value has been determined using quoted repurchase prices, being net asset value of units as at quarter end.
+16.1
+16.2
+
+Gross sales
+Crude oil
+Gas
+Liquefied petroleum gas
+Sulphur
+SALES - net
+Government levies
+General sales tax
+Excise duty
+Petroleum Levy
+Quarter ended 30 September
+
+(Rupees '000)
+51,278,105
+56,782,433
+11,213,224
+64,546
+119,338,308
+(12,554,566)
+(265,351)
+(507,396)
+(13,327,313)
+106,010,995
+45,277,057
+52,172,589
+10,396,121
+-
+107,845,767
+(10,926,687)
+(270,526)
+(456,586)
+(11,653,799)
+96,191,968
+
+
+================================================================================
+PAGE 24
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Based on a legal advice, the Company is of the view that terms of the existing PCAs as amended to-date through the
+supplemental agreements already executed cannot unilaterally be amended by the GoP through introduction of
+amendment nor can the GoP lawfully require and direct that such amendments be made to include imposition of WLO
+retrospectively and nor the GoP unilaterally hold and direct that the gas price incentive to which the Company is presently
+entitled to and receiving under the conversion package as enshrined under the supplemental agreement stands withdrawn
+or the Company ceases to be eligible for such incentive in case of failure to adopt the unilateral amendments in the existing
+PCAs. Accordingly, the aforementioned amendments as well as the subsequent letters requiring implementation of the
+amendments are not enforceable or binding upon the Company.
+The Company along with other joint operation partners has challenged the applicability of WLO against the backdrop of
+supplemental agreements already executed pursuant to PP 2012 in the Honorable Islamabad High Court which has
+granted stay order till next date of hearing against the CCI decision dated 24 November 2017 on imposition of WLO. As
+mentioned above, the Company on the advice of its legal counsel is confident that it has sound grounds to defend the
+aforesaid issue in the Court and that the issue will be decided in favour of the Company.
+The cumulative past benefit accrued and recorded in the financial statements by the Company upto 23 November 2017 in
+the form of revenue and profit after tax is Rs 8,550 million and Rs 4,426 million respectively. However, without prejudice to
+the Company's stance in the Court case, revenue of Rs 46,246 million (30 June 2025: Rs 44,899 million) related to gas
+price incentive against the supplemental agreements has been set aside on a point forward basis effective 24 November
+2017 (the date of decision of CCI).
+Gas Sale Agreement (GSA) in respect of Kunnar Pasakhi Deep (KPD) fields between the Company and Sui Southern Gas
+Company Limited has been finalized between the parties on 12 July 2024 and the final approval of the MoE is pending.
+Adjustments on finalisaiton of GSA have been incorporated in these interim financial staements.
+
+
+In prior year, MoE has approved formula for wellhead price of gas sale from Nur-Bagla field and the Company has applied,
+on 19 July 2024 by paying wellhead gas price application fee, to OGRA for notification of price of gas. Thereafter, OGRA
+vide letter dated 13 November 2024 appraised that the Authority is empowered to determine the well-head gas prices for
+the producers of natural gas in accordance with the relevant agreements or contracts to notify the same in the official
+gazette. Therefore, the Company filed a draft Gas Pricing Agreement (GPA) of Nur-Bagla on 3 December, 2024 before the
+MoE for approval. After the approval by MoE, the same shall be submitted to OGRA for the notification of well-head gas
+price of Nur-Bagla. Currently the sales revenue is being recognised as per price applicable according to the formula
+approved by the MoE. The management expects that there will be no material differences in the gas price to be notified by
+OGRA.
+17.2
+17.3
+
+FINANCE AND OTHER INCOME
+
+(Rupees '000)
+Quarter ended 30 September
+Note
+12.6
+Income from financial assets
+Interest income on:
+Investments and bank deposits
+Finance income- lease
+Delayed payments surcharge from customers
+Unwinding of Loss on modification in terms of TFCs
+Un-realized gain on investments at fair value through profit or loss
+Exchange loss -net
+Signature bonus/ contract renewal fee
+Income on account of liquidated damages
+Others
+11,405,604
+5,047,616
+5,943,653
+3,511,365
+21,793
+(566,588)
+261,035
+68,908
+33,502
+25,726,888
+4,588,304
+4,564,085
+-
+3,627,968
+159,364
+(1,137,932)
+249,556
+108,351
+24,999
+12,184,695
+This represents income recognized on account of signature bonus/ contract renewal fee in respect of allocation of LPG
+quota.
+
+
+
+
+
+
+
+18.1
+18.1
+ly Report 2025-26
+
+
+================================================================================
+PAGE 25
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Oil & Gas Development Company Limited
+
+TAXATION
+
+(Rupees '000)
+Quarter ended 30 September
+Current tax- charge
+Deferred tax- charge/ (credit)
+33,048,621
+(448,387)
+42,097,867
+22,593,207
+1,084,167
+23,677,374
+The table below analyses financial instruments carried at fair value, by valuation method. The different levels have been
+defined as follows:
+
+Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities.
+
+Level 2: inputs other than quoted market prices included within Level 1 that are observable for the asset or liability, either
+directly (i.e. as prices) or indirectly (i.e. derived from prices).
+
+Level 3: inputs for the asset or liability that are not based on observable market data (unobservable inputs).
+
+
+Level 1 Level 2 Level 3
+Financial assets measured at fair value
+Other financial assets- NIT units
+
+30 September 2025 760,136 - -
+30 June 2025 600,772 - -
+
+FAIR VALUE HIERARCHY
+
+EARNINGS PER SHARE-BASIC AND DILUTED
+Profit for the quarter (Rupees '000)
+Average number of shares outstanding during the quarter ('000)
+Earnings per share-basic (Rupees)
+There is no dilutive effect on the earnings per share of the Company.
+
+
+Quarter ended 30 September
+41,019,911
+38,304,846
+4,300,928
+9.54
+8.91
+4,300,928
+
+CASH AND CASH EQUIVALENTS
+Cash and bank balances
+Short term highly liquid investments
+
+(Rupees '000)
+Quarter ended 30 September
+137,261,690
+127,171,938
+264,433,628
+12,513,411
+167,534,527
+180,047,938
+Tax paid on issuance of bonus shares
+9,497,633
+-
+
+
+================================================================================
+PAGE 26
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+
+RELATED PARTIES TRANSACTIONS
+Government of Pakistan owns 74.97% (30 June 2025: 74.97%) shares of the Company. In 2022, the Honorable Supreme
+Court of Pakistan declared the Benazir Employees' Stock Option Scheme ultra vires. Accordingly, the shares currently held by
+OGDCL Employees' Empowerment Trust (OEET) 10.05% (30 June 2025: 10.05%) will be transferred back to the GoP, and GoP
+holding will be increased. Therefore, all entities owned and controlled by the Government of Pakistan are related parties of the
+Company. Other related parties comprise associates, major shareholders, directors, companies with common directorship,
+key management personnel, OGDCL employees empowerment trust, employees pension trust and gratuity fund. The
+Company in normal course of business pays for airfare, electricity, telephone, gas, yield analysis required under Petroleum
+Concession Agreements and make regulatory payments to entities controlled by the GoP which are not material, hence not
+disclosed in these interim financial statements. Transactions with related parties other than disclosed below are disclosed in
+relevant notes to these interim financial statements. Transactions of the Company with related parties and balances
+outstanding at quarter end are as follows:
+(Rupees '000)
+
+Quarter ended 30 September
+OREL- Subsidiary company- 100% shareholding of the Company
+and common directorship
+Cost of investment
+Payment made for subscribed shares
+Payable as at 30 September
+MEL- Associated company- 20% shareholding of the Company
+and common directorship
+Share of profit in associate
+Dividend received
+Tax paid on issuance of bonus shares
+Expenditure charged by joint operations partner- net
+Cash calls paid/ (received) to joint operations partner- net
+Share (various fields) payable as at 30 September
+Share (various fields) receivable as at 30 September
+PIOL- Associated company- 25% shareholding of the Company and
+common directorship
+Share of (loss) in associate
+Share of other comprehensive (loss)
+PMPL- Associated company- 33.33% shareholding of the Company
+and common directorship
+Cost of investment made during the quarter
+Share of loss in associate
+Share of other comprehensive loss
+Major shareholders
+OGDCL Employees' Empowerment Trust (10.05% share holding)
+Dividend paid to GoP on behalf of OEET
+Dividend withheld
+-
+3,864,403
+3,545,394
+9,497,633
+(1,399,340)
+(798,111)
+2,067,250
+49,452
+
+(49,939)
+(26,321)
+
+1,649,333
+(567,527)
+(87,989)
+20,000,000
+20,870,881
+
+-
+3,268,447
+5,167,279
+-
+(501,095)
+371,689
+1,080,926
+584,012
+
+(13,975)
+(175,303)
+
+6,030,107
+(81,631)
+(414,376)
+-
+-
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 27
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Oil & Gas Development Company Limited
+
+(Rupees '000)
+
+Quarter ended 30 September
+Related parties by virtue of the GoP holdings and/ or common directorship
+Sui Northern Gas Pipelines Limited
+Sale of natural gas
+Trade debts as at 30 September
+Pakistan State Oil Company Limited
+Sale of liquefied petroleum gas
+Purchase of petroleum, oil and lubricants
+Payable as at 30 September
+Advance against sale of LPG as at 30 September
+Pakistan Petroleum Limited
+Expenditure charged to/ (by) joint operations partner- net
+Cash calls received from joint operations partner- net
+Share (various fields) receivable as at 30 September
+Share (various fields) payable as at 30 September
+Pak Arab Refinery Company Limited
+Sale of crude oil
+Trade debts as at 30 September
+PARCO Pearl Gas (Private) Limited
+Sale of liquefied petroleum gas
+Advance against sale of LPG as at 30 September
+Pakistan Refinery Limited
+Sale of crude oil
+Trade debts as at 30 September
+Khyber Pakhtunkhwa Oil & Gas Company (KPOGCL)
+Expenditure charged to joint operations partner
+Cash calls received from joint operations partner
+Share (various fields) receivable as at 30 September
+Sindh Energy Holding Company Limited (SEHCL)
+Expenditure charged to joint operations partner
+SEHCL share (various fields) payable as at 30 September
+SEHCL share (various fields) receivable as at 30 September
+Sui Southern Gas Company Limited
+Sale of natural gas
+Sale of liquefied petroleum gas
+Trade debts as at 30 September
+Advance against sale of LPG as at 30 September
+Sui Southern Gas Company LPG (Pvt) Limited
+Advance against sale of LPG as at 30 September
+Government Holdings (Private) Limited (GHPL)
+Expenditure charged to joint operations partner
+Cash calls (paid to)/ received from joint operations partner
+GHPL share (various fields) receivable as at 30 September
+GHPL share (various fields) payable as at 30 September
+26,620,358
+261,509,710
+174,726
+2,272,035
+246,542
+213,059
+(494,090)
+(1,107,201)
+2,516,885
+2,101,448
+4,323,274
+2,805,440
+150,691
+51,457
+3,927,504
+6,766,688
+15,503
+538,847
+387,113
+
+
+2,196
+-
+12,112,572
+215,622
+247,362,293
+93,624
+35,905
+1,265,667
+760,430
+4,291,582
+1,849,573
+
+20,934,967
+277,931,740
+315,583
+2,513,016
+656,411
+51,018
+1,028,562
+(723,930)
+2,028,022
+1,920,581
+1,924,276
+1,762,084
+161,600
+53,836
+3,157,387
+5,213,717
+17,131
+-
+32,059
+-
+2,819
+12,461,682
+261,517
+245,262,359
+94,333
+19,704
+1,170,094
+(1,404,738)
+3,243,681
+11,616
+
+
+================================================================================
+PAGE 28
+================================================================================
+
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2023
+(Rupees '000)
+
+Quarter ended 30 September
+RELATED PARTIES TRANSACTIONS- continued
+National Investment Trust
+Investment as at 30 September
+National Bank of Pakistan
+Balance at bank as at 30 September
+Balance of investment in TDRs as at 30 September
+Interest earned
+Power Holding Limited (PHL)
+Balance of mark-up receivable on TFCs as at 30 September
+National Insurance Company Limited
+Insurance premium paid
+Payable as at 30 June
+National Logistic Cell
+Crude transportation charges paid
+Payable as at 30 September
+Enar Petrotech Services Limited
+Consultancy services
+Payable as at 30 September
+Enar Petroleum Refining Facility
+Sale of crude oil
+Payable as at 30 September
+Other related parties
+Contribution to pension fund
+Remuneration including benefits and perquisites of key management personnel
+409,081
+17,255,437
+95,132,102
+3,618,235
+73,120,775
+1,216,982
+4,291
+454,045
+644,350
+20,868
+2,780
+8,201,124
+4,766,265
+9,485,702
+437,864
+760,136
+1,586,762
+106,735,285
+2,080,958
+64,556,388
+32,741
+-
+171,054
+650,808
+2,984
+10,081,122
+6,818,224
+-
+508,540
+25.1
+
+NON ADJUSTING EVENT AFTER REPORTING DATE
+The Board of Directors recommended final cash dividend for the year ended 30 June 2025 at the rate of Rs 5.00 per share
+amounting to Rs 21,505 million in its meeting held on 23 September 2025.
+
+The Board of Directors approved interim cash dividend at the rate of Rs 3.50 per share amounting to Rs 15,053 million in its
+meeting held on 29 October 2025.
+These interim financial statements were authorized for issue on 29 October 2025 by the Board of Directors of the Company.
+DATE OF AUTHORIZATION FOR ISSUE
+
+GENERAL
+
+Figures have been rounded off to the nearest thousand of rupees, unless otherwise stated.
+25.2
+Financial risk management objectives and policies are consistent with that disclosed in the annual audited financial statements for
+the year ended 30 June 2025.
+RISK MANAGEMENT
+
+Chief Financial Officer
+Chief Executive
+Director
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 29
+================================================================================
+
+Note
+SHARE CAPITAL AND RESERVES
+Share capital
+Reserves
+Unappropriated profit
+
+
+NON CURRENT LIABILITIES
+
+CONTINGENCIES AND COMMITMENTS
+
+30 June
+
+30 September
+
+CURRENT LIABILITIES
+
+Condensed Interim Consolidated Statement of Financial Position [unaudited]
+The annexed notes 1 to 27 form an integral part of these interim consolidated financial statements.
+As at 30 September 2025
+TOTAL LIABILITIES
+Chief Financial Officer
+Chief Executive
+Director
+43,009,284
+33,909,396
+1,271,317,916
+1,309,260,262
+1,348,236,596
+1,385,951,763
+181,090,252
+125,279,122
+201,385
+306,369,374
+107,897,843
+1,654,605,970
+1,677,940,579
+43,009,284
+33,682,217
+Deferred taxation
+75,920,108
+77,004,275
+Deferred employee benefits
+41,519,272
+42,552,626
+Provision for decommissioning cost
+
+61,594,813
+62,781,526
+18,4090,973
+
+983,551
+1,031,130
+
+12,3761,613
+106,374,471
+Trade and other payables
+Unpaid dividend
+Unclaimed dividend
+331,720
+290,857
+Long term lease liability
+
+2,056,059
+1,752,546
+202,238
+Short term lease liability
+291,988,816
+Oil & Gas Development Company Limited
+
+
+================================================================================
+PAGE 30
+================================================================================
+
+Note
+
+30 June
+
+NON CURRENT ASSETS
+Property, plant and equipment
+Development and production assets
+Exploration and evaluation assets
+
+30 September
+
+Long term investments
+Chief Financial Officer
+Chief Executive
+Director
+97,861,516
+139,011,750
+28,939,818
+265,813,084
+111,753,424
+141,166,266
+35,108,965
+288,028,655
+
+CURRENT ASSETS
+Stores, spare parts and loose tools
+Stock in trade
+Trade debts
+Loans and advances
+Deposits and short term prepayments
+Other receivables
+Income tax- advance
+Current portion of long term investments
+Current portion of lease receivables
+Other financial assets
+Cash and bank balances
+
+29,693,368
+942,938
+613,660,983
+22,284,662
+2,582,403
+1,452,187
+114,026,596
+84,520,671
+48,696,323
+152,710,231
+52,813,573
+1,123,383,935
+1,654,605,970
+29,246,677
+955,298
+612,777,849
+22,556,408
+2,992,921
+1,337,179
+128,807,923
+65,631,946
+40,011,655
+209,794,663
+12,513,511
+
+Long term loans-secured
+Lease receivables
+11,263,991
+4,021,001
+92,198,179
+531,222,035
+10,741,816
+3,942,046
+87,230,264
+551,314,549
+Long term advances & Prepayments
+1,126,626,030
+1,677,940,579
+137,640,135
+141,086,123
+Investments in subsidiary and associates
+Investments at amortized cost
+20,285,645
+20,285,645
+161,371,768
+157,925,780
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 31
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Condensed Interim Consolidated Statement of Profit or Loss [unaudited]
+Sales - net
+Royalty
+Operating expenses
+Transportation charges
+Gross profit
+Exploration and prospecting expenditure
+General and administration expenses
+Finance cost
+Workers' profit participation fund
+Finance and other income
+
+The annexed notes 1 to 27 form an integral part of these interim consolidated financial statements.
+For the Quarter ended 30 September 2025
+
+(Rupees '000)
+Quarter ended 30 September
+Note
+Chief Financial Officer
+Chief Executive
+Director
+106,010,995
+(13,150,861)
+(26,265,083)
+(779,371)
+(40,195,315)
+65,815,680
+25,726,888
+(3,852,538)
+(1,830,597)
+(1,613,972)
+(4,374,620)
+3,246,937
+83,117,778
+41,019,911
+Share of profit in associates- net of taxation
+Profit beforeTaxation
+Taxation
+Profit for the quarter
+(10,598,216)
+12,184,695
+(3,081,840)
+(2,094,701)
+(1,221,481)
+(3,262,222)
+3,172,841
+(28,803,456)
+(42,097,867)
+Earnings per share- basic and diluted (Rupees)
+
+9.54
+(505,386)
+(39,907,040)
+61,982,220
+(23,677,374)
+38,304,846
+8.91
+96,191,968
+56,284,928
+
+
+================================================================================
+PAGE 32
+================================================================================
+
+Condensed Interim Consolidated Statement of Comprehensive Income [unaudited]
+The annexed notes 1 to 27 form an integral part of these interim consolidated financial statements.
+
+(Rupees '000)
+Quarter ended 30 September
+For the Quarter ended 30 September 2025
+-
+Profit for the quarter
+Other comprehensive income:
+Items that will be subsequently reclassified to profit or loss:
+Effects of translation of investment in a foreign associate
+Share of effect of translation of investment in foreign associated
+company of the associatenn -net of taxation
+Other comprehensive (loss) for the quarter
+Total comprehensive income for the quarter
+-
+Chief Financial Officer
+Chief Executive
+Director
+(26,321)
+(175,303)
+(87,989)
+(114,310)
+(114,310)
+41,019,911
+40,905,601
+Items that will not be reclassified to profit or loss
+12.2
+38,304,846
+(589,679)
+37,715,167
+(589,679)
+Note
+(141,376)
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 33
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Total
+equity
+Unappropriated
+profit
+Capital
+reserve
+(Rupees '000)
+Share of capital
+redemption reserve
+fund in associated
+company
+Share
+capital
+Self
+insurance
+reserve
+Share of self
+insurance reserve
+in associated
+company
+Reserves
+Capital reserves
+Other reserves
+Condensed Interim Consolidated Statement of Changes in Equity [unaudited]
+The annexed notes 1 to 27 form an integral part of these interim consolidated financial statements.
+For the Quarter ended 30 September 2025
+Foreign translation
+currency reserve
+Chief Financial Officer
+Chief Executive
+Director
+Balance as at 1 July 2024
+Total comprehensive income for the quarter
+Profit for the quarter
+Other comprehensive (loss) for the quarter
+Total comprehensive (loss) income for the quarter
+Transfer to self insurance reserve
+Charge to self insurance reserve
+Transactions with owners of the Group
+Distributions
+Total distributions to owners of the Company
+Balance as at 30 September 2024
+Balance as at 1 July 2025
+Total comprehensive income for the quarter
+Profit for the quarter
+Other comprehensive (loss) for the quarter
+Total comprehensive (loss) income for the quarter
+Transfer to self insurance reserve
+Charge to self insurance reserve
+Transactions with owners of the Group
+Distributions
+Total distributions to owners of the Company
+Balance as at 30 September 2025
+1,250,496,218
+41,019,911
+(114,310)
+40,905,601
+-
+-
+-
+1,291,401,819
+1,348,236,596
+38,304,846
+(589,679)
+37,715,167
+-
+-
+-
+1,385,951,763
+1,169,165,868
+41,019,911
+-
+41,019,911
+(362,754)
+-
+1,209,823,279
+1,271,317,916
+38,304,846
+-
+38,304,846
+(363,097)
+-
+1,309,260,262
+15,147,066
+-
+(114,310)
+(114,310)
+-
+-
+-
+15,032,756
+11,403,396
+-
+(589,679)
+(589,679)
+-
+-
+-
+10,813,717
+920,000
+-
+-
+-
+-
+-
+-
+920,000
+920,000
+-
+-
+-
+-
+-
+-
+920,000
+2,118,000
+-
+-
+-
+-
+-
+-
+2,118,000
+-
+-
+-
+-
+-
+-
+-
+-
+19,300,000
+-
+-
+-
+362,754
+(254)
+-
+19,662,500
+20,750,000
+-
+-
+-
+363,097
+(597)
+-
+21,112,500
+836,000
+-
+-
+-
+-
+-
+-
+836,000
+836,000
+-
+-
+-
+-
+-
+-
+836,000
+43,009,284
+-
+-
+-
+-
+-
+-
+43,009,284
+43,009,284
+-
+-
+-
+-
+-
+-
+43,009,284
+
+
+================================================================================
+PAGE 34
+================================================================================
+
+Chief Financial Officer
+Chief Executive
+Director
+Condensed Interim Consolidated Statement of Cash Flows [unaudited]
+For the Quarter ended 30 September 2025
+The annexed notes 1 to 27 form an integral part of these interim consolidated financial statements.
+(9,812,464)
+
+Cash flows from financing activities
+Net cash used in financing activities
+Net (decrease)/ increase in cash and cash equivalents
+Cash and cash equivalents at beginning of the quarter
+Effect of movements in exchange rate on cash and cash equivalents
+Cash and cash equivalents at end of the quarter
+(20,000,253)
+6,260,402
+258,613,241
+(440,015)
+Dividends paid
+(20,000,253)
+41,716
+(354,187)
+204,923,032
+(1,118759)
+180,047,938
+(23,756,239)
+264,433,628
+49,893
+(10,894,144)
+(15,055,000)
+(8,531,477)
+(1,496,775)
+27,039,645
+310,157
+(3,246,937)
+(3,971)
+440,015
+250,480
+(21,793)
+(11,405,604)
+1,611,280
+2,084,856
+3,889,331
+2,257,165
+83,117,778
+
+(Rupees '000)
+Quarter ended 30 September
+Note
+
+Cash flows from operating activities
+Profit before Taxation
+Adjustments for:
+Depreciation
+Amortization of development and production assets
+Royalty paid
+Deferred Employee benefits paid
+Long term prepayments
+Decommissioning cost paid
+Payment to workers' profit participation fund-net
+Income taxes paid
+Net cash generated from operating activities
+Cash flows from investing activities
+Capital expenditure
+Interest received
+Lease payments received
+-
+(47,663,249)
+(47,663,249)
+10,146,583
+21,404,691
+2,621,222
+4,416,749
+(5,943,653)
+(14,530,086)
+(2,447,236,)
+78,955
+(48,708)
+(15,000,000)
+(37,374,534)
+(69,321,609)
+3,712,217
+(29,211,537)
+13,707,092
+7,534,150
+Dividends received
+Term Finance Certificates interest received
+3,545,394
+5,167,279
+23,176,369
+Proceeds from disposal of property, plant and equipment
+Net cash (used in)/ generated from investing activities
+4,562
+16,114,072
+42,385
+(27,114,369)
+Delayed payments surcharge from customers
+
+Royalty
+Workers' profit participation fund
+Provision for employee benefits
+Unwinding of discount on provision for decommissioning cost
+Interest income on investments and bank deposits
+13,150,861
+4,374,620
+10,598,216
+3,262,222
+2,357,024
+(4,588,304)
+(5,047,616)
+
+(4,564,085)
+Interest income on lease
+Un-realized gain on investments at fair value through profit or loss
+Exchange on lease
+Exchange loss on foreign currency investment and deposit accounts
+(159,364)
+877,623
+1,118,755
+Gain on disposal of property, plant and equipment
+Share of profit (net) in associates- net of taxation
+Stores inventory written off
+(29,837)
+(3,172,841)
+178,762
+
+29,421,26
+
+Unwinding of loss on modification in terms of TFCs
+(3,511,365)
+(3,627,968)
+
+1,134,943
+Unwinding of lease liability
+82,967
+
+20,174
+Cost of dry and abandoned wells during the quarter
+100,123
+562,675
+Changes in:
+Stores, spare parts and loose tools
+Stock in trade
+Trade debts
+Deposits and short term prepayments
+Loan and advances and other receivables
+Trade and other payables
+Cash generated from operations
+99,171,562
+267,929
+(12,360)
+896,720
+(410,518)
+365,437
+(969,027)
+73,033,926
+Reversal of trade debts provision
+82,578,296
+-
+22,677
+(750,961)
+(15,462,479)
+Investment in Mutual Funds
+Investment in associates
+(1,649,333)
+41,500,000
+(6,030,107)
+
+-
+-
+Lease payments made
+(312,471)
+
+-
+(13,586)
+72,895,745
+61,892,220
+-
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 35
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+3 ACCOUNTING POLICIES, ESTIMATES AND JUDGEMENTS
+The accounting policies, significant judgments made in the application of accounting policies, key sources of estimations,
+the methods of computation adopted in preparation of these interim consolidated financial statements and financial risk
+management policies are the same as those applied in preparation of annual audited consolidated financial statements for
+the year ended 30 June 2025. The management also believes that standards, amendments to published standards and
+interpretations that are effective for the Group from accounting periods beginning on or after 01 July 2025 do not have any
+significant effect on these interim consolidated financial statements or are not relevant to the Group.
+1 LEGAL STATUS AND OPERATIONS
+Oil and Gas Development Company Limited (OGDCL) (the Group) comprises of Oil and Gas Development Company Limited
+(OGDCL) (OGDCL or the Parent Company) and its wholly owned subsidiary, OGDC Renewable Energy (Private) Limited
+(OREL)). Oil and Gas Development Company Limited (OGDCL), 'OGDCL', was incorporated on 23 October 1997 under the
+Companies Ordinance, 1984 (now the Companies Act, 2017). OGDCL was established to undertake exploration and
+development of oil and gas resources, including production and sale of oil and gas and related activities formerly carried on by
+Oil and Gas Development Corporation, which was established in 1961. The shares of OGDCL are quoted on Pakistan Stock
+Exchange Limited. The Global Depository Shares (1GDS = 10 ordinary shares of OGDCL) of OGDCL are listed on the London
+Stock Exchange. The registered office of OGDCL and its subsidiary is located at OGDCL House, Plot No. 3, F-6/G-6, Blue Area,
+Islamabad, Pakistan.
+
+
+
+OGDC Renewable Energy (Private) Limited (OREL) is a private limited company incorporated in Pakistan on 07 June 2024
+under the Companies Act, 2017. OREL principal line of business is exploration, exploitation and development of renewable
+energy resources including solar, wind, hydro, geothermal energy. Presently, OREL is in the process of carrying out the pre
+commencement activities and has not yet commenced its operations.
+For the purpose of these consolidated financial statements, OGDCL and its consolidated subsidiary – OREL are referred as the
+Group.
+In consideration for all the properties, rights, assets, obligations and liabilities of Oil and Gas Development Corporation vested
+in the Parent Company, 1,075,232,100 ordinary fully paid shares of Rs 10 each were issued to the Government of Pakistan
+(GoP) on 23 October 1997. Currently, the GoP holds 74.97% (30 June 2025: 74.97%) paid up capital of the Parent Company.
+In 2022, the Honorable Supreme Court of Pakistan declared the Benazir Employees' Stock Option Scheme ultra vires.
+Accordingly, the shares currently held by OGDCL Employees' Empowerment Trust (OEET) 10.05% (30 June 2025: 10.05%)
+will be transferred back to the GoP and accordingly, the GoP holding will be increased. During the year ended 30 June 2024,
+the Pakistan Sovereign Wealth Fund Act, 2023 became effective. Under the said Act, the GoP's shareholding in the Parent
+Company including shares held by OEET stands transferred to the Pakistan Sovereign Wealth Fund (PSWF). Accordingly, the
+GoP is in the process of taking necessary actions required to record the transfer of the shares to PSWF.
+2 BASIS OF PREPARATION
+These condensed interim consolidated financial statements (here in after referred to as the "interim consolidated financial
+statements") are the separate interim consolidated financial statements of the Group and have been prepared in accordance
+with the accounting and reporting standards as applicable in Pakistan for interim consilidated financial reporting. The
+accounting and reporting standards as applicable in Pakistan for interimconsolidated financial reporting comprise of:
+- International Accounting Standard (IAS) 34, Interim Financial Reporting, issued by the International Accounting
+Standards Board (IASB) as notified under the Companies Act, 2017; and
+- Provisions of and directives issued under the Companies Act, 2017.
+Where provisions of and directives issued under the Companies Act, 2017 differ with the requirements of IAS 34, the
+provisions of and directives issued under the Companies Act, 2017 have been followed.
+'The disclosures in these interim consolidated financial statements do not include those reported for full annual audited
+consolidated financial statements and should therefore be read in conjunction with the annual audited consolidated financial
+statements for the year ended 30 June 2025. Comparative statement of consolidated financial position is extracted from the
+annual audited consolidated financial statements as of 30 June 2025, whereas comparative consolidated statement of profit
+or loss, consolidated statement of comprehensive income, consolidated statement of changes in equity and consolidated
+statement of cash flows are stated from unaudited interim consolidated financial statements of the Parent Company and its
+subsidiary for the quarter ended 30 September 2024.
+These interim consolidated financial statements are unaudited and are being submitted to the members as required under
+Section 237 of Companies Act, 2017.
+
+
+================================================================================
+PAGE 36
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Furthermore, because of reasons as disclosed in note 2.1.2 to the annual audited consolidated financial statements for
+the year ended 30 June 2025, the Securities and Exchange Commission of Pakistan (SECP) has notified that the
+requirements contained in IFRS 9 with respect to application of Expected Credit Loss (ECL) method shall not be
+applicable till the financial year ending on or before 31 December 2025 in respect of companies holding financial assets
+due from the Government of Pakistan (GoP), including those that are directly due from GoP and that are ultimately due
+from GoP in consequence of the circular debt issue. Such companies shall follow relevant requirements of IAS 39
+'Financial Instruments: Recognition and Measurement' in respect of above referred financial assets during the exemption
+period. The Parent Company has requested SECP vide its letter dated 08 August 2025 that deferment/ exemption from
+application of ECL method under IFRS 9 in respect of financial assets due directly or ultimately from GoP may kindly be
+extended till such date the circular debt issue is resolved. The SECP vide letter dated 23 September 2025 has intimated
+that the application is in process.
+This represents bonus shares issued by former wholly owned subsidiary- Pirkoh Gas Company (Private) Limited
+(PGCL) prior to merger. Accordingly, this reserve is not available for distribution to shareholders.
+The Group has set aside a specific capital reserve for self insurance of rigs, buildings, wells, plants, pipelines,
+workmen compensation, inventory, terrorism, vehicle repair and losses for petroleum products in transit. Refer note
+16.1 for investments against this reserve. Accordingly, this reserve is not available for distribution to shareholders.
+This represents a specific capital reserve set aside by an associate for self insurance of its assets which have not been
+insured, for uninsured risks and for deductibles against insurance claims.
+This represents accumulated balance of translation effect of a foreign operation in Rupees as per the Company's
+accounting policy.
+This represents accumulated balance of a translation effect of foreign operations in Rupees of associates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1
+4.2
+4.3
+4.4
+4.5
+Note
+
+4.1
+4.2
+4.3
+4.4
+4.5
+RESERVES
+Capital reserve
+Self insurance reserve
+Self insurance reserve - associated company
+Other reserves:
+Capital reserves:
+
+30 September
+(Rupees '000)
+
+30 June
+
+Foreign currency translation reserve
+Foreign currency translation reserve- associates (Net)
+836,000
+20,750,000
+2,093,734
+9,309,662
+11,403,396
+33,909,396
+836,000
+21,112,500
+920,000
+920,000
+22,506,000
+22,868,500
+1,918,431
+8,895,286
+10,813,717
+33,682,217
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 37
+================================================================================
+
+Oil & Gas Development Company Limited
+Notes to the Interim Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+
+Provision for Decommissioning Cost
+(Rupees '000)
+
+30 September
+
+30 June
+
+59,600,474
+1,722,273
+(143,416)
+61,179,331
+(5,255,809)
+5,671,291
+61,594,813
+Balance at beginning of the quarter /year
+Provision during the quarter /year
+Decommissioning cost incurred during the quarter /year
+Revision due to change in estimates
+Unwinding of discount on provision for decommissioning cost
+Balance at end of the quarter /year
+61,594,813
+100,478
+(48,708)
+61,646,583
+-
+1,134,943
+62,781,526
+This includes an amount of Rs 21,891 million (30 June 2025: Rs 21,891 million) received from customers on account of
+additional revenue due to enhanced gas price incentive as explained in note 17.1.
+7.1
+
+LONG TERM LEASE LIABILITY
+During the year ended 30 June 2025, the Group has recognized a lease liability and right of use asset of Early Production
+Facilities (facilities) under the Gas Processing Contract, executed by operator, Mari Energies Limited (MEL), a related
+party, for Waziristan block joint operation for a lease term of two years and considering the option to purchase the asset
+upon expiry of the lease term. The Group has recognized its share of the right-of-use asset under property, plan and
+equipment and lease liability towards operator has been recognized separately to the extent of the Company's share.
+(983,551)
+2,056,059
+Lease liability
+Less: Current portion of net liability in lease
+3,039,610
+2,783,676
+(1,031,130)
+1,752,546
+Balance at beginning of the quarter/ year
+3,039,610
+-
+3,468,690
+95,663
+Additions during the quarter/ year
+Unwinding of lease liabilities
+82,967
+-
+(565,295)
+(40,552)
+Payments made during the quarter/ year
+Exchange (gain)/ loss
+(26,430)
+(312,471)
+3,039,610
+2,783,676
+Balance at the end of quarter/ year
+Less: current portion of long term lease liabilities shown under
+(983,551)
+(1,031,130)
+current liabilities
+2,056,059
+1,752,546
+
+TRADE AND OTHER PAYABLES
+Creditors
+Accrued liabilities
+Payable to partners of joint operations
+Retention money payable
+Royalty payable to the Government of Pakistan
+Excise duty payable
+General sales tax payable
+Petroleum levy payable
+Withholding tax payable
+Trade and other deposits
+Workers' profit participation fund
+Employees' pension trust
+Gratuity fund
+Liability for staff compensated absences -current portion
+Advances from customers- unsecured
+Other payables
+
+7.1
+1,215,105
+20,663,274
+1,060,5676
+7,431,297
+11,778,726
+101,030
+1,585,703
+171,418
+500,908
+3,765,588
+14,700,782
+19,816,723
+739,295
+5,617,526
+2,552,944
+1,581,710
+16,177,217
+8,008,831
+12,544,635
+7,846,856
+154,876
+-
+130,989
+2,682,148
+3,666,896
+2,963,004
+21,050,235
+925,254
+3,449,588
+2,598,783
+22,515,618
+22,593,449
+123,761,613
+106,374,471
+(Rupees '000)
+
+30 September
+
+30 June
+
+Note
+
+
+================================================================================
+PAGE 38
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+
+8.1
+8.1.1
+CONTINGENCIES AND COMMITMENTS
+Contingencies
+There are no significant changes in the status of the contingencies as disclosed in the annual audited consolidated
+financial statements of the Group for the year ended 30 June 2025.
+Commitments
+Commitments outstanding at end of the quarter amounted to Rs 78,431 million (30 June 2025: Rs 81,413 million). These
+include amounts aggregating to Rs 41,862 million (30 June 2025: Rs 42,210 million) representing the Group's share in
+the minimum work commitments under Petroleum Concession Agreements (PCAs). The Group and its associate has
+given corporate guarantees to GoP under various PCAs for the performance of obligations.
+Letters of credit issued by various banks on behalf of the Group in ordinary course of the business, outstanding at end of
+the quarter amounted to Rs 40,047 million (30 June 2025: Rs 49,957 million).
+The Group's share of associate commitments as per latest available financial statements of the associates are as
+follows:
+8.2
+8.2.2
+Gas Infrastructure Development Cess (GIDC) amounting to Rs 2,255 million (30 June 2025: Rs 2,255 million) is
+recoverable from customers and payable to the GoP. These interim consolidated financial statements do not reflect the
+said amount since under the provisions of the GIDC laws and regulations, the Group is required to pay the said amount
+as and when the same is collected from customers. The GIDC is presented as payable to the extent that it is received
+from customers but not deposited with the GoP. As at year end, no such amount was received which was not deposited
+with the GoP. On 13 August 2020, the Supreme Court of Pakistan has decided the matter of GIDC by restraining from
+charging GIDC from 01 August 2020 onward and ordered gas consumers to pay GIDC arrears due upto 31 July 2020 in
+instalments. The fertilizer companies have obtained stay against recovery from the Sindh High Court, where the matter
+is subjudice.
+7.2
+8.2.1
+8.2.3
+(Rupees '000)
+
+30 September
+
+30 June
+
+32,385,203
+Commitment for capital expenditure
+Outstanding minimum work commitments under various PCAs
+32,385,203
+4,868,520
+4,868,520
+8.2.4
+As part of the Shareholders Agreement with the consortium partners in PIOL, associate, the Group has committed to
+invest upto US$ 100 million in PIOL during the next five years from 31 August 2021, out of which US$ 85 million has
+been invested till 30 September 2025 (30 June 2025: US$ 85 million). The remaining amount of US$ 15 million; Rs
+4,224 million (30 June 2025: US$ 15 million; Rs 4,262 million) will be invested in subsequent years. The Group's
+share of associate commitment in this respect amounts to US$ 3 million; Rs 845 million (30 June 2025: US$ 3 million;
+Rs 852 million).
+8.2.5
+With respect to PMPL (note 12.3), the Group had earlier entered into a Joint Venture Agreement with the stakeholders,
+under which the Group had committed to invest a total amount of up to USD 398 million, to be adjusted for inflation, for
+funding its proportionate share during Phase-I of the Reko Diq project. During the quarter, the shareholders of the
+Group has approved to increase the investment amount to USD 715 million to be adjusted for actual inflation and
+financing costs. However, after accounting for the expected project financing to be obtained by RDMC, the
+proportionate shareholder contributions by the Group will be reduced to USD 391 million to be adjusted for actual
+inflation and financing costs. In addition, the Group has committed to contribute, in the form of equity, up to USD 1
+million per year towards its proportionate share in the administrative expenses of PMPL. Furthermore, the Group has
+provided a several corporate guarantee to fund the obligations of the Group under the Definitive Agreements.
+RDMC is in the final stages of concluding project financing arrangements for Phase 1 of the Reko Diq project, with
+financial close expected in 2025. During the quarter, as part of the financing terms, the SOEs have agreed to provide
+joint and several Completion Guarantees for their pro rata contributory share (which is equal to 27.7778%) of RDMC’s
+secured debt obligations. This guarantee will remain effective until the project achieves financial completion, i.e., the
+date when specific criteria are met to demonstrate the required level of commercial operations
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 39
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+9.1
+
+PROPERTY, PLANT AND EQUIPMENT
+Carrying amount at beginning of the quarter/ year
+Additions/adjustments during the quarter/ year
+Book value of disposals
+Depreciation charge for the quarter/ year
+Revision in estimate of decommissioning cost during the quarter/ year
+Carrying amount at end of the quarter/ year
+Additions/adjustments during the quarter/ year
+Note
+(Rupees '000)
+
+30 June
+
+30 September
+9.1
+9.2
+86,837,819
+23,602,381
+(51,276)
+(11,568,974)
+(958,434)
+97,861,516
+97,861,516
+17,087,183
+(12,548)
+(3,182,727)
+-
+111,753,424
+Buildings, offices and roads on leasehold land
+Plant and machinery
+Rigs
+Pipelines
+Office and domestic equipment
+Office and technical data computers
+Furniture and fixture
+Vehicles
+685,192
+10,556,041
+112,055
+294,832
+207,270
+272,843
+2,420
+931,154
+Buildings, offices and roads on freehold land
+244,668
+3,154
+70,560
+1,411,189
+121,061
+127,314
+142,569
+61,578
+151,127
+Capital work in progress (net movement)
+Stores held for capital expenditure (net movement)
+881,617
+3,918,979
+2,026,620
+23,602,381
+-
+14,439,543
+491,583
+17,087,183
+Decommissioning cost
+Furthermore, the Group has also committed to enter into a Transfers Restriction Agreement required by the project lenders.
+This agreement mainly requires the SOEs, in aggregate, to maintain their existing shareholding percentage of 25% in RDMC
+until the project achieves financial completion. Post financial completion, the requirements are relaxed to maintain 10%
+shareholding in RDMC, until the project debt has been fully repaid.
+Freehold land
+67,454
+-
+Right of use of Asset
+3,468,690
+-
+
+DEVELOPMENT AND PRODUCTION ASSETS
+Property, plant and equipment comprises:
+Operating fixed assets
+Capital work in progress
+Stores held for capital expenditure
+9.2
+Carrying amount at beginning of the quarter /year
+Additions during the quarter /year
+Transferred from exploration and evaluation assets during the quarter /year
+Stores held for development and production activities (net movement)
+Amortization charge for the quarter /year
+Revision in estimates of decommissioning cost during the quarter /year
+Carrying amount at end of the quarter /year
+79,726,425
+10,134,480
+8,000,611
+97,861,516
+78,687,207
+24,574,023
+8,492,194
+111,753,424
+120,435,679
+10,444,594
+24,470,927
+10,237,513
+(23,058,571)
+(3,518,392)
+139,011,750
+139,011,750
+3,805,892
+1,241,940
+1,523,433
+(4,416,749)
+-
+141,166,266
+
+
+================================================================================
+PAGE 40
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Note
+(Rupees '000)
+
+30 June
+
+30 September
+
+EXPLORATION AND EVALUATION ASSETS
+Balance at beginning of the quarter/ year
+Additions during the quarter/ year
+Cost of dry and abandoned wells during the quarter/ year
+Cost of wells transferred to development and production assets during
+the quarter/ year
+Stores held for exploration and evaluation activities
+Balance at end of the quarter/ year
+
+LONG TERM INVESTMENTS
+18,552,999
+33,825,293
+52,378,292
+(4,233,127)
+(24,470,927)
+(28,704,054)
+23,674,238
+5,265,580
+28,939,818
+23,674,238
+7,999,617
+31,673,855
+(100,123)
+(1,241,940)
+(1,342,063)
+30,331,792
+4,777,173
+35,108,965
+12.1
+Investment in associates:
+Mari Energies Limited, (Formerly, Mari Petroleum Company
+Limited),quoted
+Pakistan International Oil Limited, unquoted
+Pakistan Minerals (Private) Limited, unquoted
+Investments at amortized cost
+54,525,502
+52,626,669
+Pakistan Investment Bonds (PIBs)
+Term Finance Certificates (TFCs)
+Less: Current portion shown under current assets
+12.3
+12.2
+19,929,016
+63,185,617
+19,739,738
+68,719,716
+12.4
+20,701,527
+84,104,789
+104,806,316
+(84,520,671)
+20,285,645
+157,925,780
+21,361,203
+64,556,388
+85,917,591
+(65,631,946)
+20,285,645
+161,371,768
+12.5
+12.1
+Mari Energies Limited (formerly, Mari Petroleum Company Limited) (MEL) is a listed company incorporated in Pakistan and
+is principally engaged in exploration, production and sale of hydrocarbons in Pakistan. The Group has 20% (30 June 2025:
+20%) holding in the associate. The market value of the investment in associate as at quarter end is Rs 177,942 million (30
+June 2024: Rs 150,532 million).
+During the year ended 30 June 2025, MEL has issued 213,444,000 bonus shares to the Group in the ratio of eight shares
+for every one share held after collection of tax under the Income Tax Ordinance, 2001 from the Group amounting to Rs
+9,498 million, equal to ten- percent of the market value of the bonus shares to be issued to the Group, which was charged
+as taxation expense during the quarter ended 30 September 2024. As the quarter end, 2,001,042 bonus shares (30 June
+2025: 2,001,042 bonus shares) have been withheld by MEL due to pending resolution of issue relating to withholding tax
+on issuance of bonus shares.
+Pakistan International Oil Limited (PIOL) is a company engaged in the business of extraction of oil and natural gas and is
+registered as a limited liability company in the Emirate of Abu Dhabi and incorporated in Abu Dhabi Global Market. Each
+consortium company (investors) which includes OGDCL, MEL, Pakistan Petroleum Company Limited (PPL) and
+Government Holdings (Private) Limited (GHPL) have a 25% equity stake in PIOL. The concession agreement between PIOL
+and Abu Dhabi National Oil Company (ADNOC) was signed on 31 August 2021 and the Offshore Block 5 was awarded to
+PIOL. Till 30 September 2025, the Group has subscribed 8.5 million ordinary shares of PIOL (30 June 2025: 8.5 million
+12.2
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 41
+================================================================================
+
+Oil & Gas Development Company Limited
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+ordinary shares) by paying USD 85 million; Rs 20,426 million (30 June 2025: USD 85 million; Rs 20,426 million).
+On 11 June 2025, the Supreme Council for financial and Economic Affairs (SCFEA) awarded the Production Concession
+Agreement to ADNOC and PIOL in respect of Offshore Block 5 with PIOL holding 40% participating interest in the
+concession.
+The Group has invested in the project company, i.e. Reko Diq Mining Company (Private) Limited (RDMC) through Pakistan
+Minerals (Private) Limited (PMPL), an entity incorporated and operating in Pakistan with collective representation of the
+Group, PPL and GHPL, together called the State-Owned Enterprises (SOEs). RDMC is engaged in the mineral exploration
+activities in Pakistan. PMPL holds an indirect working interest of 25% (8.33% of each SOE) in the RDMC through offshore
+holding companies namely Reko Diq Holdings Limited and Reko Diq Investments Limited (hereinafter referred to as
+"Holdcos"). RDMC is incorporated in Pakistan and Holdcos are incorporated in Bailiwick of Jersey. The Group's equity
+interest in PMPL is 33.33% with an effective interest of 8.33% in RDMC. The SOEs have representation on the Boards of
+Holdcos and RDMC through PMPL.
+PMPL through resolution dated 14 May 2025 has increased the paid-up capital of the company by the issue of a further
+1,549,250,040 ordinary shares of face value of PKR 10 each at a subscription price of Rs 100 each, through rights issue
+by offering the shares to existing members of PMPL, in proportion to their existing shareholding. Accordingly, the Group
+has subscribed 516,416,680 ordinary shares of face value PKR 10 along with the premium. The total shares subscribed by
+the Group in PMPL now stands at 516,420,680.
+During the quarter, the Group has made further equity contribution amounting to Rs 6,032.775 million in PMPL.
+This represents PIBs received from Uch Power Private Limited against partial settlement of overdue trade receivables on 27
+June 2023 and 04 July 2023. Face value and fair value of the PIBs on the date of initial recognition amounted to Rs 21,866
+million (30 June 2025: Rs 21,866 million) and Rs 20,286 million (30 June 2025: Rs 20,286 million) respectively and are
+carried at floating interest rate of 11.97% per annum (30 June 2025: 11.97% per annum).
+This represents investment in privately placed TFCs amounting to Rs 82,000 million. In 2013, the Government of Pakistan
+(GoP), for partial resolution of circular debt issue prevailing in the energy sector, approved issuance of TFCs amounting to
+Rs 82,000 million by Power Holding Limited (PHL), which is a government owned entity and a related party. These TFCs
+were subscribed by the Group in order to settle its overdue receivables from oil refineries and gas companies.
+As per original terms of investor agreement between the Parent Company and PHL, TFCs were for a period of seven (7)
+years including grace period of three (3) years carrying interest rate of KIBOR + 1%, payable semi-annually. The principal
+portion of these TFCs was to be paid in eight (8) equal instalments starting from 42nd month of date of transaction.
+National Bank of Pakistan executed the transaction on 10 September 2012 as Trustee. These TFCs are secured by
+Sovereign Guarantee of the GoP, covering the principal, mark-up, and/ or any other amount becoming due for payment in
+respect of investment in TFCs.
+During last year, an addendum to the agreement was signed with PHL on 26 June 2024 for the settlement of TFCs. As per
+the terms of the addendum, the overdue principal amount of Rs 82,000 million was received on 27 June 2024 and the
+interest accrued up to that date of Rs 92,718 million was to be received in twelve (12) equal monthly installments
+commencing from July 2025 and the unrecognized liquidated damages were waived off. There will be no interest on unpaid
+interest. Considering the significant modification of the terms of TFCs, the carrying amount of the existing financial asset of
+Rs 174,718 million was derecognized and a new financial asset of Rs 151,610 million was recognized resulting in a loss
+on modification in terms of TFCs of Rs 23,108 million in the financial statements for the year ended 30 June 2024. During
+the quarter, an effective interest income representing unwinding of discounted cash flows as per modified terms of TFCs
+amounting to Rs 3,628 million (30 June 2025: Rs 14,495 million) has been recognised in the profit or loss. During the
+quarter, an amount of Rs 23,176 million has been received from PHL in respect of the aforementioned interest
+For the Quarter ended 30 September 2024
+12.4
+12.5
+12.3
+
+
+================================================================================
+PAGE 42
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+TRADE DEBTS
+
+Un-secured- considered good
+Un-secured- considered doubtful
+Provision for doubtful trade debts
+(Rupees '000)
+
+30 June
+
+30 September
+Current portion of net investment in lease includes amounts billed to customers of Rs 24,430 million (30 June 2025: Rs
+33,654 million) out of which Rs 20,945 million (30 June 2025: Rs 30,226 million) is overdue on account of inter-corporate
+circular debt. As disclosed in note 3, SECP has deferred the applicability of ECL model till financial year ending on or before
+31 December 2025 on debts due directly or ultimately from the GoP in consequence of the circular debt. The amount is
+considered to be fully recoverable as the GoP is committed, hence continuously pursuing for satisfactory settlement of
+inter-corporate circular debt issue. The Group has contractual right and is entitled to charge interest if lease payments are
+delayed beyond agreed payment terms, however, the same is recognized when received by the Group. During the year, the
+Board of Directors of the Group has approved the waiver of unrecognised late payment surcharge as granted by Federal
+Cabinet on 19 March 2025, uptil 31 December 2024 to exepdite the settlement of circular debt balance.
+13.1
+
+Net investment in lease has been recognized on Gas Sale Agreements (GSAs) with power companies i.e. Uch Power
+(Private) Limited (UPL) and Uch-II Power (Private) Limited (Uch-II) as follows:
+LEASE RECEIVABLES
+Note
+(Rupees '000)
+
+30 June
+
+30 September
+13.1
+Net investment in lease
+Less: Current portion of net investment in lease
+140,894,502
+(48,696,323)
+92,198,179
+127,241,919
+(40,011,655)
+87,230,264
+613,660,983
+78,527
+613,739,510
+(78,527)
+613,660,983
+612,777,849
+64,941
+612,842,790
+(64,941)
+612,777,849
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 43
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Oil & Gas Development Company Limited
+
+Trade debts include overdue amount of Rs 550,839 million (30 June 2025: Rs 549,976 million) on account of inter-corporate
+circular debt, receivable from oil refineries, gas companies and power producers out of which Rs 263,943 million (30 June
+2025: Rs 264,208 million) and Rs 237,012 million (30 June 2025: Rs 231,980 million) are overdue from related parties, Sui
+Northern Gas Pipeline Limited and Sui Southern Gas Company Limited respectively. The Government of Pakistan (GoP) is
+committed, hence continuously pursuing for satisfactory settlement of inter-corporate circular debt issue, however, the
+progress is slower than expected resulting in accumulation of Group's trade debts. The Group considers this amount to be fully
+recoverable because the Government of Pakistan has been assuming the responsibility to settle the inter-corporate circular
+debt in the energy sector. The Group recognizes interest/ surcharge, if any, on delayed payments from customers when the
+interest/ surcharge on delayed payments is received by the Group, also refer note 13.1 related to waiver of late payment
+surcharge from UPL and Uch-II. As disclosed in note 3, SECP has deferred the applicability of ECL model till financial year
+ending on or before 31 December 2025 on financial assets due directly or ultimately from the GoP in consequence of the
+circular debt.
+14.1
+
+INCOME TAX-ADVANCE
+Income tax- advance at beginning of the quarter/ year
+Income tax paid during the quarter/ year
+Provision for current taxation- profit or loss
+Income tax- advance at end of the quarter/ year
+Note
+(Rupees '000)
+
+30 June
+
+30 September
+
+Tax credit related to remeasurement gain on employee
+retirement benefit plans -other comprehensive income
+54,019,658
+154,678,576
+(106,995,830)
+12,324,192
+114,026,596
+114,026,596
+3,737,4534
+(22,593,207)
+-
+128,807,923
+
+OTHER FINANCIAL ASSETS
+Investment in Term Deposit Receipts (TDRs)- at amortised cost
+Investment at fair value through profit or loss- Mutual funds
+Investment at fair value through profit or loss- NIT units
+16.1
+152,109,459
+600,772
+167,534,527
+41,500,000
+152,710,231
+209,794,663
+16.2
+-
+760,136
+16.1 This includes foreign currency TDRs amounting to USD 470.136 million; Rs 132,155 million (30 June 2025: USD
+473.625 million; Rs 134,320 million), and accrued interest amounting to USD 7.181 million; Rs 2,022 million (30 June
+2025: USD 2.155 million; Rs 611 million), carrying interest rate ranging from 5.85% to 7.40% (30 June 2025: 5.85% to
+7.40%) per annum, having maturities up to six months (30 June 2025: six months). This also includes investments in local
+currency TDRs amounting to Rs 32,260 million (30 June 2025: Rs 16,760) and foreign currency TDRs amounting to USD
+34 million ; Rs 9,557 million (30 June 2025: USD 34 million ; Rs 9,753). These investments are earmarked against self
+insurance reserve as explained in note 4.2 to these interim consolidated financial statements.
+16.2 Fair value has been determined using quoted repurchase prices, being net asset value of units as at quarter end.
+
+
+================================================================================
+PAGE 44
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+In respect of six of its operated concessions, namely, Gurgalot, Sinjhoro, Bitrisim, Khewari, Nim and TAY Blocks and one
+non-operated Tal Block, Petroleum Concession Agreements (PCAs) were executed under the framework of Petroleum
+Policies 1994 and 1997. Later on, in pursuance to the option available under Petroleum Policy (PP) 2012, the Tal Block
+working interest owners wherein the Parent Company’s working interest is 27.7632% signed the Supplemental
+Agreement (SA) dated 28 August 2015 with the GoP for conversion of eligible existing and future discoveries under Tal
+PCA to the PP 2012. Further, for aforementioned operated Concessions, the Parent Company also signed the SAs for
+conversion to PP 2012. Under the said arrangement, price regimes prevailing in PP 2007, PP 2009 and PP 2012 in terms
+of PP 2012 shall be applicable, correlated with the spud dates of the wells in the respective policies starting from 27
+November 2007. The conversion package as defined in the SAs included windfall levy on natural gas only.
+Oil and Gas Regulatory Authority (OGRA) has been notifying the revised wellhead prices in accordance with the relevant
+Supplemental Agreements for the period from the commencement of production of the respective discoveries.
+Accordingly, the financial impacts of the price revision were duly accounted for in the financial statements for the years
+ended 30 June 2016, 30 June 2017 and 30 June 2018 on completion of the process laid down in the law and in line with
+the Parent Company’s accounting policy.
+On 27 December 2017, the Ministry of Energy (Petroleum Division) (MoE) notified amendments in PP 2012 after approval
+from the Council of Common Interests (CCI) dated 24 November 2017. These amendments include imposition of Windfall
+Levy on Oil/Condensate (WLO). Under the said Notification, the Supplemental Agreements already executed for
+conversion from Petroleum policies of 1994 and 1997 shall be amended within 90 days, failing which the working interest
+owners will not remain eligible for gas price incentive. On 03 January 2018, the Directorate General Petroleum
+Concessions (DGPC) has required all exploration and production companies to submit supplemental agreements to
+incorporate the aforementioned amendments in PCAs signed under 1994 and 1997 policies, for execution within the
+stipulated time as specified above.
+Based on a legal advice, the Parent Company is of the view that terms of the existing PCAs as amended to-date through the
+supplemental agreements already executed cannot unilaterally be amended by the GoP through introduction of
+amendment nor can the GoP lawfully require and direct that such amendments be made to include imposition of WLO
+retrospectively and nor the GoP unilaterally hold and direct that the gas price incentive to which the Parent Company is
+presently entitled to and receiving under the conversion package as enshrined under the supplemental agreement stands
+withdrawn or the Parent Company ceases to be eligible for such incentive in case of failure to adopt the unilateral
+amendments in the existing PCAs. Accordingly, the aforementioned amendments as well as the subsequent letters
+requiring implementation of the amendments are not enforceable or binding upon the Parent Company.
+The Parent Company along with other joint operation partners has challenged the applicability of WLO against the
+backdrop of supplemental agreements already executed pursuant to PP 2012 in the Honorable Islamabad High Court
+17.1
+
+Gross sales
+Crude oil
+Gas
+Liquefied petroleum gas
+Sulphur
+SALES - NET
+Government levies
+General sales tax
+Excise duty
+Petroleum Levy
+Quarter ended 30 September
+
+(Rupees '000)
+51,278,105
+56,782,433
+11,213,224
+64,546
+119,338,308
+(12,554,566)
+(265,351)
+(507,396)
+(13,327,313)
+106,010,995
+52,172,589
+45,277,057
+10,396,121
+(10,926,687)
+(270,526)
+(456,586)
+(11,653,799)
+107,845,767
+96,191,968
+-
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 45
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+which has granted stay order till next date of hearing against the CCI decision dated 24 November 2017 on imposition of
+WLO. As mentioned above, the Parent Company on the advice of its legal counsel is confident that it has sound grounds to
+defend the aforesaid issue in the Court and that the issue will be decided in favour of the Parent Company.
+The cumulative past benefit accrued and recorded in the interim consolidated financial statements by the Parent Company
+upto 23 November 2017 in the form of revenue and profit after tax is Rs 8,550 million and Rs 4,426 million respectively.
+However, without prejudice to the Parent Company's stance in the Court case, revenue of Rs 46,246 million (30 June
+2025: Rs 44,899 million) related to gas price incentive against the supplemental agreements has been set aside on a point
+forward basis effective 24 November 2017 (the date of decision of CCI).
+Gas Sale Agreement (GSA) in respect of Kunnar Pasakhi Deep (KPD) fields between the Group and Sui Southern Gas
+Company Limited has been finalized between the parties on 12 July 2024 and the final approval of the MoE is pending.
+Adjustments on finalisaiton of GSA have been incorporated in these interim consolidated financial staements.
+In prior year, MoE has approved formula for wellhead price of gas sale from Nur-Bagla field and the Group has applied, on
+19 July 2024 by paying wellhead gas price application fee, to OGRA for notification of price of gas. Thereafter, OGRA vide
+letter dated 13 November 2024 appraised that the Authority is empowered to determine the well-head gas prices for the
+producers of natural gas in accordance with the relevant agreements or contracts to notify the same in the official gazette.
+Therefore, the Group filed a draft Gas Pricing Agreement (GPA) of Nur-Bagla on 3 December, 2024 before the MoE for
+approval. After the approval by MoE, the same shall be submitted to OGRA for the notification of well-head gas price of
+Nur-Bagla. Currently the sales revenue is being recognised as per price applicable according to the formula approved by
+the MoE. The management expects that there will be no material differences in the gas price to be notified by OGRA.
+17.2
+
+FINANCE AND OTHER INCOME
+
+(Rupees '000)
+Quarter ended 30 September
+Note
+18.1
+12.5
+Interest income on:
+Investments and bank deposits
+Finance income- lease
+Delayed payments surcharge from customers
+Unwinding of Loss on modification in terms of TFCs
+Un-realized gain on investments at fair value through profit or loss
+Exchange loss -net
+Signature bonus/ contract renewal fee
+Income on account of liquidated damages
+Others
+11,405,604
+5,047,616
+5,943,653
+3,511,365
+21,793
+(566,588)
+261,035
+68,908
+33,502
+25,726,888
+4,588,304
+4,564,085
+-
+3,627,968
+159,364
+(1,137,932)
+249,556
+108,351
+24,999
+12,184,695
+This represents income recognized on account of signature bonus/ contract renewal fee in respect of allocation of LPG
+quota.
+18.1
+17.3
+
+(Rupees '000)
+Quarter ended 30 September
+Oil & Gas Development Company Limited
+
+TAXATION
+Current tax- charge
+Deferred tax- charge/ (credit)
+33,048,621
+(448,387)
+42,097,867
+22,593,207
+1,084,167
+23,677,374
+Tax paid on issuance of bonus shares
+9,497,633
+-
+
+
+================================================================================
+PAGE 46
+================================================================================
+
+EARNINGS PER SHARE-BASIC AND DILUTED
+Profit for the quarter (Rupees '000)
+Average number of shares outstanding during the quarter ('000)
+Earnings per share-basic (Rupees)
+There is no dilutive effect on the earnings per share of the Parent Company.
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+
+(Rupees '000)
+Quarter ended 30 September
+41,019,911
+4,300,928
+9.54
+4,300,928
+The table below analyses financial instruments carried at fair value by valuation method. The different levels have been defined
+as follows:
+Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2: inputs other than quoted market prices included within Level 1 that are observable for the asset or liability, either
+directly (i.e. as prices) or indirectly (i.e. derived from prices).
+Level 3: inputs for the asset or liability that are not based on observable market data (unobservable inputs).
+Level 1
+Level 2
+Level 3
+Financial assets measured at fair value
+Other financial assets- NIT units
+30 September 2025
+760,136,
+-
+-
+30 June 2025
+600,772
+-
+-
+
+FAIR VALUE HIERARCHY
+
+RELATED PARTIES TRANSACTIONS
+Government of Pakistan owns 74.97% (30 June 2025: 74.97%) shares of the Parent Company. In 2022, the Honorable
+Supreme Court of Pakistan declared the Benazir Employees' Stock Option Scheme ultra vires. Accordingly, the shares currently
+held by OGDCL Employees' Empowerment Trust (OEET) 10.05% (30 June 2025: 10.05%) will be transferred back to the GoP
+and accordingly, the GoP holding will be increased. Therefore, all entities owned and controlled by the Government of Pakistan
+are related parties of the Group. Other related parties comprise associates, major shareholders, directors, companies with
+common directorship, key management personnel, OGDCL employees empowerment trust, employees pension trust and
+gratuity fund. The Group in normal course of business pays for airfare, electricity, telephone, gas, yield analysis required under
+Petroleum Concession Agreements and make regulatory payments to entities controlled by the GoP which are not material,
+hence not disclosed in these interim consolidated financial statements. Transactions with related parties other than disclosed
+below are disclosed in relevant notes to these interim consolidated financial statements. Transactions of the Group with related
+parties and balances outstanding at quarter end are as follows:
+(Rupees '000)
+
+CASH AND CASH EQUIVALENTS
+Cash and bank balances
+Short term highly liquid investments
+
+(Rupees '000)
+Quarter ended 30 September
+137,261,690
+127,171,938
+264,433,628
+12,513,411
+167,534,527
+180,047,938
+38,304,846
+8.91
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 47
+================================================================================
+
+(Rupees '000)
+
+Quarter ended 30 September
+MEL- Associated company- 20% shareholding of the Company
+and common directorship
+Share of profit in associate
+Dividend received
+Tax paid on issuance of bonus shares
+Expenditure charged by joint operations partner- net
+Cash calls paid/ (received) to joint operations partner- net
+Share (various fields) payable as at 30 September
+Share (various fields) receivable as at 30 September
+PIOL- Associated company- 25% shareholding of the Company and
+common directorship
+Share of (loss) in associate
+Share of other comprehensive (loss)
+PMPL- Associated company- 33.33% shareholding of the Company
+and common directorship
+Cost of investment made during the quarter
+Share of loss in associate
+Share of other comprehensive income/ (loss)
+Major shareholders
+OGDCL Employees' Empowerment Trust (10.05% share holding)
+Dividend paid to GoP on behalf of OEET
+Dividend withheld
+Related parties by virtue of the GoP holdings and/ or common directorship
+Sui Northern Gas Pipelines Limited
+Sale of natural gas
+Trade debts as at 30 September
+Pakistan State Oil Company Limited
+Sale of liquefied petroleum gas
+Purchase of petroleum, oil and lubricants
+Payable as at 30 September
+Advance against sale of LPG as at 30 September
+Pakistan Petroleum Limited
+Expenditure charged to/ (by) joint operations partner- net
+Cash calls received joint operations partner- net
+Share (various fields) receivable as at 30 September
+Share (various fields) payable as at 30 September
+3,864,403
+3,545,394
+9,497,633
+(1,399,340)
+(798,111)
+2,067,250
+49,452
+(49,939)
+(26,321)
+1,649,333
+(567,527)
+(87,989)
+20,000,000
+20,870,881
+26,620,358
+261,509,710
+174,726
+2,272,035
+246,542
+213,059
+(494,090)
+(1,107,201)
+2,516,885
+2,101,448
+3,268,447
+5,167,279
+-
+(501,095)
+371,689
+1,080,926
+584,012
+(13,975)
+(175,303)
+6,030,107
+(81,631)
+(414,376)
+-
+-
+20,934,967
+277,931,740
+315,583
+2,513,016
+656,411
+51,018
+1,028,562
+(723,930)
+2,028,022
+1,920,581
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+Oil & Gas Development Company Limited
+
+
+================================================================================
+PAGE 48
+================================================================================
+
+(Rupees '000)
+
+Quarter ended 30 September
+Pak Arab Refinery Company Limited
+Sale of crude oil
+Trade debts as at 30 September
+PARCO Pearl Gas (Private) Limited
+Sale of liquefied petroleum gas
+Advance against sale of LPG as at 30 September
+Pakistan Refinery Limited
+Sale of crude oil
+Trade debts as at 30 September
+Khyber Pakhtunkhwa Oil & Gas Company (KPOGCL)
+Expenditure charged to joint operations partner
+Cash calls received from joint operations partner
+Share (various fields) receivable as at 30 September
+Sindh Energy Holding Company Limited (SEHCL)
+Expenditure charged to joint operations partner
+SEHCL share (various fields) payable as at 30 September
+SEHCL share (various fields) receivable as at 30 September
+Sui Southern Gas Company Limited
+Sale of natural gas
+Sale of liquefied petroleum gas
+Trade debts as at 30 September
+Advance against sale of LPG as at 30 September
+Sui Southern Gas Company LPG (Pvt) Limited
+Advance against sale of LPG as at 30 September
+Government Holdings (Private) Limited (GHPL)
+Expenditure charged to joint operations partner
+Cash calls (paid to)/ received from joint operations partner
+GHPL share (various fields) receivable as at 30 September
+GHPL share (various fields) payable as at 30 September
+National Investment Trust
+Investment as at 30 September
+National Bank of Pakistan
+Balance at bank as at 30 September
+Balance of investment in TDRs as at 30 September
+Interest earned
+Power Holding Limited (PHL)
+Balance of mark-up receivable on TFCs as at 30 September
+National Insurance Company Limited
+Insurance premium paid
+Payable as at 30 June
+4,323,274
+2,805,440
+150,691
+51,457
+3,927,504
+6,766,688
+15,503
+538,847
+387,113
+
+2,196
+-
+12,112,572
+215,622
+247,362,293
+93,624
+35,905
+1,265,667
+760,430
+4,291,582
+1,849,573
+409,081
+17,255,437
+95,132,102
+3,618,235
+73,120,775
+1,216,982
+4,291
+1,924,276
+1,762,084
+161,600
+53,836
+3,157,387
+5,213,717
+17,131
+-
+32,059
+-
+2,819
+12,461,682
+261,517
+245,262,359
+94,333
+19,704
+1,170,094
+(1,404,738)
+3,243,681
+11,616
+760,136
+1,586,762
+106,735,285
+2,080,958
+64,556,388
+32,741
+-
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+RELATED PARTIES TRANSACTIONS- continued
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 49
+================================================================================
+
+Notes to the Interim Consolidated Financial Statements [unaudited]
+For the Quarter ended 30 September 2025
+(Rupees '000)
+
+Quarter ended 30 September
+RELATED PARTIES TRANSACTIONS- continued
+National Logistic Cell
+Crude transportation charges paid
+Payable as at 30 September
+Enar Petrotech Services Limited
+Consultancy services
+Payable as at 30 September
+Enar Petroleum Refining Facility
+Sale of crude oil
+Payable as at 30 September
+Other related parties
+Contribution to pension fund
+Remuneration including benefits and perquisites of key management personnel
+454,045
+644,350
+20,868
+2,780
+8,201,124
+4,766,265
+9,485,702
+437,864
+171,054
+650,808
+2,984
+10,081,122
+6,818,224
+-
+508,540
+25.1
+
+NON ADJUSTING EVENT AFTER REPORTING DATE
+The Board of Directors of the Parent Company recommended final cash dividend for the year ended 30 June 2025 at the rate
+of Rs 5.00 per share amounting to Rs 21,505 million in its meeting held on 23 September 2025.
+The Board of Directors of the Parent Company approved interim cash dividend at the rate of Rs 3.50 per share amounting to
+Rs 15,053 million in its meeting held on 29 October 2025.
+These interim consolidated financial statements were authorized for issue on 29 October 2025 by the Board of Directors of the
+Parent Company.
+DATE OF AUTHORIZATION FOR ISSUE
+
+GENERAL
+
+Figures have been rounded off to the nearest thousand of rupees, unless otherwise stated.
+25.2
+Financial risk management objectives and policies are consistent with that disclosed in the annual audited financial statements for
+the year ended 30 June 2025.
+RISK MANAGEMENT
+
+Chief Financial Officer
+Chief Executive
+Director
+Oil & Gas Development Company Limited
+
+
+================================================================================
+PAGE 50
+================================================================================
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 51
+================================================================================
+
+Oil & Gas Development Company Limited
+
+
+================================================================================
+PAGE 52
+================================================================================
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 53
+================================================================================
+
+Oil & Gas Development Company Limited
+
+
+================================================================================
+PAGE 54
+================================================================================
+
+ly Report 2025-26
+
+
+================================================================================
+PAGE 55
+================================================================================
+
+Oil & Gas Development Company Limited
+

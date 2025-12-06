@@ -1,0 +1,1064 @@
+================================================================================
+EXTRACTED TABLES: 264237.pdf
+For Vector Database Storage
+================================================================================
+
+
+================================================================================
+TABLE 1
+================================================================================
+Shape: 9 rows × 1 columns
+
+                                                              0
+                                                     51,000,000
+                                         27,497,072\r52,165,278
+                                                     79,662,350
+                                                    130,662,350
+268,792\r41,574,633\r18,515,287\r67,172,963\r1,308,492\r736,984
+                                                    129,577,151
+    176,921,371\r54,914,923\r727,054\r207,818\r373,695\r229,326
+                                                    233,374,187
+                                                    493,613,688
+
+
+================================================================================
+TABLE 2
+================================================================================
+Shape: 1 rows × 1 columns
+
+                     0
+27,497,072\r36,610,433
+
+
+================================================================================
+TABLE 3
+================================================================================
+Shape: 1 rows × 1 columns
+
+                                                          0
+-\r42,652,874\r16,721,916\r62,780,360\r1,442,432\r1,027,777
+
+
+================================================================================
+TABLE 4
+================================================================================
+Shape: 1 rows × 1 columns
+
+                                                          0
+169,319,472\r47,116,732\r653,373\r208,131\r337,022\r318,719
+
+
+================================================================================
+TABLE 5
+================================================================================
+Shape: 4 rows × 3 columns
+
+   0             1            2
+<NA> September 30, December 31,
+<NA>          2025         2024
+<NA>  (Un-Audited)    (Audited)
+Note       Rs 000      Rs 000
+
+
+================================================================================
+TABLE 6
+================================================================================
+Shape: 20 rows × 4 columns
+
+                                0    1           2           3
+                           Assets  NaN        <NA>        <NA>
+               Non-current assets  NaN        <NA>        <NA>
+    Property, plant and equipment  9.0 171,773,988 161,172,503
+              Right of use assets  NaN   1,147,610   1,383,038
+                Intangible assets  NaN   1,151,103   1,467,066
+                             <NA>  NaN 174,072,701 164,022,607
+            Long term investments 10.0  78,086,284  76,236,284
+     Long term loans and advances 11.0  56,804,146  51,780,602
+              Deferred income tax  NaN           -   5,470,851
+                    Contract cost  NaN     128,004     139,135
+                             <NA>  NaN 309,091,135 297,649,479
+                   Current assets  NaN        <NA>        <NA>
+                Stores and spares  NaN   7,360,295   8,201,385
+                    Contract cost  NaN   3,228,613   3,707,304
+  Trade debts and contract assets 12.0  67,219,857  60,563,180
+               Loans and advances  NaN   2,373,542   2,778,971
+           Income tax recoverable  NaN  36,987,418  40,536,947
+Prepayments and other receivables  NaN  51,633,180  32,160,933
+           Cash and bank balances 13.0  15,719,648  12,088,114
+                             <NA>  NaN 184,522,553 160,036,834
+
+
+================================================================================
+TABLE 7
+================================================================================
+Shape: 3 rows × 5 columns
+
+                                  0           1           2           3           4
+Administrative and general expenses (2,591,270) (2,243,116) (7,610,376) (6,628,409)
+     Selling and marketing expenses (1,209,856) (1,260,736) (4,045,514) (3,591,356)
+Impairment loss on financial assets   (531,320)   (530,003) (1,639,320) (1,648,762)
+
+
+================================================================================
+TABLE 8
+================================================================================
+Shape: 7 rows × 4 columns
+
+               0    1                           2                           3
+            <NA> <NA>          Three months ended           Nine months ended
+            <NA> <NA> September 30, September 30, September 30, September 30,
+            <NA> <NA>                   2025 2024                   2025 2024
+            <NA> Note             Rs 000 Rs 000             Rs 000 Rs 000
+         Revenue   15     30,684,341   26,835,239     89,596,109   79,535,667
+Cost of services <NA>  (21,296,240)  (20,244,261)  (63,388,362)  (59,426,675)
+    Gross profit <NA>       9,388,101   6,590,978     26,207,747   20,108,992
+
+
+================================================================================
+TABLE 9
+================================================================================
+Shape: 4 rows × 3 columns
+
+        0                            1                        2
+2,047,574 (137,082)\r\r\r\r\r-\r-\r\r-              (1,217,192)
+     -\r-                         -\r- 27,468,223\r(10,696,186)
+        -                   16,772,037                     <NA>
+2,047,574                    (137,082)               15,554,845
+
+
+================================================================================
+TABLE 10
+================================================================================
+Shape: 2 rows × 1 columns
+
+                           0
+(137,082)\r\r\r\r\r-\r-\r\r-
+                        -\r-
+
+
+================================================================================
+TABLE 11
+================================================================================
+Shape: 1 rows × 1 columns
+
+   0
+-\r-
+
+
+================================================================================
+TABLE 12
+================================================================================
+Shape: 36 rows × 3 columns
+
+                                                      0    1                           2
+                                                   <NA> <NA>           Nine months ended
+                                                   <NA> <NA> September 30, September 30,
+                                                   <NA> <NA>                   2025 2024
+                                                   <NA> Note             Rs 000 Rs 000
+                   Cash flows from operating activities <NA>                        <NA>
+                         Cash generated from operations   17     35,315,931   24,503,022
+                     Employees retirement benefits paid <NA>    (2,073,923)  (1,676,527)
+                             Addition to contract costs <NA>    (3,367,666)  (3,773,475)
+                                Advances from customers <NA>             (3,984)  16,912
+                                        Income tax paid <NA>    (2,426,569)  (2,620,975)
+           Net cash generated from operating activities <NA>     27,443,789   16,448,957
+                   Cash flows from investing activities <NA>                        <NA>
+             Additions to property, plant and equipment <NA>  (18,374,512)  (27,775,591)
+                       Acquisition of intangible assets <NA>        (326,151)  (108,564)
+Proceeds from disposal of property, plant and equipment <NA>         862,920   3,895,442
+                           Long term loans and advances <NA>    (2,548,930)  (2,010,548)
+               Return on long term loan to subsidiaries <NA>       3,889,454   4,534,356
+              Investment in U Microfinance Bank Limited <NA>    (1,850,000)  (1,200,000)
+                           Long term subordinated loans <NA>                        <NA>
+                           - Pak Telecom Mobile Limited <NA>  (10,000,000)  (13,000,000)
+                        Repayment of subordinated loans <NA>                        <NA>
+                           - Pak Telecom Mobile Limited <NA>         625,000   1,875,000
+      Return on short term investments and bank deposit <NA>           353,262   254,314
+                             Government grants received <NA>       2,476,281   2,678,751
+                  Net cash used in investing activities <NA>  (24,892,676)  (30,856,840)
+                   Cash flows from financing activities <NA>                        <NA>
+                                          Dividend paid <NA>                 (313)  (98)
+            Interest paid on short term running finance <NA>    (4,606,923)  (3,717,435)
+                       Long term loan from banks -  net <NA>      4,375,000   10,500,000
+                       Interest paid on long term loans <NA>    (5,951,528)  (8,577,334)
+                                 Lease liabilities paid <NA>        (534,006)  (833,376)
+                  Net cash used in financing activities <NA>    (6,717,770)  (2,628,243)
+              Net decrease in cash and cash equivalents <NA>   (4,166,657)  (17,036,126)
+             Cash and cash equivalents at the beginning <NA>                        <NA>
+                                          of the period <NA>  (35,028,618)  (14,185,383)
+     Cash and cash equivalents at the end of the period   18  (39,195,275)  (31,221,509)
+
+
+================================================================================
+TABLE 13
+================================================================================
+Shape: 17 rows × 7 columns
+
+                                                                     0          1          2          3          4           5           6
+STATEMENT OF CHBaAlaNnceG asE aSt Ja InNuar yE 01Q, 2U024I T(AYudited) 37,740,000 13,260,000 51,000,000 27,497,072  38,871,108 117,368,180
+                          FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2025       <NA>       <NA>       <NA>       <NA>        <NA>        <NA>
+           Total comprehensive income for the nine months period ended       <NA>       <NA>       <NA>       <NA>        <NA>        <NA>
+                        Profit for the period ended September 30, 2024          -          -          -          -     999,980     999,980
+                               Other comprehensive income - net of tax          -          -          -          -           -           -
+                                                                  <NA>          -          -          -          -     999,980     999,980
+                         Balance as at September 30, 2024 (Un-audited) 37,740,000 13,260,000 51,000,000 27,497,072  39,871,088 118,368,160
+          Total comprehensive income for the three months period ended       <NA>       <NA>       <NA>       <NA>        <NA>        <NA>
+                         Profit for the period ended December 31, 2024          -          -          -          -   3,825,863   3,825,863
+                      Other comprehensive income / (loss) - net of tax          -          -          -          - (7,086,518) (7,086,518)
+                                                                  <NA>          -          -          -          - (3,260,655) (3,260,655)
+                             Balance as at December 31, 2024 (Audited) 37,740,000 13,260,000 51,000,000 27,497,072  36,610,433 115,107,505
+           Total comprehensive income for the nine months period ended       <NA>       <NA>       <NA>       <NA>        <NA>        <NA>
+                          Loss for the period ended September 30, 2025          -          -          -          - (1,217,192) (1,217,192)
+                               Other comprehensive income - net of tax          -          -          -          -  16,772,037  16,772,037
+                                                                  <NA>          -          -          -          -  15,554,845  15,554,845
+                         Balance as at September 30, 2025 (Un-audited) 37,740,000 13,260,000 51,000,000 27,497,072  52,165,278 130,662,350
+
+
+================================================================================
+TABLE 14
+================================================================================
+Shape: 4 rows × 1 columns
+
+                                                                            0
+11,000,000\r35,000,000\r8,000,000\r7,000,000\r4,500,000\r1,875,000\r(202,037)
+                                                          67,172,963\r229,326
+                                                        67,402,289\r(229,326)
+                                                                   67,172,963
+
+
+================================================================================
+TABLE 15
+================================================================================
+Shape: 4 rows × 1 columns
+
+                                                                                       0
+14,650,010\r49,133,812\r54,103,224\r7,894,366\r6,101,484\r40,729,884\r4,187,049\r121,542
+                                                                             176,921,371
+                                13,603,007\r12,110,803\r17,940,670\r3,174,030\r2,305,302
+                                                                              49,133,812
+
+
+================================================================================
+TABLE 16
+================================================================================
+Shape: 31 rows × 5 columns
+
+  0                                               1    2             3             4
+NaN                                            <NA> <NA> September 30,  December 31,
+NaN                                            <NA> <NA>          2025          2024
+NaN                                            <NA> <NA>  (Un-Audited)     (Audited)
+NaN                                            <NA> Note       Rs 000       Rs 000
+9.0                   PROPERTY, PLANT AND EQUIPMENT <NA>          <NA>          <NA>
+NaN                          Operating fixed assets  9.1   150,785,896   138,294,889
+NaN                        Capital work-in-progress  9.3    20,988,092    22,877,614
+NaN                                            <NA> <NA>   171,773,988   161,172,503
+NaN                                            <NA> <NA> September 30, September 30,
+NaN                                            <NA> <NA>          2025          2024
+NaN                                            <NA> <NA>  (Un-Audited)  (Un-Audited)
+NaN                                            <NA> Note       Rs 000       Rs 000
+9.1                          Operating fixed assets <NA>          <NA>          <NA>
+NaN                          Opening net book value <NA>   138,294,889   123,757,109
+NaN       Additions during nine months period ended  9.2    27,414,417    23,986,905
+NaN                                            <NA> <NA>   165,709,306   147,744,014
+NaN Disposals during the period - at net book value <NA>      (96,492)      (68,199)
+NaN              Depreciation charge for the period <NA>  (14,826,918)  (13,512,409)
+NaN                                            <NA> <NA>  (14,923,410)  (13,580,608)
+NaN                          Closing net book value <NA>   150,785,896   134,163,406
+9.2          Detail of additions during the period: <NA>          <NA>          <NA>
+NaN                      Buildings on freehold land <NA>       144,906       288,194
+NaN                     Buildings on leasehold land <NA>       194,613        89,046
+NaN                                 Lines and wires <NA>    13,849,978    10,942,756
+NaN                  Apparatus, plant and equipment <NA>    12,530,251    11,239,254
+NaN                                Office equipment <NA>       378,843       370,035
+NaN                              Computer equipment <NA>       169,450       150,386
+NaN                          Furniture and fittings <NA>         2,497         4,659
+NaN                                 Submarine Cable <NA>       119,311       798,293
+NaN                                        Vehicles <NA>        24,568       104,282
+NaN                                            <NA> <NA>    27,414,417    23,986,905
+
+
+================================================================================
+TABLE 17
+================================================================================
+Shape: 9 rows × 1 columns
+
+                             0
+49,124,995\r712,954\r6,966,197
+                    56,804,146
+         69,393,354\r6,874,682
+       76,268,036\r(9,048,179)
+                    67,219,857
+             39,134\r1,420,015
+         2,503,087\r11,757,412
+                    14,260,499
+                    15,719,648
+
+
+================================================================================
+TABLE 18
+================================================================================
+Shape: 1 rows × 1 columns
+
+                   0
+1,213,715\r9,321,664
+
+
+================================================================================
+TABLE 19
+================================================================================
+Shape: 4 rows × 1 columns
+
+                   0
+9,024,499\r2,567,260
+          11,591,759
+       71,497,000\r-
+          71,497,000
+
+
+================================================================================
+TABLE 20
+================================================================================
+Shape: 2 rows × 1 columns
+
+                   0
+8,964,710\r3,500,000
+          12,464,710
+
+
+================================================================================
+TABLE 21
+================================================================================
+Shape: 3 rows × 1 columns
+
+                                0
+   41,149,418\r6,054,419\r367,908
+47,571,745\r34,184,064\r7,840,300
+                       89,596,109
+
+
+================================================================================
+TABLE 22
+================================================================================
+Shape: 1 rows × 1 columns
+
+                             0
+36,301,051\r6,526,806\r855,325
+
+
+================================================================================
+TABLE 23
+================================================================================
+Shape: 2 rows × 1 columns
+
+                   0
+4,913,987\r2,802,942
+           7,716,929
+
+
+================================================================================
+TABLE 24
+================================================================================
+Shape: 35 rows × 3 columns
+
+   0                                                    1                           2
+ NaN                                                 <NA>           Nine months ended
+ NaN                                                 <NA> September 30, September 30,
+ NaN                                                 <NA>                   2025 2024
+ NaN                                                 <NA>   (Un-Audited) (Un-Audited)
+ NaN                                                 <NA>             Rs 000 Rs 000
+17.0                       CASH GENERATED FROM OPERATIONS                        <NA>
+ NaN                                    Profit before tax        (197,637)  1,468,799
+ NaN    Adjustments for non-cash charges and other items:                        <NA>
+ NaN        Depreciation of property, plant and equipment     14,826,919   13,512,409
+ NaN                    Amortization of intangible assets           642,114   607,770
+ NaN                  Depreciation of right of use assets           344,875   528,020
+ NaN                       Amortization of contract costs       3,857,488   3,119,672
+ NaN Amortization of transaction costs on long term loans             17,603   30,186
+ NaN   Reversal / write-off of obsolete stores and spares            11,011   159,896
+ NaN                  Impairment loss on financial assets       1,639,320   1,648,762
+ NaN          Provision for employees retirement benefits       7,534,758   1,577,662
+ NaN    Gain on disposal of property, plant and equipment      (766,428)  (3,827,243)
+ NaN                            Interest on bank deposits        (427,061)  (224,374)
+ NaN                Imputed interest on lease liabilities           170,438   197,259
+ NaN        Interest cost on employee retirement benefits       3,366,122   2,935,044
+ NaN           Interest on long term loan to subsidiaries    (3,726,547)  (4,282,985)
+ NaN               Interest on long term loans from banks       5,862,135   8,778,481
+ NaN               Interest on short term running finance       4,620,740   4,639,657
+ NaN           Unearned revenue realized against advances                        <NA>
+ NaN                                       from customers        (129,955)  (180,397)
+ NaN                Release of deferred government grants        (682,910)  (974,474)
+ NaN                         Exchange loss / (gain) - net         184,145   (341,801)
+ NaN                                                 <NA>     37,147,130   29,372,343
+ NaN Effect on cash flows due to working capital changes:                        <NA>
+ NaN             (Increase) / decrease in current assets:                        <NA>
+ NaN                                    Stores and spares         830,079   (119,193)
+ NaN                      Trade debts and contract assets    (8,602,154)  (6,456,605)
+ NaN                                   Loans and advances       155,429   (1,647,709)
+ NaN                    Prepayments and other receivables    (1,998,329)  (2,474,212)
+ NaN                                                 <NA>   (9,614,975)  (10,697,719)
+
+
+================================================================================
+TABLE 25
+================================================================================
+Shape: 16 rows × 4 columns
+
+   0                                                    1            2            3
+ NaN                                                 <NA>   37,147,130   29,372,343
+ NaN Effect on cash flows due to working capital changes:         <NA>         <NA>
+ NaN             (Increase) / decrease in current assets:         <NA>         <NA>
+ NaN                                    Stores and spares      830,079    (119,193)
+ NaN                      Trade debts and contract assets  (8,602,154)  (6,456,605)
+ NaN                                   Loans and advances      155,429  (1,647,709)
+ NaN                    Prepayments and other receivables  (1,998,329)  (2,474,212)
+ NaN                                                 <NA>  (9,614,975) (10,697,719)
+ NaN                     Increase in current liabilities:         <NA>         <NA>
+ NaN                             Trade and other payables    7,710,095    5,813,891
+ NaN                                    Security deposits       73,681       14,507
+ NaN                                                 <NA>   35,315,931   24,503,022
+18.0                            CASH AND CASH EQUIVALENTS         <NA>         <NA>
+ NaN                           Short term running finance (54,914,923) (42,835,869)
+ NaN                               Cash and bank balances   15,719,648   11,614,360
+ NaN                                                 <NA> (39,195,275) (31,221,509)
+
+
+================================================================================
+TABLE 26
+================================================================================
+Shape: 1 rows × 1 columns
+
+                                                                                                                                0
+2,974,823\r4,689,141\r990,827\r3,728,484\r1,850,000\r10,000,000\r625,000\r5,533,904\r865,203\r50,017\r119,286\r2,473,050\r978,967
+
+
+================================================================================
+TABLE 27
+================================================================================
+Shape: 1 rows × 1 columns
+
+                                                                                                                                                               0
+49,625,000\r-\r47,259,467\r24,188,109\r71,305\r55,533\r96,487\r1,611\r20,645,815\r1,956,021\r5,032,624\r2,913,747\r40,729,884\r12,368\r2,940\r54,103,224\r85,733
+
+
+================================================================================
+TABLE 28
+================================================================================
+Shape: 11 rows × 6 columns
+
+                              0             1           2          3          4            5
+                           <NA>          <NA>        <NA>       <NA>     Amount   Net as per
+                           <NA> Gross amounts        <NA>       <NA>     not in    statement
+                           <NA>    subject to        <NA>        Net   scope of of financial
+                           <NA>    offsetting      Offset     amount offsetting     position
+                           <NA>       Rs 000     Rs 000    Rs 000    Rs 000      Rs 000
+       As At September 30, 2025          <NA>        <NA>       <NA>       <NA>         <NA>
+Trade debts and contract assets    44,929,434 (3,379,866) 41,549,568 25,670,289   67,219,857
+                Trade creditors   (4,367,163)   3,379,866  (987,297) 13,662,713   14,650,010
+        As At December 31, 2024          <NA>        <NA>       <NA>       <NA>         <NA>
+Trade debts and contract assets    43,809,880 (5,649,369) 38,160,511 22,402,669   60,563,180
+                Trade creditors   (6,624,898)   5,649,369  (975,529) 12,288,692   13,264,221
+
+
+================================================================================
+TABLE 29
+================================================================================
+Shape: 41 rows × 4 columns
+
+                                 0    1             2            3
+                              <NA> <NA> September 30, December 31,
+                              <NA> <NA>          2025         2024
+                              <NA> <NA>  (Un-Audited)    (Audited)
+                              <NA> Note       Rs 000      Rs 000
+            Equity and liabilities <NA>          <NA>         <NA>
+                            Equity <NA>          <NA>         <NA>
+        Share capital and reserves <NA>          <NA>         <NA>
+                     Share capital <NA>    51,000,000   51,000,000
+                  Revenue reserves <NA>          <NA>         <NA>
+                   General reserve <NA>    27,497,072   27,497,072
+               Unappropriated loss <NA>  (37,979,273) (43,575,731)
+                              <NA> <NA>  (10,482,201) (16,078,659)
+      Statutory and other reserves <NA>       935,752      935,752
+    Unrealized gain on investments <NA>          <NA>         <NA>
+measured at fair value through OCI <NA>        83,605      409,162
+                              <NA> <NA>    41,537,156   36,266,255
+                       Liabilities <NA>          <NA>         <NA>
+           Non-current liabilities <NA>          <NA>         <NA>
+        Long term loans from banks <NA>    96,823,025  104,867,250
+   Deposits from banking customers <NA>    61,545,369   39,870,286
+                 Lease liabilities <NA>    22,610,039   12,429,735
+     Employees retirement benefits <NA>    42,105,545   42,846,083
+        Deferred government grants <NA>    38,234,431   35,252,992
+           Advances from customers <NA>     1,308,492    1,442,432
+               License fee payable <NA>       895,912    8,799,401
+        Long term vendor liability <NA>    31,934,983   30,816,234
+                              <NA> <NA>   295,457,796  276,324,413
+               Current liabilities <NA>          <NA>         <NA>
+          Trade and other payables    6   162,729,847  158,600,800
+   Deposits from banking customers <NA>    73,193,030   96,741,897
+                  Interest accrued <NA>     2,720,729    6,716,644
+        Short term running finance <NA>    68,085,021   51,678,636
+        Long term loans from banks <NA>    18,618,957  134,887,702
+                 Subordinated debt <NA>       150,000    1,000,000
+                 Lease liabilities <NA>    13,484,338    4,458,672
+               License fee payable <NA>     7,981,086    2,328,854
+        Long term vendor liability <NA>    22,886,738   35,565,847
+                 Security deposits <NA>     1,959,130    1,654,053
+       Unpaid / unclaimed dividend <NA>       207,818      208,131
+                              <NA> <NA>   372,016,694  493,841,236
+      Total equity and liabilities <NA>   709,011,646  806,431,904
+
+
+================================================================================
+TABLE 30
+================================================================================
+Shape: 27 rows × 4 columns
+
+                                          0    1             2            3
+                                       <NA> <NA> September 30, December 31,
+                                       <NA> <NA>          2025         2024
+                                       <NA> <NA>  (Un-Audited)    (Audited)
+                                       <NA> Note       Rs 000      Rs 000
+                                     Assets <NA>          <NA>         <NA>
+                         Non-current assets <NA>          <NA>         <NA>
+              Property, plant and equipment    7   293,048,310  283,621,411
+                        Right of use assets <NA>    33,668,235   15,528,532
+                          Intangible assets <NA>    47,440,457   52,713,512
+                                       <NA> <NA>   374,157,002  351,863,455
+                      Long term investments <NA>        51,427       51,427
+               Long term loans and advances <NA>     7,679,146   12,280,602
+       Long term loans to banking customers <NA>    12,882,039   13,664,090
+                        Deferred income tax <NA>    12,889,321   16,896,173
+                             Contract costs <NA>       408,970      329,145
+                                       <NA> <NA>   408,067,905  395,084,892
+                             Current assets <NA>          <NA>         <NA>
+          Stock in trade, stores and spares <NA>     8,118,449    8,891,967
+            Trade debts and contract assets    8    71,596,160   64,355,709
+                 Loans to banking customers <NA>    57,920,684   60,802,770
+                         Loans and advances <NA>     3,738,613    3,706,842
+                             Contract costs <NA>     4,868,401    5,575,409
+                     Income tax recoverable <NA>    54,089,981   52,304,986
+Deposits, prepayments and other receivables <NA>    47,137,505   30,337,039
+                     Short term investments    9    27,368,869  161,231,289
+                     Cash and bank balances   10    26,105,079   24,141,001
+                                       <NA> <NA>   300,943,741  411,347,012
+
+
+================================================================================
+TABLE 31
+================================================================================
+Shape: 19 rows × 4 columns
+
+                                          0    1                           2                            3
+                                       <NA> <NA>          Three months ended            Nine months ended
+                                       <NA> <NA> September 30, September 30,   September 30, September 30
+                                       <NA> <NA>                   2025 2024                    2025 2024
+                                       <NA> Note             Rs 000 Rs 000             Rs 000  Rs 000
+                                    Revenue   12     63,723,294   56,795,340    188,322,400   163,965,961
+                           Cost of services <NA>  (42,152,734)  (43,958,610) (125,975,523)  (126,444,088)
+                               Gross profit <NA>     21,570,560   12,836,730      62,346,877   37,521,873
+        Administrative and general expenses <NA>    (8,362,227)  (7,864,353)   (25,098,515)  (22,945,920)
+             Selling and marketing expenses <NA>    (3,005,915)  (3,417,525)    (10,334,023)  (9,889,927)
+        Impairment loss on financial assets <NA>    (4,088,572)  (1,795,775)    (10,974,852)  (3,103,794)
+                                       <NA> <NA>  (15,456,714)  (13,077,653)   (46,407,390)  (35,939,641)
+                           Operating profit <NA>       6,113,846   (240,923)       15,939,487   1,582,232
+                Past service cost - pension <NA>                         - -               (5,890,142)  -
+                               Other income   13       3,023,070   2,887,199      11,859,372   14,104,958
+                    Finance and other costs <NA>  (10,653,437)  (12,068,909)   (36,133,414)  (38,686,709)
+                            Loss before tax <NA>    (1,516,521)  (9,422,633)   (14,224,697)  (22,999,519)
+                                   Taxation <NA>         238,761   3,106,295        3,049,118   7,675,973
+                        Loss for the period <NA>    (1,277,760)  (6,316,338)   (11,175,579)  (15,323,546)
+Loss per share - basic and diluted (Rupees) <NA>              (0.25)  (1.24)               (2.19)  (3.00)
+
+
+================================================================================
+TABLE 32
+================================================================================
+Shape: 20 rows × 3 columns
+
+                                                     0                           1                          2
+                                                  <NA>          Three months ended          Nine months ended
+                                                  <NA> September 30, September 30, September 30, September 30
+                                                  <NA>                   2025 2024                  2025 2024
+                                                  <NA>             Rs 000 Rs 000           Rs 000  Rs 000
+                                   Loss for the period    (1,277,760)  (6,316,338) (11,175,579)  (15,323,546)
+             Other comprehensive income for the period                        <NA>                       <NA>
+Items that will not be reclassified to profit or loss:                        <NA>                       <NA>
+                       Remeasurement gain on employees                        <NA>                       <NA>
+                                   retirement benefits                         - -             27,468,223   -
+                                            Tax effect                         - -            (10,696,186)  -
+                                                  <NA>                         - -             16,772,037   -
+           Items that may be subsequently reclassified                        <NA>                       <NA>
+                                    to profit or loss:                        <NA>                       <NA>
+             (Loss) / gain on debt instruments arising                        <NA>                       <NA>
+                                       during the year           (19,859)  185,976         (458,531)  133,475
+                                            Tax effect            5,759   (72,531)         132,974   (52,055)
+                                                  <NA>           (14,100)  113,445          (325,557)  81,420
+                   Other comprehensive income / (loss)                        <NA>                       <NA>
+                           for the period - net of tax           (14,100)  113,445        16,446,480   81,420
+     Total comprehensive income /(loss) for the period    (1,291,860)  (6,202,893)   5,270,901   (15,242,126)
+
+
+================================================================================
+TABLE 33
+================================================================================
+Shape: 32 rows × 3 columns
+
+                                                       0    1                           2
+                                                    <NA> <NA>           Nine months ended
+                                                    <NA> <NA> September 30, September 30,
+                                                    <NA> <NA>                   2025 2024
+                                                    <NA> Note             Rs 000 Rs 000
+                    Cash flows from operating activities <NA>                        <NA>
+                          Cash generated from operations   14     72,558,723   61,078,514
+                      Employees retirement benefits paid <NA>    (2,172,042)  (1,695,719)
+                             Additions to contract costs <NA>    (5,326,087)  (6,013,581)
+                         Deposits from banking customers <NA>      (1,873,784)  5,916,024
+                                         Income tax paid <NA>    (5,558,185)  (8,962,691)
+            Net cash generated from operating activities <NA>     57,628,625   50,322,547
+                    Cash flows from investing activities <NA>                        <NA>
+               Addition to property, plant and equipment <NA>  (28,849,947)  (37,287,375)
+                        Acquisition of intangible assets <NA>        (479,465)  (601,768)
+ Proceeds from disposal of property, plant and equipment <NA>       1,009,557   3,246,878
+                                  Short term investments <NA>    133,862,420   32,230,349
+                            Long term loans and advances <NA>    (2,548,929)  (2,010,931)
+                              Government grants received <NA>       5,396,465   6,999,490
+    Return on long term loans and short term investments <NA>       4,672,585   6,289,322
+            Net cash generated from investing activities <NA>     113,062,686   8,865,965
+                    Cash flows from financing activities <NA>                        <NA>
+                                   Loan from banks - net <NA>  (124,312,970)  (7,616,298)
+                                       Subordinated debt <NA>        (850,000)  (428,132)
+                                        Vendor liability <NA>   (17,407,431)  (7,666,456)
+                                 License fee - repayment <NA>      (2,525,011)  (299,835)
+                                       Finance cost paid <NA>  (27,732,207)  (32,540,408)
+                                       Lease liabilities <NA>   (12,305,686)  (7,940,998)
+                                           Dividend paid <NA>                 (313)  (98)
+                   Net cash used in financing activities <NA> (185,133,618)  (56,492,225)
+  Net (decrease) / increase in cash and cash equivalents <NA>     (14,442,307)  2,696,287
+Cash and cash equivalents at the beginning of the period <NA>  (27,537,635)  (28,188,412)
+      Cash and cash equivalents at the end of the period   15  (41,979,942)  (25,492,125)
+
+
+================================================================================
+TABLE 34
+================================================================================
+Shape: 18 rows × 9 columns
+
+                                                                     0          1          2          3          4            5       6         7            8
+STATEMENT OF CHANGES IN EQUITYBalance as at January 01, 2024 (Audited) 37,740,000 13,260,000 51,000,000 27,497,072 (22,077,634) 909,981  (39,198)   57,290,221
+                          FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2025       <NA>       <NA>       <NA>       <NA>         <NA>    <NA>      <NA>         <NA>
+                             Total comprehensive income for the period       <NA>       <NA>       <NA>       <NA>         <NA>    <NA>      <NA>         <NA>
+                     Loss for the nine months ended September 30, 2024          -          -          -          - (15,323,546)       -         - (15,323,546)
+                                            Other comprehensive income          -          -          -          -            -       -    81,420       81,420
+                                                                  <NA>          -          -          -          - (15,323,546)       -    81,420 (15,242,126)
+                         Balance as at September 30, 2024 (Un-Audited) 37,740,000 13,260,000 51,000,000 27,497,072 (37,401,180) 909,981    42,222   42,048,095
+                   Income for the three months ended December 31, 2024          -          -          -          -      929,386       -         -      929,386
+                                   Other comprehensive (loss) / income          -          -          -          -  (7,103,937)       -   366,940  (6,736,997)
+                                                                  <NA>          -          -          -          -  (6,174,551)       -   366,940  (5,807,611)
+                              Transfer to statutory and other reserves          -          -          -          -            -  25,771         -       25,771
+                             Balance as at December 31, 2024 (Audited) 37,740,000 13,260,000 51,000,000 27,497,072 (43,575,731) 935,752   409,162   36,266,255
+                             Total comprehensive income for the period       <NA>       <NA>       <NA>       <NA>         <NA>    <NA>      <NA>         <NA>
+                     Loss for the nine months ended September 30, 2025          -          -          -          - (11,175,579)       -         - (11,175,579)
+                                   Other comprehensive income / (loss)          -          -          -          -   16,772,037       - (325,557)   16,446,480
+                                                                  <NA>          -          -          -          -    5,596,458       - (325,557)    5,270,901
+                              Transfer to statutory and other reserves          -          -          -          -            -       -         -            -
+                         Balance as at September 30, 2025 (Un-Audited) 37,740,000 13,260,000 51,000,000 27,497,072 (37,979,273) 935,752    83,605   41,537,156
+
+
+================================================================================
+TABLE 35
+================================================================================
+Shape: 4 rows × 5 columns
+
+                                                              0                      1         2                           3     4
+Third Quarter RIessupedo, srubts c2rib0ed2 an5d paid-up capital       Revenue reserves      <NA> Unrealized gain / (loss) on  <NA>
+                                                           <NA>                   <NA> Statutory        investments measured  <NA>
+                                                           <NA> General Unappropriated and other               at fair value  <NA>
+                                     Class A   Class BTotal          reserve  loss  reserves                 through OCI Total
+
+
+================================================================================
+TABLE 36
+================================================================================
+Shape: 45 rows × 1 columns
+
+                                                                                                   0
+                                                   Pakistan Telecommunication Company Limited (PTCL)
+       Pakistan Telecommunication Company Limited (the Holding Company) was incorporated in Pakistan
+         on December 31, 1995 and commenced business on January 01, 1996. The Holding Company, which
+      is listed on the Pakistan Stock Exchange Limited (PSX) (formerly Karachi, Lahore and Islamabad
+      Stock Exchanges), was established to undertake the telecommunication business formerly carried
+           on by Pakistan Telecommunication Corporation (PTC). PTCs business was transferred to the
+     Holding Company on January 01, 1996 under the Pakistan Telecommunication (Re-organization) Act,
+  1996, on which date, the Holding Company took over all the properties, rights, assets, obligations
+      and liabilities of PTC, except those transferred to the National Telecommunication Corporation
+         (NTC), the Frequency Allocation Board (FAB), the Pakistan Telecommunication Authority (PTA)
+     and the Pakistan Telecommunication Employees Trust (PTET). The registered office of the Holding
+     Company is situated at PTCL Head office, Room No. 17, Ground Floor (Margalla side), Ufone Tower
+                              Plot No. 55-C, Main Jinnah Avenue, Blue Area , Sector F-7/1 Islamabad.
+           The Holding Company provides telecommunication services in Pakistan. It owns and operates
+   telecommunication facilities and provides domestic and international telephone services and other
+         communication facilities throughout Pakistan. The Holding Company has also been licensed to
+                provide such services in territories of Azad Jammu and Kashmir and Gilgit-Baltistan.
+                The Holding Company has signed a Share Purchase Agreement with Telenor Pakistan B.V.
+(Telenor) in 2023 to acquire a 100% stake in Telenor Pakistan (Pvt) Ltd (Telenor Pakistan) and Orion
+ Towers (Pvt) Ltd based on an Enterprise Value of Rs. 108,000,000 thousand on a cash free, debt free
+ basis. The transaction will be financed through a seven year (with one year grace period) US Dollar
+        syndicated Financing Facility amounting to USD 400,000 thousand led by International Finance
+          Corporation (IFC) and the relevant Financing agreements have been signed on June 27, 2024.
+     On October 1, 2025, the Competition Commission of Pakistan (CCP), through its Phase-II order on
+    the Holding Companys pre-merger application, granted approval for the proposed transaction. The
+                               transaction remains subject to other necessary regulatory approvals.
+                                                                   Pak Telecom Mobile Limited (PTML)
+ PTML was incorporated in Pakistan on July 18, 1998, as a public limited company to provide cellular
+          mobile telephony services in Pakistan. PTML commenced its commercial operations on January
+    29, 2001, under the brand name of Ufone. It is a wholly owned subsidiary of the Holding Company.
+  The registered office of PTML is situated at Ufone Tower, Plot No. 55-C, Jinnah Avenue, Blue Area,
+                                                                                          Islamabad.
+                                                                U Microfinance Bank Limited (U Bank)
+          The Holding Company acquired 100% ownership of U Bank on August 30, 2012 to offer services
+          of digital commerce and branchless banking. U Bank was incorporated on October 29, 2003 as
+    a public limited company. The registered office of U Bank is situated at Jinnah Super Market F-7
+                                                                                  Markaz, Islamabad.
+                                                           DVCOM Data (Private) Limited (DVCOM Data)
+        DVCOM Data was incorporated as a private limited company under the Companies Ordinance, 1984
+           (repealed with the enactment of the Companies Act, 2017 on 30 May 2017) on 27 March 2007.
+         Effective April 01, 2015, the Holding Company acquired 100% shareholding of DVCOM Data. The
+  license for the spectrum allocated to DVCOM Data by PTA expired during 2024. The registered office
+                                      of DVCOM Data is located at Hatim Alvi Road, Clifton, Karachi.
+                                                             Smart Sky (Private) Limited (Smart Sky)
+      Smart Sky was incorporated in Pakistan on October 12, 2015 as a private limited company. Smart
+
+
+================================================================================
+TABLE 37
+================================================================================
+Shape: 4 rows × 1 columns
+
+                                                                            0
+21,087,078\r64,323,089\r54,103,224\r12,110,326\r6,100,511\r631,550\r4,374,069
+                                                                  162,729,847
+                     25,415,203\r12,110,803\r19,875,367\r4,033,954\r2,887,762
+                                                                   64,323,089
+
+
+================================================================================
+TABLE 38
+================================================================================
+Shape: 2 rows × 1 columns
+
+                      0
+243,997,961\r49,050,349
+            293,048,310
+
+
+================================================================================
+TABLE 39
+================================================================================
+Shape: 7 rows × 1 columns
+
+                                                                                 0
+                                                           238,897,893\r31,673,501
+                                                                       270,571,394
+                                                (227,626)\r(316,174)\r(26,029,633)
+                                                                      (26,573,433)
+                                                                       243,997,961
+144,906\r194,613\r13,849,978\r16,606,209\r378,843\r280,954\r2,497\r96,190\r119,311
+                                                                        31,673,501
+
+
+================================================================================
+TABLE 40
+================================================================================
+Shape: 1 rows × 1 columns
+
+                         0
+(465,434)\r-\r(24,486,337)
+
+
+================================================================================
+TABLE 41
+================================================================================
+Shape: 15 rows × 1 columns
+
+                              0
+                        Rs 000
+          74,101,982\r7,132,873
+        81,234,855\r(9,638,695)
+                     71,596,160
+                      5,558,456
+           1,698,411\r7,053,328
+                      8,751,739
+             12,992,048\r66,626
+                     13,058,674
+                     27,368,869
+                      1,200,587
+2,924,166\r2,560,124\r5,984,204
+                     11,468,494
+          11,757,412\r1,678,586
+                     13,435,998
+
+
+================================================================================
+TABLE 42
+================================================================================
+Shape: 1 rows × 1 columns
+
+           0
+1,697,008\r-
+
+
+================================================================================
+TABLE 43
+================================================================================
+Shape: 1 rows × 1 columns
+
+                  0
+147,255,738\r83,293
+
+
+================================================================================
+TABLE 44
+================================================================================
+Shape: 1 rows × 1 columns
+
+                              0
+5,140,886\r1,280,430\r5,035,063
+
+
+================================================================================
+TABLE 45
+================================================================================
+Shape: 1 rows × 1 columns
+
+                   0
+9,321,664\r1,535,061
+
+
+================================================================================
+TABLE 46
+================================================================================
+Shape: 4 rows × 1 columns
+
+                               0
+17,959,093\r3,024,161\r2,661,125
+                      23,644,379
+                   71,497,000\r-
+                      71,497,000
+
+
+================================================================================
+TABLE 47
+================================================================================
+Shape: 2 rows × 1 columns
+
+                             0
+162,142\r3,500,000\r27,169,224
+                    30,831,366
+
+
+================================================================================
+TABLE 48
+================================================================================
+Shape: 3 rows × 1 columns
+
+                                             0
+             41,149,418\r69,357,204\r6,054,419
+116,561,041\r41,551,586\r9,365,521\r20,844,252
+                                   188,322,400
+
+
+================================================================================
+TABLE 49
+================================================================================
+Shape: 1 rows × 1 columns
+
+                                0
+36,301,051\r59,011,281\r6,526,806
+
+
+================================================================================
+TABLE 50
+================================================================================
+Shape: 2 rows × 1 columns
+
+                   0
+6,669,085\r5,190,287
+          11,859,372
+
+
+================================================================================
+TABLE 51
+================================================================================
+Shape: 37 rows × 3 columns
+
+   0                                                     1                           2
+ NaN                                                  <NA>           Nine months ended
+ NaN                                                  <NA> September 30, September 30,
+ NaN                                                  <NA>                   2025 2024
+ NaN                                                  <NA>   (Un-Audited) (Un-Audited)
+ NaN                                                  <NA>           Rs 000   Rs 000
+14.0                        CASH GENERATED FROM OPERATIONS                        <NA>
+ NaN                                       Loss before tax  (14,224,697)  (22,999,519)
+ NaN     Adjustments for non-cash charges and other items:                        <NA>
+ NaN         Depreciation of property, plant and equipment     26,029,633   24,486,337
+ NaN                     Amortization of intangible assets       5,752,520   5,811,343
+ NaN                        Amortization of contract costs       5,953,270   5,154,690
+ NaN           Impairment of property, plant and equipment                 316,174   -
+ NaN                   Depreciation of right of use assets       8,693,058   4,899,868
+ NaN                    Allowance for expected credit loss      10,978,532   3,103,794
+ NaN Provision for obsolete stores, spares and loose tools            88,020   180,673
+ NaN           Provision for employees retirement benefits       7,679,678   4,767,465
+ NaN                 Imputed interest on lease liabilities       4,678,895   2,183,039
+ NaN         Interest cost on employee retirement benefits       3,384,362   2,957,654
+ NaN                             Unearned revenue realized        (129,955)  (180,397)
+ NaN     Gain on disposal of property, plant and equipment      (781,931)  (2,781,444)
+ NaN     Return on bank deposits and Government securities    (4,848,171)  (6,242,960)
+ NaN                 Release of deferred government grants    (2,415,026)  (2,501,583)
+ NaN                                         Finance costs     28,070,157   33,523,406
+ NaN                                                  <NA>     79,224,519   52,362,366
+ NaN  Effect on cash flows due to working capital changes:                        <NA>
+ NaN                           Increase in current assets:                        <NA>
+ NaN                     Stock in trade, stores and spares            685,498   86,586
+ NaN                       Trade debts and contract assets    (8,917,779)  (5,472,183)
+ NaN                            Loans to banking customers     (5,637,067)  12,608,715
+ NaN                                    Loans and advances       (31,771)  (1,953,386)
+ NaN           Deposits, prepayments and other receivables    1,018,224   (11,578,171)
+ NaN                                                  <NA>   (12,882,895)  (6,308,439)
+ NaN                      Increase in current liabilities:                        <NA>
+ NaN                              Trade and other payables      5,912,022   14,915,791
+ NaN                                     Security deposits           305,077   108,796
+ NaN                                                  <NA>      6,217,099   15,024,587
+ NaN                                                  <NA>      72,558,723  61,078,514
+
+
+================================================================================
+TABLE 52
+================================================================================
+Shape: 34 rows × 3 columns
+
+                                                                   0                                                                                             1                                                   2
+                                                                <NA>                                                                                          <NA>                                   Nine months ended
+                                                                <NA>                                                                                          <NA>                         September 30, September 30,
+                                                                <NA>                                                                                          <NA>                                           2025 2024
+                                                                <NA>                                                                                          <NA>                           (Un-Audited) (Un-Audited)
+                                                                <NA>                                                                                          <NA>                                     Rs 000 Rs 000
+                                                                 15.                                                                     CASH AND CASH EQUIVALENTS                                                <NA>
+                                                                <NA>                                                                        Cash and bank balances                             26,105,079   21,156,669
+                                                                <NA>                                                                    Short term running finance                          (68,085,021)  (46,648,794)
+                                                                <NA>                                                                                          <NA>                          (41,979,942)  (25,492,125)
+                                                                 16.                                                                           SEGMENT INFORMATION                                                <NA>
+                                                                <NA> For management purposes, the Group is organized into three operating segments i.e. fixed line                                                <NA>
+                                                                <NA>    communications (Wire line), wireless communications (Wireless) and Banking. The reportable                                                <NA>
+                                                                <NA>        operating segments derive their revenue primarily from voice, data and other services.                                                <NA>
+16.1  Segment information for the reportable segments is as follows:                                                                                          <NA>                                                <NA>
+                                                                <NA>                                                                                          <NA>                     Wireline Wireless Banking Total
+                                                                <NA>                                                                                          <NA>                     Rs 000 Rs 000 Rs 000 Rs 000
+                                                                <NA>                                                          Nine months ended September 30, 2025                                                <NA>
+                                                                <NA>                                                                               Segment revenue  89,228,201   83,966,532   21,091,752   194,286,485
+                                                                <NA>                                                                         Inter segment revenue      (4,944,345)  (772,240)  (247,500)  (5,964,085)
+                                                                <NA>                                                               Revenue from external customers  84,283,856   83,194,292   20,844,252   188,322,400
+                                                                <NA>                                                                               Segment results (1,205,020)  (3,227,468)  (6,743,091)  (11,175,579)
+                                                                <NA>                                                          Nine months ended September 30, 2024                                                <NA>
+                                                                <NA>                                                                               Segment revenue  78,680,342   73,822,721   17,675,165   170,178,228
+                                                                <NA>                                                                         Inter segment revenue             (4,597,139)  (1,615,128)  - (6,212,267)
+                                                                <NA>                                                               Revenue from external customers  74,083,203   72,207,593   17,675,165   163,965,961
+                                                                <NA>                                                                               Segment results   989,980   (10,207,229)  (6,106,297)  (15,323,546)
+                                                                <NA>                                                                                          <NA>                     Wireline Wireless Banking Total
+                                                                <NA>                                                                                          <NA>                     Rs 000 Rs 000 Rs 000 Rs 000
+                                                                <NA>                                                                      As at September 30, 2025                                                <NA>
+                                                                <NA>                                                                                Segment assets        342,179,375226,797,814140,034,457709,011,646
+                                                                <NA>                                                                           Segment liabilities        319,892,529199,134,159148,447,802667,474,490
+                                                                <NA>                                                                       As at December 31, 2024                                                <NA>
+                                                                <NA>                                                                                Segment assets        312,773,909217,760,775275,897,220806,431,904
+                                                                <NA>                                                                           Segment liabilities        296,343,468194,236,144279,586,037770,165,649
+
+
+================================================================================
+TABLE 53
+================================================================================
+Shape: 44 rows × 3 columns
+
+                                                                 0             1                         2
+               17.  TRANSACTIONS AND BALANCES WITH RELATED PARTIES          <NA>                      <NA>
+                                                              <NA>          <NA>         Nine months ended
+                                                              <NA> September 30,             September 30,
+                                                              <NA>          <NA>                 2025 2024
+                                                              <NA>          <NA> (Un-Audited) (Un-Audited)
+                                                              <NA>          <NA>           Rs 000 Rs 000
+                 Relationship with the Group Nature of transaction          <NA>                      <NA>
+                 i. Shareholders Technical services assistance fee          <NA>     5,872,540   4,976,618
+          ii.  Associated undertakings  Sale of goods and services          <NA>     6,076,415   5,962,418
+                                    Purchase of goods and services          <NA>     2,221,832   1,646,727
+                                                      Prepaid rent          <NA>         750,830   690,313
+                        iii. Employees benefits PTCL Gratuity Fund          <NA>          119,286   56,908
+                                         plans  PTML Gratuity Fund          <NA>         163,160   154,662
+                                              U Bank Gratuity Fund          <NA>         102,512   100,097
+    iv. Employees contribution PTCL PTCL Employees GPF Trust - net          <NA>           50,017   60,518
+                                      plans  U Bank Provident Fund          <NA>           84,283   79,675
+                                 v. The Government of Pakistan and          <NA>                      <NA>
+        its related entities PTCL Charges under license obligation          <NA>     2,473,050   1,326,035
+ vi. Directors, Chief Executive and Fee and remuneration including          <NA>                      <NA>
+                  Key Management Personnelbenefits and perquisites          <NA>     2,070,523   2,022,062
+                                                              <NA> September 30,              December 31,
+                                                              <NA>          <NA>                 2025 2024
+                                                              <NA>          <NA>    (Un-Audited) (Audited)
+                                                              <NA>          <NA>           Rs 000 Rs 000
+                                   Trade debts and contract assets          <NA>                      <NA>
+                                         - Associated undertakings          <NA>   47,259,467   42,021,388
+                       Deposits, prepayments and other receivables          <NA>                      <NA>
+               - Pakistan Telecommunication Employees Trust (PTET)          <NA>           55,533   25,634
+                                         - Associated undertakings          <NA>         118,336   240,148
+                 Pakistan Telecommunication Employees Trust (PTET)          <NA>    20,645,815   2,951,439
+                                     Long term loans to executives          <NA>                      <NA>
+                                 and key management personnel PTCL          <NA>           96,487   96,680
+                                          Trade and other payables          <NA>                      <NA>
+                                                   Trade creditors          <NA>                      <NA>
+                                         - Associated Undertakings          <NA>     5,448,545   4,973,512
+             - The Government of Pakistan and its related entities          <NA>     2,913,747   2,293,643
+                 Retention money payable to associated undertaking          <NA>             2,940   2,940
+             Technical assistance services fee payable to Etisalat          <NA>   54,103,224   48,230,684
+Pakistan Telecommunication Company Limited Employees gratuity fund          <NA>           85,733   89,535
+                                                              PTML          <NA>                      <NA>
+                                                   - Gratuity Fund          <NA>         395,680   231,620
+                                                            U Bank          <NA>                      <NA>
+                                        - Gratuity Fund Receivable          <NA>           82,068   68,787
+                                                  - Provident Fund          <NA>          135,232   57,406
+
+
+================================================================================
+TABLE 54
+================================================================================
+Shape: 1 rows × 1 columns
+
+                                                                                                           0
+47,536,807(5,599,692)41,937,11539,297,74081,234,855\r(6,996,699)5,599,692(1,397,007)(19,690,071)(21,087,078)
+
+
+================================================================================
+FINANCIAL STATEMENTS IDENTIFIED
+================================================================================
+
+• Statement Of Financial Position
+  - Page: 3
+  - Consolidated: False
+  - Header: statement of financial position
+
+• Statement Of Profit Or Loss
+  - Page: 41
+  - Consolidated: True
+  - Header: consolidated statement of 
+profit or loss
+
+• Statement Of Cash Flows
+  - Page: 3
+  - Consolidated: False
+  - Header: statement of cash flows
+
+
+================================================================================
+SEGMENT INFORMATION IDENTIFIED
+================================================================================
+
+• Page 6: business segment
+• Page 45: segment information
+• Page 45: segment information

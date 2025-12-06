@@ -1,0 +1,5233 @@
+================================================================================
+NARRATIVE TEXT: 264237.pdf
+For LLM Processing (Tables Removed)
+================================================================================
+
+
+================================================================================
+PAGE 3
+================================================================================
+
+CONTENTS
+Board of Directors
+Corporate Information
+Directors’ Review
+Condensed Interim Financial Statements
+Condensed Interim Statement of Financial Position
+Condensed Interim Statement of Profit or Loss
+Condensed Interim Statement of Comprehensive Income
+Condensed Interim Statement of Cash Flows
+Condensed Interim Statement of Changes in Equity
+Notes to and Forming Part of the Condensed Interim Financial Statements
+Condensed Consolidated Interim Financial Statements
+Condensed Consolidated Interim Statement of Financial Position
+Condensed Consolidated Interim Statement of Profit or Loss
+Condensed Consolidated Interim Statement of Comprehensive Income
+Condensed Consolidated Interim Statement of Cash Flows
+Condensed Consolidated Interim Statement of Changes in Equity
+Notes to and Forming Part of the Condensed Consolidated Interim Financial Statements
+
+06-07
+08-10
+12-13
+
+18-28
+30-31
+
+36-47
+
+Report 2025
+
+
+================================================================================
+PAGE 4
+================================================================================
+
+BOARD OF DIRECTORS
+Chairman PTCL Board
+Zarrar Hasham Khan
+Members PTCL Board
+Abdulrahim A. Al Nooryani
+Ahad Khan Cheema
+Imdad Ullah Bosal
+Jawad Paul Khawaja
+Nazih El Hassanieh
+Brooke Marie Lindsay
+Marwan Bin Shakar
+Khaled Hegazy
+
+
+================================================================================
+PAGE 5
+================================================================================
+
+CORPORATE INFORMATION
+Management
+Hatem Mohamed Bamatraf
+President & Group Chief Executive Officer
+Mohammad Nadeem Khan
+Group Chief Financial Officer
+Umer Farid
+Group Chief People Officer
+Naveed Khalid Butt
+Group Chief Regulatory Officer
+Zahida Awan
+Group Chief Legal Officer &
+Company Secretary
+Jafar Khalid
+Group Chief Technology &
+Information Officer
+Ahmad Kamal
+Group Chief Customer Care Officer
+Muhammad Shehzad Yousuf
+Chief Retail Sales Officer-Fixed Line
+Shahid Abbas
+Group Chief Internal Auditor
+Syed Atif Raza
+Group Chief Commercial Officer &
+Group Chief Marketing Officer
+Asif Ahmad
+Group Chief Business Solutions Officer
+Khawaja Shehzad Ullah
+Chief Retail Sales Officer
+Syed Mazhar Hussain
+Advisor to President & Group CEO
+Legal Advisor &
+Company Secretary
+Zahida Awan
+Group Chief Legal Officer &
+Company Secretary
+Registered Office
+PTCL Head Office,
+Room #17, Ground Floor (Margalla Side),
+Ufone Tower, Plot #55-C,
+Main Jinnah Avenue, Sector F-7/1,
+Blue Area, Islamabad
+Fax: +92-51-2310477
+Email: company.secretary@ptclgroup.com
+Web: www.ptcl.com.pk
+Auditors
+EY Ford Rhodes
+Chartered Accountants
+Bankers
+Conventional
+Allied Bank Limited
+Askari Bank Limited
+Bank Alfalah Limited
+Bank Al Habib Limited
+Citibank N.A.
+Deutsche Bank A.G.
+Industrial and Commercial Bank of China
+Faysal Bank Limited
+First Women Bank Limited
+Habib Bank Limited
+Habib Metropolitan Bank Limited
+JS Bank Limited
+MCB Bank Limited
+National Bank of Pakistan
+Samba Bank Limited
+Soneri Bank Limited
+Standard Chartered Bank (Pakistan) Limited
+Bank Makramah Limited
+The Bank of Khyber
+The Bank of Punjab
+United Bank Limited
+Zarai Taraqiati Bank Limited
+Mobilink Microfinance Bank Limited
+Telenor Microfinance Bank Limited
+U Microfinance Bank Limited
+Pak Kuwait Investment Company (Private) Limited
+Pak Brunei Investment Company Limited
+Pak China Investment Company Limited
+Islamic
+Al Baraka Bank (Pakistan) Limited
+BankIslami Pakistan Limited
+Dubai Islamic Bank Pakistan Limited
+Meezan Bank Limited
+MCB Islamic Bank Limited
+Share Registrar
+FAMCO Share Registration Services (Pvt) Limited
+8-F, Near Hotel Faran, Nursery,
+Block-6, P.E.C.H.S., Shahra-e-Faisal, Karachi.
+Tel: +92-21-34380101-2
+Fax: +92-21-34380106
+Email:info.shares@famcosrs.com
+
+Report 2025
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+DIRECTORS’ REVIEW
+The Directors of Pakistan Telecommunication Company Limited (PTCL) are pleased to present
+to the shareholders the financial statements of the Company for the nine months ended 30th
+September 2025.
+During the first nine months of 2025, PTCL Group sustained its strong growth trajectory, further
+reinforcing its position as Pakistan’s premier integrated telecom service provider. The Group
+recorded an impressive 15% year-on-year revenue increase, fueled by robust performance across
+key segments including fixed broadband, mobile data, business solutions, and microfinance.
+PTCL Group achieved revenue of Rs. 188.3 billion, marking a 15% increase year-on-year. The
+remarkable growth was fueled by a 56% rise in Flash Fiber revenue and a 17% increase in
+Business Solutions revenue versus the same period in 2024. PTML (Ufone) maintained its strong
+momentum with a 15% revenue growth, while Ubank recorded an impressive 19% growth over the
+corresponding period last year.
+The Group delivered an operating profit of Rs. 15.9 billion, driven by strong topline growth, cost
+optimization measures and a stable macroeconomic backdrop. PTCL’s operating profit rose by
+57% to Rs. 12.9 billion, while Ufone continued strong performance with an operating profit of Rs.
+11.9 billion. The Group recorded a net loss of Rs. 11.2 billion, primarily due to one-off adjustments,
+including recording of additional pension liability as ordered by the Honorable Supreme Court of
+Pakistan. Further, Ubank’s bottom line remained under pressure owing to accelerated Expected
+Credit Loss (ECL) against the unsecured portfolio.
+PTCL’s rapid expansion of its FTTH network remained a key catalyst for its exceptional revenue
+growth. The company remained committed to delivering the fastest and most reliable internet
+experience through its flagship offering, ‘Flash Fiber.’ Maintaining its leadership as Pakistan’s
+No.1 FTTH service, Flash Fiber crossed a significant milestone of 750,000 subscribers nationwide,
+representing a 30% growth over the same period last year.
+The Business Services segment further strengthened its leadership position, remaining the
+market leader in IP bandwidth, cloud solutions, data center services, and other ICT solutions.
+The Enterprise Business segment delivered a 14% revenue growth compared to the same period
+last year, supported by strong demand from corporate clients. The Carrier and Wholesale segment
+maintained its positive momentum, achieving a 24% increase in revenue, while the International
+segment posted a 6% year-on-year growth.
+PTCL also recorded robust growth in IP bandwidth and managed capacity penetration within the
+Wholesale segment, boosting adoption of emerging digital services such as Content Delivery
+Networks (CDNs). The company also established strategic partnerships with major CMOs to
+enhance IP bandwidth and satellite-based connectivity across Pakistan, particularly in AJK and
+GB, including a landmark collaboration with a leading satellite provider aimed at expanding
+nationwide broadband access.
+PTCL sealed a landmark Trans-Pakistan connectivity agreement with leading Chinese operators,
+strengthening east-west digital trade routes. In addition, PTCL also achieved a major milestone
+by executing wet segment capacity sales from Singapore to Marseille through submarine cable
+partnerships, underscoring Pakistan’s growing role in global digital infrastructure.
+Ufone sustained its growth trajectory, achieving a 5.9 percentage-point increase in 4G base
+penetration to reach 69.2% in September 2025. The company also advanced its network
+modernisation by phasing out 44% of its 3G network and reallocating spectrum resources to
+strengthen 4G and VoLTE performance.
+The Group’s digital and financial services portfolio delivered strong momentum. UPaisa recorded
+1.2 million monthly active users, reflecting approximately 153% year-on-year growth, while the My
+Ufone app reached 5.4 million monthly active users, up 65%. Ufone also maintained its leadership
+in digital recharge penetration.
+The Competition Commission of Pakistan granted Phase-II approval for the proposed acquisition
+of Telenor Pakistan by PTCL, marking an important milestone in the consolidation of the
+telecom sector. This milestone strengthens PTCL Group’s position in the industry, further driving
+connectivity, expanding digital access, and contributing to the Government’s vision of a digitally
+empowered Pakistan.
+The Company also partnered with Mercantile, Apple’s authorised distributor in Pakistan, to launch
+the iPhone 17 series bundled with exclusive offers on Ufone and PTCL Flash Fiber services in
+Karachi, Lahore, and Islamabad. The partnership offers official, warranty-backed devices with
+extended warranties, instant insurance coverage, and bundled telecom benefits, providing
+customers with premium connectivity and an enhanced digital experience in line with PTCL
+Group’s commitment to delivering modern and reliable services.
+
+
+================================================================================
+PAGE 7
+================================================================================
+
+Building on our success at the Pakistan Digital Awards and Effie Pakistan, PTCL Group has added
+another milestone by winning four prestigious honours at the Dragons of Pakistan 2025 Awards.
+The Group earned a Gold Award for ‘Dil Se’ initiative: Thar Water Plants, a Bronze Award for ‘Data
+Bohhaaat Hai x PSL’, and two Black Awards for ‘Hockey Hai Pakistan Ki Shaan’ and ‘Data Bohhaaat
+Hai Weekly Grand Offer’. These campaigns celebrated Pakistan’s spirit, creative excellence and
+consistent focus on meaningful communication that connects with audiences across Pakistan.
+Each initiative reflects the purpose and passion that continue to guide PTCL Group’s work.
+Social Impact: ‘Dil Se’ Initiatives Making a Difference
+Under its flagship social impact platform ‘Dil Se’, PTCL Group continues to drive meaningful
+change by establishing strategic partnerships and delivering community-focused programs that
+promote socioeconomic inclusion, empowerment, and connectivity nationwide.
+Following the success of the first phase of the ‘Ba-Ikhtiar’ program, PTCL Group renewed its
+partnership with the Pakistan Poverty Alleviation Fund (PPAF) to launch the second phase of the
+initiative for the economic and digital integration of small-scale women entrepreneurs. The Group
+has initiated a nationwide registration drive for the expanded program. The rollout will begin with
+the Christian community in Rawalpindi and the Kalash community in Chitral KP, before expanding
+to 23 cities across Pakistan to support women entrepreneurs through digital and financial
+enablement.
+PTCL Group is further expanding its partnership with PPAF to address other vital aspects of
+community well-being. The institutions have signed another MoU to provide access to clean
+drinking water in underserved regions of Thar and South Punjab through solutions such as
+reverse osmosis systems, rainwater harvesting plants, and hand pumps, which will benefit over
+200,000 people.
+Additionally, PTCL Group demonstrated operational resilience following the recent floods that
+affected several regions of Pakistan. Ufone 4G provided free call minutes in the most impacted
+districts to help people contact emergency services and their families, while PTCL extended bill
+discounts on Fixed Broadband services to affected customers. These initiatives reflect the Group’s
+commitment to community welfare and its role as a trusted connectivity partner during times of
+crisis.
+PTCL Group also introduced SUNO, an AI-powered early warning system developed in partnership
+with ConnectHear to support the deaf and hard-of-hearing community during emergencies and
+natural disasters. The system delivers sign language video alerts via Ufone’s WhatsApp platform,
+ensuring timely and accessible communication free of cost. This initiative represents PTCL Group’s
+ongoing effort to promote inclusion and public safety through technology.
+Your attention is drawn to note 14.2 of PTCL’s interim financial statements for the period, wherein
+the Hon’ble Supreme Court of Pakistan (SCP), by order dated July 10, 2025, directed the Company
+to recognize its continuing liability towards former civil servants transferred from the Telegraph &
+Telephone (T&T) Department to the Corporation and subsequently to the Company, and to record
+this as a declared liability in line with applicable accounting and corporate law.
+The liability covers differential of pension payable in accordance with prevailing standards for
+similarly placed public servants. The SCP further held that such benefits are not payable to
+workmen / workers, ex-civil servants who availed Voluntary Separation Scheme, or employees
+appointed by PTC, and remanded certain Transferred Employees’ cases to the High Courts for
+determination of their civil servant status.
+The management and employees of PTCL Group remain committed to providing quality services
+at competitive prices through concerted efforts to be the partner of choice for our customers and
+to improve shareholders’ value.
+
+On behalf of the Board
+Zarrar Hasham Khan
+Hatem Mohamed Bamatraf
+Chairman, Board of Directors PTCL
+President & Group Chief Executive Officer
+Islamabad: October 21, 2025
+
+Report 2025
+
+
+================================================================================
+PAGE 9
+================================================================================
+
+Report 2025
+
+
+================================================================================
+PAGE 11
+================================================================================
+
+CONDENSED INTERIM
+FINANCIAL STATEMENTS
+FOR THE NINE MONTHS PERIOD ENDED
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+Report 2025
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Equity and liabilities
+Equity
+Share capital and reserves
+Share capital
+
+51,000,000
+51,000,000
+Revenue reserves
+
+General reserve
+
+27,497,072
+27,497,072
+
+Unappropriated profit
+
+52,165,278
+36,610,433
+
+
+
+
+79,662,350
+64,107,505
+
+
+
+
+130,662,350
+115,107,505
+Liabilities
+Non-current liabilities
+Deferred income tax
+
+268,792
+-
+Employees retirement benefits
+
+41,574,633
+42,652,874
+Deferred government grants
+
+18,515,287
+16,721,916
+Long term loans from banks
+
+67,172,963
+62,780,360
+Contract liabilities
+
+1,308,492
+1,442,432
+Lease liabilities
+
+736,984
+1,027,777
+
+
+
+
+129,577,151
+124,625,359
+Current liabilities
+Trade and other payables
+
+176,921,371
+169,319,472
+Short term running finance
+
+54,914,923
+47,116,732
+Security deposits
+
+727,054
+653,373
+Unclaimed dividend
+
+207,818
+208,131
+Current maturity of lease liabilities
+
+373,695
+337,022
+Current portion of long term loans from banks
+
+229,326
+318,719
+
+
+
+
+233,374,187
+217,953,449
+Total equity and liabilities
+
+493,613,688
+457,686,313
+Contingencies and commitments
+
+The annexed notes 1 to 22 are an integral part of these condensed interim financial statements.
+CONDENSED INTERIM
+STATEMENT OF FINANCIAL POSITION
+AS AT SEPTEMBER 30, 2025
+Chairman
+Chief Financial Officer
+President & CEO
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Assets
+Non-current assets
+Property, plant and equipment
+
+171,773,988
+161,172,503
+Right of use assets
+
+1,147,610
+1,383,038
+Intangible assets
+
+1,151,103
+1,467,066
+
+
+
+
+174,072,701
+164,022,607
+Long term investments
+
+78,086,284
+76,236,284
+Long term loans and advances
+
+56,804,146
+51,780,602
+Deferred income tax
+
+-
+5,470,851
+Contract cost
+
+128,004
+139,135
+
+
+
+
+309,091,135
+297,649,479
+Current assets
+Stores and spares
+
+7,360,295
+8,201,385
+Contract cost
+
+3,228,613
+3,707,304
+Trade debts and contract assets
+
+67,219,857
+60,563,180
+Loans and advances
+
+2,373,542
+2,778,971
+Income tax recoverable
+
+36,987,418
+40,536,947
+Prepayments and other receivables
+
+51,633,180
+32,160,933
+Cash and bank balances
+
+15,719,648
+12,088,114
+
+
+
+
+184,522,553
+160,036,834
+Total assets
+
+493,613,688
+457,686,313
+Chairman
+Chief Financial Officer
+President & CEO
+
+Report 2025
+
+
+================================================================================
+PAGE 14
+================================================================================
+
+CONDENSED INTERIM
+STATEMENT OF PROFIT OR LOSS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+
+Three months ended
+Nine months ended
+
+
+
+
+September 30,	 September 30,	 September 30,	 September 30,
+
+
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Revenue
+
+30,684,341
+26,835,239
+89,596,109
+79,535,667
+Cost of services
+
+(21,296,240)	 (20,244,261)	 (63,388,362)	 (59,426,675)
+Gross profit
+
+9,388,101
+6,590,978
+26,207,747
+20,108,992
+Administrative and general expenses
+
+(2,591,270)
+(2,243,116)
+(7,610,376)
+(6,628,409)
+Selling and marketing expenses
+
+(1,209,856)
+(1,260,736)
+(4,045,514)
+(3,591,356)
+Impairment loss on financial assets
+
+(531,320)
+(530,003)
+(1,639,320)
+(1,648,762)
+
+
+
+
+(4,332,446)
+(4,033,855)	 (13,295,210)	 (11,868,527)
+Operating profit
+
+5,055,655
+2,557,123
+12,912,537
+8,240,465
+Past service cost - Pension
+14.2
+-
+- 	 (5,890,142)
+-
+Other income
+
+2,565,551
+3,184,302
+7,716,929
+10,475,467
+Finance and other costs
+
+(4,702,817)
+(6,007,559)	 (14,936,961)	 (17,247,133)
+Profit / (Loss) before tax
+
+2,918,389
+(266,134)
+(197,637)
+1,468,799
+Taxation
+
+(870,815)
+129,052
+(1,019,555)
+(468,819)
+Profit / (Loss) for the period
+
+2,047,574
+(137,082)
+(1,217,192)
+999,980
+Earnings / (Loss) per share
+
+- basic and diluted (Rupees)
+
+0.40
+(0.03)
+(0.24)
+0.20
+The annexed notes 1 to 22 are an integral part of these condensed interim financial statements.
+Chairman
+Chief Financial Officer
+President & CEO
+
+
+================================================================================
+PAGE 15
+================================================================================
+
+CONDENSED INTERIM
+STATEMENT OF COMPREHENSIVE INCOME
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+
+Three months ended
+Nine months ended
+
+
+
+
+September 30,	 September 30,	 September 30,	 September 30,
+
+
+
+
+
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Profit / (Loss) for the period
+
+2,047,574
+(137,082)
+(1,217,192)
+999,980
+Other comprehensive income for the period
+
+
+
+
+Item that will not be reclassified to statement
+
+
+
+
+
+of profit or loss:
+
+
+
+
+
+
+Remeasurement gain on employees
+
+
+
+
+retirement benefits
+
+-
+-
+27,468,223
+-
+
+Tax effect
+
+-
+- 	 (10,696,186)
+-
+Other comprehensive income for the period
+
+
+
+
+
+- net of tax
+
+-
+-
+16,772,037
+-
+
+Total comprehensive income for the period
+2,047,574
+(137,082) 	 15,554,845
+999,980
+The annexed notes 1 to 22 are an integral part of these condensed interim financial statements.
+Chairman
+Chief Financial Officer
+President & CEO
+
+Report 2025
+
+
+================================================================================
+PAGE 16
+================================================================================
+
+CONDENSED INTERIM
+STATEMENT OF CASH FLOWS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Cash flows from operating activities
+Cash generated from operations
+
+35,315,931
+24,503,022
+Employees retirement benefits paid
+
+(2,073,923)
+(1,676,527)
+Addition to contract costs
+
+(3,367,666)
+(3,773,475)
+Advances from customers
+
+(3,984)
+16,912
+Income tax paid
+
+(2,426,569)
+(2,620,975)
+Net cash generated from operating activities
+
+27,443,789
+16,448,957
+Cash flows from investing activities
+Additions to property, plant and equipment
+
+(18,374,512)
+(27,775,591)
+Acquisition of intangible assets
+
+(326,151)
+(108,564)
+Proceeds from disposal of property, plant and equipment
+862,920
+3,895,442
+Long term loans and advances
+
+(2,548,930)
+(2,010,548)
+Return on long term loan to subsidiaries
+
+3,889,454
+4,534,356
+Investment in U Microfinance Bank Limited
+
+(1,850,000)
+(1,200,000)
+Long term subordinated loans
+
+- Pak Telecom Mobile Limited
+
+(10,000,000)
+(13,000,000)
+Repayment of subordinated loans
+
+- Pak Telecom Mobile Limited
+
+625,000
+1,875,000
+Return on short term investments and bank deposit
+
+353,262
+254,314
+Government grants received
+
+2,476,281
+2,678,751
+Net cash used in investing activities
+
+(24,892,676)
+(30,856,840)
+Cash flows from financing activities
+Dividend paid
+
+(313)
+(98)
+Interest paid on short term running finance
+
+(4,606,923)
+(3,717,435)
+Long term loan from banks - net
+
+4,375,000
+10,500,000
+Interest paid on long term loans
+
+(5,951,528)
+(8,577,334)
+Lease liabilities paid
+
+(534,006)
+(833,376)
+Net cash used in financing activities
+
+(6,717,770)
+(2,628,243)
+Net decrease in cash and cash equivalents
+
+(4,166,657)
+(17,036,126)
+Cash and cash equivalents at the beginning
+
+of the period
+
+(35,028,618)
+(14,185,383)
+Cash and cash equivalents at the end of the period
+
+(39,195,275)
+(31,221,509)
+The annexed notes 1 to 22 are an integral part of these condensed interim financial statements.
+Chairman
+Chief Financial Officer
+President & CEO
+
+
+================================================================================
+PAGE 17
+================================================================================
+
+CONDENSED INTERIM
+STATEMENT OF CHANGES IN EQUITY
+SEPTEMBER 30, 2025
+
+
+
+Issued, subscribed and paid-up capital
+Revenue reserves
+
+
+
+
+
+
+
+General
+Unappropriated
+
+
+
+
+Class “A”
+Class “B”
+Total
+reserve
+profit
+Total
+
+
+
+
+
+
+(Rupees in ‘000)
+Balance as at January 01, 2024 (Audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+38,871,108
+117,368,180
+Total comprehensive income for the nine months period ended
+
+Profit for the period ended September 30, 2024
+
+-
+-
+-
+-
+999,980
+999,980
+
+Other comprehensive income - net of tax
+
+-
+-
+-
+-
+-
+-
+
+
+
+
+-
+-
+-
+-
+999,980
+999,980
+Balance as at September 30, 2024 (Un-audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+39,871,088 	 118,368,160
+Total comprehensive income for the three months period ended
+
+Profit for the period ended December 31, 2024
+
+-
+-
+-
+-
+3,825,863
+3,825,863
+
+Other comprehensive income / (loss) - net of tax
+
+-
+-
+-
+-
+(7,086,518)
+(7,086,518)
+
+
+
+
+-
+-
+-
+-
+(3,260,655)
+(3,260,655)
+Balance as at December 31, 2024 (Audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+36,610,433
+115,107,505
+Total comprehensive income for the nine months period ended
+
+Loss for the period ended September 30, 2025
+
+-
+-
+-
+-
+(1,217,192)
+(1,217,192)
+
+Other comprehensive income - net of tax
+
+-
+-
+-
+-
+16,772,037
+16,772,037
+
+
+
+
+-
+-
+-
+-
+15,554,845
+15,554,845
+Balance as at September 30, 2025 (Un-audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+52,165,278
+130,662,350
+The annexed notes 1 to 22 are an integral part of these condensed interim financial statements.
+Chairman
+Chief Financial Officer
+President & CEO
+
+Report 2025
+
+
+================================================================================
+PAGE 18
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+1.
+THE COMPANY AND ITS OPERATIONS
+
+Pakistan Telecommunication Company Limited (“PTCL”, “the Company”) was incorporated in
+Pakistan on December 31, 1995 and commenced business on January 01, 1996. The Company,
+which is listed on the Pakistan Stock Exchange Limited (PSX), was established to undertake
+the telecommunication business formerly carried on by the Pakistan Telecommunication
+Corporation (PTC). PTC’s business was transferred to the Company on January 01, 1996 under
+the Pakistan Telecommunication (Re-organization) Act, 1996, on which date, the Company took
+over all the properties, rights, assets, obligations and liabilities of PTC, except those transferred
+to the National Telecommunication Corporation (NTC), the Frequency Allocation Board (FAB), the
+Pakistan Telecommunication Authority (PTA) and the Pakistan Telecommunication Employees
+Trust (PTET). The registered office of the Company is situated at PTCL Head office, Room No. 17,
+Ground Floor (Margalla side), Ufone Tower Plot No. 55-C, Main Jinnah Avenue, Blue Area, Sector
+F-7/1 Islamabad.
+
+The Company provides telecommunication services in Pakistan. It owns and operates
+telecommunication facilities and provides domestic and international telephone services and other
+communication facilities throughout Pakistan. The Company has also been licensed to provide
+such services in territories of Azad Jammu and Kashmir and Gilgit-Baltistan.
+
+The Company has signed a Share Purchase Agreement with Telenor Pakistan B.V. (Telenor) in 2023
+to acquire a 100% stake in Telenor Pakistan (Pvt) Ltd (Telenor Pakistan) and Orion Towers (Pvt)
+Ltd based on an Enterprise Value of Rs. 108,000,000 thousand on a cash free, debt free basis. The
+transaction will be financed through a seven year (with one year grace period) US Dollar syndicated
+Financing Facility amounting to USD 400,000 thousand led by International Finance Corporation
+(IFC) and the relevant Financing agreements have been signed on June 27, 2024.
+
+On October 1, 2025, the Competition Commission of Pakistan (CCP), through its Phase-II order
+on the Company’s pre-merger application, granted approval for the proposed transaction. The
+transaction remains subject to other necessary regulatory approvals.
+2.
+STATEMENT OF COMPLIANCE
+
+These condensed interim financial statements have been prepared in accordance with the
+accounting and reporting standards as applicable in Pakistan for interim financial reporting.
+The accounting and reporting standards as applicable in Pakistan for interim financial reporting
+comprise of:
+-
+International Accounting Standard (IAS) 34, Interim Financial Reporting, issued by the
+International Accounting Standards Board (IASB) as notified under the Companies Act, 2017; and
+-
+Provision of and directives issued under the Companies Act, 2017.
+
+Where the provisions of and directives issued under the Companies Act, 2017 differ with the
+requirements of IAS 34, the provisions of and directives issued under the Companies Act, 2017
+have been followed.
+
+These financial statements are the condensed separate financial statements of the Company. In
+addition to these condensed separate financial statements, the Company also prepares condensed
+consolidated financial statements.
+3.
+BASIS OF PREPARATION
+
+These condensed interim financial statements do not include all of the information required in the
+annual financial statements prepared in accordance with the approved accounting and reporting
+standards as applicable in Pakistan. However, selected explanatory notes are included to explain
+events and transactions that are significant to an understanding of the changes in the Company’s
+financial position and performance since the last annual financial statements. These condensed
+interim financial statements should be read in conjunction with the Company’s latest annual
+financial statements as at and for the year ended December 31, 2024.
+
+
+================================================================================
+PAGE 19
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+4.
+CRITICAL ACCOUNTING ESTIMATES AND JUDGEMENTS
+4.1	 The preparation of these condensed interim financial statements in conformity with approved
+accounting and reporting standards requires the use of certain critical accounting estimates. It
+also requires management to exercise its judgment in the process of applying the Company’s
+accounting policies. Estimates and judgments are continually evaluated and are based on historic
+experience including expectations of future events that are believed to be reasonable under the
+circumstances.
+
+Estimates and judgments made by the management in the preparation of these condensed
+interim financial statements are the same as those used in the preparation of the audited financial
+statements of the Company for the year ended December 31, 2024 except for the following:
+4.2	 As disclosed in Note 14.2, during the period, a change in accounting estimate has been recognized
+in accordance with IAS 8 – Accounting Policies, Changes in Accounting Estimates and Errors, as a
+result of the judgment of the Supreme Court of Pakistan (SCP) in relation to pension litigation.
+
+Following the SCP’s judgment, the Company conducted a revised actuarial valuation for employees
+entitled to increased pensionary benefits and compensation. This revised valuation was carried out
+in accordance with prevailing standards applicable to similarly situated civil servants.
+
+As a result of this reassessment, the following changes in actuarial assumptions and estimates
+were made:
+•	 Adjustment to future pension growth rate assumptions for civil servants and others.
+•	 Incorporation of additional compensation elements mandated by the SCP decision.
+
+As a result, the loss before tax has increased by Rs. 5,890,142 thousand and Other Comprehensive
+Income (net of tax) has increased by Rs. 16,772,037 thousand. The Company will continue to assess
+these assumptions periodically in accordance with applicable accounting standards.
+5.
+MATERIAL ACCOUNTING POLICIES
+
+The accounting policies and the methods of computations adopted in the preparation of these
+condensed interim financial statements are consistent with those followed in the preparation of the
+Company’s audited financial statements for the year ended December 31, 2024.
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+6.
+LONG TERM LOANS FROM BANKS
+
+MCB Bank Ltd
+
+11,000,000
+11,000,000
+
+Habib Bank Ltd
+
+35,000,000
+35,000,000
+
+Bank Alfalah Ltd
+
+8,000,000
+8,000,000
+
+Faysal Bank Ltd
+
+7,000,000
+7,000,000
+
+Bank Islami Pakistan Ltd
+6.1
+4,500,000
+2,000,000
+
+Pak China Investment Company
+6.2
+1,875,000
+-
+
+Less: transaction costs
+
+(202,037)
+(219,640)
+
+
+
+
+
+67,172,963
+62,780,360
+
+Accrued Interest
+
+229,326
+318,719
+
+
+
+
+
+67,402,289
+63,099,079
+
+Current portion of long term loans from banks
+
+(229,326)
+(318,719)
+
+
+
+
+
+67,172,963
+62,780,360
+
+Report 2025
+
+
+================================================================================
+PAGE 20
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+6.1 	 During the period, the Company entered into a finance agreement dated September 10, 2025 to
+avail long term finance facility to the extent of Rs. 2,500,000 thousand to meet the ongoing capex
+requirements of the Company. The finance facility is secured by way of hypothecation against
+assets of the Company. The loan is repayable quarterly in arrears commencing from September
+30, 2029.
+6.2 	 During the period, the Company entered into a finance agreement dated June 26, 2025 to avail long
+term finance facility to the extent of Rs. 2,500,000 thousand to meet the capex requirements of the
+Company. The finance facility is secured by way of hypothecation against assets of the Company,
+excluding land, building, licenses etc. The loan is repayable in sixteen quarterly instalments
+commencing from September 30, 2028.
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+7.
+TRADE AND OTHER PAYABLES
+
+Trade creditors
+
+14,650,010
+13,264,221
+
+Accrued and other liabilities
+7.1
+49,133,812
+46,085,468
+
+Technical services assistance fee
+7.2
+54,103,224
+48,230,684
+
+Advances from customers / contract liability
+
+7,894,366
+9,155,557
+
+Retention money / payable to contractors
+
+
+and suppliers
+
+6,101,484
+7,582,467
+
+Payable to subsidiaries on account of
+
+
+group taxation
+
+40,729,884
+40,733,736
+
+Sales tax payable
+
+4,187,049
+3,468,014
+
+Income tax collected / deducted at source
+
+121,542
+799,325
+
+
+
+
+
+176,921,371
+169,319,472
+7.1 	 Accrued and other liabilities
+
+Accrued liability for operational expenses
+
+13,603,007
+11,935,596
+
+Amount withheld on account of provincial levies
+
+(Sub-judice) for ICH operations
+
+12,110,803
+12,110,803
+
+Accrual for Government / regulatory expenses
+
+17,940,670
+16,812,077
+
+Accrued wages
+
+3,174,030
+3,253,401
+
+Others
+
+2,305,302
+1,973,591
+
+
+
+
+
+49,133,812
+46,085,468
+7.2 	 Liability has not been settled since State Bank of Pakistan has not yet acknowledged the extension
+of Technical Service Assistance (TSA) Agreement.
+
+
+================================================================================
+PAGE 21
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+8.
+SHORT TERM RUNNING FINANCE
+
+These facilities are obtained from various commercial banks with an aggregate limit of Rs
+47,050,000 thousand (December 31, 2024: 31,550,000 thousand) and are secured against 1st pari
+passu charge on the assets of the Company. These facilities carry markup rates ranging from
+1-month KIBOR to 6-month KIBOR plus weighted average rate of 0.27% (December 31, 2024:
+1-month KIBOR to 6-month KIBOR plus weighted average rate of 0.17%) per annum.
+
+This also include shariah compliant, rated, unlisted, unsecured, privately placed short term sukuk
+amounting to Rs 30,000,000 thousand (December 31, 2024: 20,000,000 thousand) issued to meet
+the working capital requirements with a tenor of 6 months from the issue date (December 31, 2024:
+6 months from the issue date) carrying mark-up rates of 3-month KIBOR minus weighted average
+rate of 0.02% (December 31, 2024: 3-month KIBOR to 6-month KIBOR plus weighted average rate
+of 0.13%) per annum. Habib Bank Limited was a mandated lead advisor, arranger and investment
+agent for the sukuk. The issuer has the right to exercise call option on or after 3 months from issue
+date.
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+9.
+PROPERTY, PLANT AND EQUIPMENT
+
+Operating fixed assets
+9.1
+150,785,896
+138,294,889
+
+Capital work-in-progress
+9.3
+20,988,092
+22,877,614
+
+
+
+
+
+171,773,988
+161,172,503
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+9.1	 Operating fixed assets
+
+Opening net book value
+
+138,294,889
+123,757,109
+
+Additions during nine months period ended
+9.2
+27,414,417
+23,986,905
+
+
+
+
+
+165,709,306
+147,744,014
+
+Disposals during the period - at net book value
+
+(96,492)
+(68,199)
+
+Depreciation charge for the period
+
+(14,826,918)
+(13,512,409)
+
+
+
+
+
+(14,923,410)
+(13,580,608)
+
+Closing net book value
+
+150,785,896
+134,163,406
+9.2	 Detail of additions during the period:
+
+Buildings on freehold land
+
+144,906
+288,194
+
+Buildings on leasehold land
+
+194,613
+89,046
+
+Lines and wires
+
+13,849,978
+10,942,756
+
+Apparatus, plant and equipment
+
+12,530,251
+11,239,254
+
+Office equipment
+
+378,843
+370,035
+
+Computer equipment
+
+169,450
+150,386
+
+Furniture and fittings
+
+2,497
+4,659
+
+Submarine Cable
+
+119,311
+798,293
+
+Vehicles
+
+24,568
+104,282
+
+
+
+
+
+27,414,417
+23,986,905
+
+Report 2025
+
+
+================================================================================
+PAGE 22
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+9.3	 Additions to Capital work-in-progress during the nine months period ended Sep 30, 2025 were Rs
+25,733,569 thousand (September 30, 2024: Rs 27,730,044 thousand). Transfers from Capital workin-progress to operating fixed assets during the nine months period ended September 30, 2025
+were Rs 27,623,090 thousand (September 30, 2024: Rs 23,941,357 thousand).
+10. 	 During the period, the Company made an additional investment amounting to Rs. 1,850,000
+thousand in its wholly owned subsidiary, U Microfinance Bank Limited. Furthermore, the Company
+continues to support its subsidiaries to meet their regulatory and capex requirements.
+
+
+
+
+
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+11. 	 LONG TERM LOANS AND ADVANCES
+
+Loans to PTML - unsecured
+
+49,124,995
+39,499,995
+
+Loans to employees - secured
+
+712,954
+845,168
+
+Others
+
+6,966,197
+11,435,439
+
+
+
+
+
+56,804,146
+51,780,602
+12. 	 TRADE DEBTS AND CONTRACT ASSETS
+
+Trade debts
+
+69,393,354
+61,483,727
+
+Contract assets
+
+6,874,682
+6,488,312
+
+
+
+
+
+76,268,036
+67,972,039
+
+Allowance for expected credit loss
+
+(9,048,179)
+(7,408,859)
+
+
+
+
+
+67,219,857
+60,563,180
+13. 	 CASH AND BANK BALANCES
+
+Cash in hand
+
+39,134
+112,080
+
+Balances with banks:
+13.1
+
+
+Deposit accounts local currency
+
+1,420,015
+1,440,655
+
+Current accounts
+
+
+Local currency
+
+2,503,087
+1,213,715
+
+
+Foreign currency
+
+11,757,412
+9,321,664
+
+
+
+
+
+14,260,499
+10,535,379
+
+
+
+
+
+15,719,648
+12,088,114
+
+
+================================================================================
+PAGE 23
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+13.1	Bank balance includes Rs 2,982 thousand (December 31, 2024: Rs 212,391 thousand) carrying
+profit rates ranging from 2.7% to 9.5% (December 31, 2024: 7% to 21%) per annum from Shariah
+arrangements.
+14. 	 CONTINGENCIES AND COMMITMENTS
+
+There has been no material change in contingencies as disclosed in the last audited financial
+statements of the Company for the year ended December 31, 2024, except in note 14.1, 14.2 and
+14.3 as disclosed below:
+14.1	For the tax years 2007, 2009, 2010, 2011 to 2023, Taxation Officer disallowed certain expenses, tax
+credits and levied short deduction of Withholding Tax (WHT). The impugned orders were challenged
+at the relevant appellate forums which allowed partial relief thereof. After taking into account the
+orders of CIR (Appeals), ATIR as well as rectification orders tax impact of the disallowances is Rs
+51,115,762 thousand. Appeals on the remaining outstanding items are pending adjudication before
+ATIR. Reference in respect of 2007 is subjudice before the Honorable Islamabad High Court. Stay
+has been obtained in all cases from different fora. The CIR (Appeals) have remanded back the
+disallowances relating to tax years 2014 and 2020 having tax impact of Rs. 5,937,972 thousand to
+Taxation Officer.
+14.2	This relates to pension litigation disclosed in note 14.7 of the Company’s financial statements
+for the year ended December 31, 2024. By order dated July 10, 2025, the Honorable Supreme
+Court of Pakistan (SCP) directed the Company to recognize its continuing liability towards former
+civil servants transferred from the Telegraph & Telephone (T&T) Department to the PTC and
+subsequently to the Company, and to record this as a declared liability in line with applicable
+accounting and corporate law.
+
+The liability covers differential of pension payable in accordance with prevailing standards for
+similarly placed public servants. The SCP further held that such benefits are not payable to
+workmen/workers, ex-civil servants who availed Voluntary Separation Scheme (VSS), or employees
+appointed by PTC, and remanded certain transferred employees’ cases to the High Courts for
+determination of their civil servant status.
+
+To comply, the Company engaged an independent legal advisor to determine such transferred
+employees who being civil servant at the time of their transfer are entitled to increase in pension and
+has recognized an amount of Rs. 5,890,142 thousand, as past service cost in the statement of profit
+or loss, based on its best estimate of expenditure required to meet its obligation as determined by
+the SCP. In this respect, the Company had also engaged independent actuary to calculate additional
+pension liability (refer to note 4.2, for changes in underlying actuarial assumptions).
+
+Based on this exercise, adequate provision has been made, and based on legal advice, any
+potential adverse findings from the High Courts are not expected to materially impact the financial
+statements.
+
+Report 2025
+
+
+================================================================================
+PAGE 24
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+14.3	This relates to the Competition Commission of Pakistan (CCP) litigation as disclosed in Note 14.8
+of the Company’s financial statements for the year ended December 31, 2024. Pursuant to the
+proceedings, the Competition Appellate Tribunal, vide its order dated August 11, 2025, has imposed
+a penalty on the Company equivalent to 2% of the turnover from the relevant period, generated by
+Long Distance and International (LDI) operations solely through International Clearing House (ICH)
+linked activities. In compliance with this order, the Company has recognized a penalty amounting
+to Rs. 458,830 thousand under other costs in these statement of profit or loss. The Company has
+deposited the amount under protest and filed an appeal before Supreme Court against the said
+order.
+
+
+
+
+
+
+
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+14.4	Guarantees and bid bonds issued in favor of :
+
+Universal Service Fund (USF) against
+
+
+government grants
+
+9,024,499
+9,270,431
+
+Others
+14.4.1
+2,567,260
+3,252,806
+
+
+
+
+
+11,591,759
+12,523,237
+
+Corporate guarantee in favor of PTML
+
+71,497,000
+65,497,000
+
+Corporate guarantee in favor of Ubank
+
+-
+10,000,000
+
+
+
+
+
+71,497,000
+75,497,000
+14.4.1	Others includes bank guarantee given on behalf of DVCOM Data (Private) Limited to PTA amounting
+to Rs 675,000 thousand (December 31, 2024: Rs. 675,000 thousand).
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+14.5	Commitments
+
+Contracts for capital expenditure
+
+8,964,710
+10,275,706
+
+Letter of comforts in favor of PTML
+
+3,500,000
+3,500,000
+
+
+
+
+
+12,464,710
+13,775,706
+
+
+================================================================================
+PAGE 25
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+15. 	 REVENUE
+
+The Company generates revenue from the following performance obligations of its telecommunication services.
+
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+
+Revenue segments
+
+Broadband and IPTV
+
+41,149,418
+36,301,051
+
+Voice services
+
+6,054,419
+6,526,806
+
+Wireless data
+
+367,908
+855,325
+
+Revenue from retail customers
+
+47,571,745
+43,683,182
+
+Corporate and wholesale
+
+34,184,064
+28,449,272
+
+International
+
+7,840,300
+7,403,213
+
+Total revenue
+
+89,596,109
+79,535,667
+15.1 	Revenue is stated net of trade discount amounting to Rs 14,749 thousand (September 30, 2024:
+Rs 26,209 thousand) and Federal Excise Duty and sales tax amounting to Rs 12,867,364 thousand
+(September 30, 2024: Rs 12,851,644 thousand).
+
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+16.	 OTHER INCOME
+
+Income from financial assets
+16.1
+4,913,987
+4,611,041
+
+Income from non-financial assets
+
+2,802,942
+5,864,426
+
+
+
+
+
+7,716,929
+10,475,467
+16.1 	Income from financial assets include Rs 66 thousand (September 30, 2024: Rs 257 thousand)
+earned from Shariah arrangements.
+
+Report 2025
+
+
+================================================================================
+PAGE 26
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+17. 	 CASH GENERATED FROM OPERATIONS
+
+Profit before tax
+
+(197,637)
+1,468,799
+
+Adjustments for non-cash charges and other items:
+
+
+Depreciation of property, plant and equipment
+
+14,826,919
+13,512,409
+
+
+Amortization of intangible assets
+
+642,114
+607,770
+
+
+Depreciation of right of use assets
+
+344,875
+528,020
+
+
+Amortization of contract costs
+
+3,857,488
+3,119,672
+
+
+Amortization of transaction costs on long term loans
+17,603
+30,186
+
+
+Reversal / write-off of obsolete stores and spares
+11,011
+159,896
+
+
+Impairment loss on financial assets
+
+1,639,320
+1,648,762
+
+
+Provision for employees retirement benefits
+
+7,534,758
+1,577,662
+
+
+Gain on disposal of property, plant and equipment
+(766,428)
+(3,827,243)
+
+
+Interest on bank deposits
+
+(427,061)
+(224,374)
+
+
+Imputed interest on lease liabilities
+
+170,438
+197,259
+
+
+Interest cost on employee retirement benefits
+
+3,366,122
+2,935,044
+
+
+Interest on long term loan to subsidiaries
+
+(3,726,547)
+(4,282,985)
+
+
+Interest on long term loans from banks
+
+5,862,135
+8,778,481
+
+
+Interest on short term running finance
+
+4,620,740
+4,639,657
+
+
+Unearned revenue realized against advances
+
+
+
+from customers
+
+(129,955)
+(180,397)
+
+
+Release of deferred government grants
+
+(682,910)
+(974,474)
+
+
+Exchange loss / (gain) - net
+
+184,145
+(341,801)
+
+
+
+
+
+37,147,130
+29,372,343
+
+Effect on cash flows due to working capital changes:
+
+(Increase) / decrease in current assets:
+
+
+Stores and spares
+
+830,079
+(119,193)
+
+
+Trade debts and contract assets
+
+(8,602,154)
+(6,456,605)
+
+
+Loans and advances
+
+155,429
+(1,647,709)
+
+
+Prepayments and other receivables
+
+(1,998,329)
+(2,474,212)
+
+
+
+
+
+(9,614,975)
+(10,697,719)
+
+Increase in current liabilities:
+
+
+Trade and other payables
+
+7,710,095
+5,813,891
+
+
+Security deposits
+
+73,681
+14,507
+
+
+
+
+
+35,315,931
+24,503,022
+18. 	 CASH AND CASH EQUIVALENTS
+
+Short term running finance
+
+(54,914,923)
+(42,835,869)
+
+Cash and bank balances
+
+15,719,648
+11,614,360
+
+
+
+
+
+(39,195,275)
+(31,221,509)
+
+
+================================================================================
+PAGE 27
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+19. 	 TRANSACTIONS AND BALANCES WITH RELATED PARTIES
+
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+Relationship with the Company
+Nature of transaction
+i.
+Shareholders
+Technical services assistance fee
+
+
+
+
+- note 19.1
+2,974,823
+2,619,512
+ii.
+Subsidiaries
+Sale of goods and services
+4,689,141
+4,606,135
+
+
+
+
+Purchase of goods and services
+990,827
+1,615,128
+
+
+
+
+Mark up on loans
+3,728,484
+4,288,049
+
+
+
+
+Long term investment in subsidiary
+1,850,000
+2,400,000
+
+
+
+
+Long term loan to subsidiary
+10,000,000
+13,000,000
+
+
+
+
+Repayment of long term loans from
+
+
+
+
+subsidiary
+625,000
+1,875,000
+iii.
+Associated undertakings
+Sale of goods and services
+5,533,904
+5,548,713
+
+
+
+
+Purchase of goods and services
+865,203
+737,847
+iv.
+Employees contribution plan
+PTCL Employees GPF Trust - net
+50,017
+60,518
+v.
+Employees retirement
+
+
+benefit plan
+Contribution to the plan- Gratuity
+119,286
+56,908
+vi.
+The Government of Pakistan
+
+
+related entities
+Charge under license obligations
+2,473,050
+2,009,453
+vii.
+Directors, Chief Executive and	 Fee and remuneration including
+
+
+Key management personnel	 benefits and perquisites
+978,967
+1,007,650
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+
+Period / year-end balances
+
+Receivables from related parties
+
+Long term loans to subsidiaries
+49,625,000
+40,250,000
+
+Trade debts
+
+-	 Subsidiaries
+-
+626,000
+
+-	 Associated undertakings
+47,259,467
+42,005,179
+
+Other receivables
+
+-	 Subsidiaries
+24,188,109
+22,200,771
+
+-	 Associated undertakings
+71,305
+71,305
+
+-	 Pakistan Telecommunication Employees Trust (PTET)
+55,533
+25,634
+
+-	 Long term loans to executives and key management personnel
+96,487
+96,680
+
+Bank deposit with subsidiary
+1,611
+1,499
+
+Pakistan Telecommunication Employees Trust (PTET)
+20,645,815
+2,951,438
+
+Payables to related parties
+
+Trade creditors
+
+-	 Subsidiaries
+1,956,021
+1,955,895
+
+-	 Associated undertakings
+5,032,624
+4,316,537
+
+-	 The Government of Pakistan related entities
+2,913,747
+2,293,643
+
+Payable to subsidiaries on account of group taxation
+40,729,884
+40,733,736
+
+Security deposits from subsidiary
+12,368
+3,623
+
+Retention money payable to associated undertakings
+2,940
+2,940
+
+Technical services assistance fee payable to Etisalat 19.1
+54,103,224
+48,230,684
+
+Pakistan Telecommunication Company Limited
+
+
+Employees Gratuity Fund
+85,733
+89,535
+19.1 	This represents the Company’s share of fee payable to Emirates Telecommunication
+Corporation (Etisalat) under an agreement for technical services at the rate of 3.5% of Pakistan
+Telecommunication Group’s consolidated revenue.
+
+Report 2025
+
+
+================================================================================
+PAGE 28
+================================================================================
+
+20. 	 OFFSETTING OF FINANCIAL ASSETS AND LIABILITIES
+
+
+
+
+
+
+Amount
+Net as per
+
+
+
+Gross amounts
+
+
+not in
+statement
+
+
+
+subject to
+
+Net
+scope of
+of financial
+
+
+
+offsetting
+Offset
+amount
+offsetting
+position
+
+
+
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+
+As At September 30, 2025
+
+Trade debts and contract assets
+44,929,434
+(3,379,866)
+41,549,568
+25,670,289
+67,219,857
+
+Trade creditors
+(4,367,163)
+3,379,866
+(987,297)
+13,662,713
+14,650,010
+
+As At December 31, 2024
+
+Trade debts and contract assets
+43,809,880
+(5,649,369)
+38,160,511
+22,402,669
+60,563,180
+
+Trade creditors
+(6,624,898)
+5,649,369
+(975,529)
+12,288,692
+13,264,221
+21. 	 FINANCIAL RISK MANAGEMENT AND FAIR VALUES
+
+The Company’s financial risk management objectives and policies are consistent with that disclosed
+in the annual financial statements for the year ended December 31, 2024. There is no change in
+the nature and corresponding hierarchies of fair value levels of financial instruments form those
+as disclosed in the audited financial statements of the Company for the year ended December 31,
+2024.
+
+The carrying amount of all financial assets and financial liabilities are estimated to approximate
+their fair values.
+22. 	 DATE OF AUTHORIZATION FOR ISSUE OF CONDENSED INTERIM FINANCIAL STATEMENTS
+22.1	These condensed interim financial statements for the nine months period ended September 30,
+2025 were authorized for issue by the Board of Directors of the Company on October 21, 2025.
+Chairman
+Chief Financial Officer
+President & CEO
+NOTES TO AND FORMING PART OF THE
+CONDENSED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+================================================================================
+PAGE 29
+================================================================================
+
+CONDENSED CONSOLIDATED INTERIM
+FINANCIAL STATEMENTS
+FOR THE NINE MONTHS PERIOD ENDED
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+Report 2025
+
+
+================================================================================
+PAGE 30
+================================================================================
+
+CONDENSED CONSOLIDATED INTERIM
+STATEMENT OF FINANCIAL POSITION
+AS AT SEPTEMBER 30, 2025
+
+Chairman
+Chief Financial Officer
+President & CEO
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Equity and liabilities
+Equity
+Share capital and reserves
+Share capital
+
+51,000,000
+51,000,000
+Revenue reserves
+
+General reserve
+
+27,497,072
+27,497,072
+
+Unappropriated loss
+
+(37,979,273)
+(43,575,731)
+
+
+
+
+
+
+(10,482,201)
+(16,078,659)
+Statutory and other reserves
+
+935,752
+935,752
+Unrealized gain on investments
+
+measured at fair value through OCI
+
+83,605
+409,162
+
+
+
+
+
+
+41,537,156
+36,266,255
+Liabilities
+Non-current liabilities
+Long term loans from banks
+
+96,823,025
+104,867,250
+Deposits from banking customers
+
+61,545,369
+39,870,286
+Lease liabilities
+
+22,610,039
+12,429,735
+Employees retirement benefits
+
+42,105,545
+42,846,083
+Deferred government grants
+
+38,234,431
+35,252,992
+Advances from customers
+
+1,308,492
+1,442,432
+License fee payable
+
+895,912
+8,799,401
+Long term vendor liability
+
+31,934,983
+30,816,234
+
+
+
+
+
+
+295,457,796
+276,324,413
+Current liabilities
+Trade and other payables
+
+162,729,847
+158,600,800
+Deposits from banking customers
+
+73,193,030
+96,741,897
+Interest accrued
+
+2,720,729
+6,716,644
+Short term running finance
+
+68,085,021
+51,678,636
+
+Long term loans from banks
+
+18,618,957
+134,887,702
+
+Subordinated debt
+
+150,000
+1,000,000
+
+Lease liabilities
+
+13,484,338
+4,458,672
+
+License fee payable
+
+7,981,086
+2,328,854
+
+Long term vendor liability
+
+22,886,738
+35,565,847
+Security deposits
+
+1,959,130
+1,654,053
+Unpaid / unclaimed dividend
+
+207,818
+208,131
+
+
+
+
+
+
+372,016,694
+493,841,236
+Total equity and liabilities
+
+709,011,646
+806,431,904
+Contingencies and commitments
+
+The annexed notes 1 to 22 are an integral part of these condensed consolidated interim financial
+statements.
+
+
+================================================================================
+PAGE 31
+================================================================================
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Assets
+Non-current assets
+Property, plant and equipment
+
+293,048,310
+283,621,411
+Right of use assets
+
+33,668,235
+15,528,532
+Intangible assets
+
+47,440,457
+52,713,512
+
+
+
+
+374,157,002
+351,863,455
+Long term investments
+
+51,427
+51,427
+Long term loans and advances
+
+7,679,146
+12,280,602
+Long term loans to banking customers
+
+12,882,039
+13,664,090
+Deferred income tax
+
+12,889,321
+16,896,173
+Contract costs
+
+408,970
+329,145
+
+
+
+
+
+408,067,905
+395,084,892
+Current assets
+Stock in trade, stores and spares
+
+8,118,449
+8,891,967
+Trade debts and contract assets
+
+71,596,160
+64,355,709
+Loans to banking customers
+
+57,920,684
+60,802,770
+Loans and advances
+
+3,738,613
+3,706,842
+Contract costs
+
+4,868,401
+5,575,409
+Income tax recoverable
+
+54,089,981
+52,304,986
+Deposits, prepayments and other receivables
+
+47,137,505
+30,337,039
+Short term investments
+
+27,368,869
+161,231,289
+Cash and bank balances
+
+26,105,079
+24,141,001
+
+
+
+
+
+300,943,741
+411,347,012
+Total assets
+
+709,011,646
+806,431,904
+
+Chairman
+Chief Financial Officer
+President & CEO
+Report 2025
+
+
+================================================================================
+PAGE 32
+================================================================================
+
+CONDENSED CONSOLIDATED INTERIM
+STATEMENT OF PROFIT OR LOSS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+
+Three months ended
+Nine months ended
+
+
+
+
+September 30,	 September 30, 	 September 30,	 September 30
+
+
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Revenue
+
+63,723,294
+56,795,340
+188,322,400
+163,965,961
+Cost of services
+
+(42,152,734)
+(43,958,610)
+(125,975,523)
+(126,444,088)
+Gross profit
+
+21,570,560
+12,836,730
+62,346,877
+37,521,873
+Administrative and general expenses
+
+(8,362,227)
+(7,864,353)
+(25,098,515)
+(22,945,920)
+Selling and marketing expenses
+
+(3,005,915)
+(3,417,525)
+(10,334,023)
+(9,889,927)
+Impairment loss on financial assets
+
+(4,088,572)
+(1,795,775)
+(10,974,852)
+(3,103,794)
+
+
+
+
+(15,456,714)
+(13,077,653)
+(46,407,390)
+(35,939,641)
+Operating profit
+
+6,113,846
+(240,923)
+15,939,487
+1,582,232
+Past service cost - pension
+
+-
+-
+(5,890,142)
+-
+Other income
+
+3,023,070
+2,887,199
+11,859,372
+14,104,958
+Finance and other costs
+
+(10,653,437)
+(12,068,909)
+(36,133,414)
+(38,686,709)
+Loss before tax
+
+(1,516,521)
+(9,422,633)
+(14,224,697)
+(22,999,519)
+Taxation
+
+238,761
+3,106,295
+3,049,118
+7,675,973
+Loss for the period
+
+(1,277,760)
+(6,316,338)
+(11,175,579)
+(15,323,546)
+Loss per share - basic and diluted (Rupees)
+(0.25)
+(1.24)
+(2.19)
+(3.00)
+The annexed notes 1 to 22 are an integral part of these condensed consolidated interim financial
+statements.
+
+Chairman
+Chief Financial Officer
+President & CEO
+
+
+================================================================================
+PAGE 33
+================================================================================
+
+CONDENSED CONSOLIDATED INTERIM
+STATEMENT OF COMPREHENSIVE INCOME
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+
+Three months ended
+Nine months ended
+
+
+
+
+September 30,	 September 30, 	 September 30,	 September 30
+
+
+
+
+
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Loss for the period
+
+(1,277,760)
+(6,316,338)
+(11,175,579)
+(15,323,546)
+Other comprehensive income for the period
+Items that will not be reclassified to profit or loss:
+
+Remeasurement gain on employees
+
+
+retirement benefits
+
+-
+-
+27,468,223
+-
+
+Tax effect
+
+-
+-
+(10,696,186)
+-
+
+
+
+
+
+-
+-
+16,772,037
+-
+Items that may be subsequently reclassified
+to profit or loss:
+
+(Loss) / gain on debt instruments arising
+
+
+during the year
+
+(19,859)
+185,976
+(458,531)
+133,475
+
+Tax effect
+
+5,759
+(72,531)
+132,974
+(52,055)
+
+
+
+
+
+(14,100)
+113,445
+(325,557)
+81,420
+Other comprehensive income / (loss)
+
+for the period - net of tax
+
+(14,100)
+113,445
+16,446,480
+81,420
+Total comprehensive income /(loss) for the period	 (1,291,860)
+(6,202,893)
+5,270,901
+(15,242,126)
+The annexed notes 1 to 22 are an integral part of these condensed consolidated interim financial
+statements.
+
+Chairman
+Chief Financial Officer
+President & CEO
+Report 2025
+
+
+================================================================================
+PAGE 34
+================================================================================
+
+CONDENSED CONSOLIDATED INTERIM
+STATEMENT OF CASH FLOWS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+Cash flows from operating activities
+Cash generated from operations
+
+72,558,723
+61,078,514
+Employees retirement benefits paid
+
+(2,172,042)
+(1,695,719)
+Additions to contract costs
+
+(5,326,087)
+(6,013,581)
+Deposits from banking customers
+
+(1,873,784)
+5,916,024
+Income tax paid
+
+(5,558,185)
+(8,962,691)
+Net cash generated from operating activities
+
+57,628,625
+50,322,547
+Cash flows from investing activities
+Addition to property, plant and equipment
+
+(28,849,947)
+(37,287,375)
+Acquisition of intangible assets
+
+(479,465)
+(601,768)
+Proceeds from disposal of property, plant and equipment
+1,009,557
+3,246,878
+Short term investments
+
+133,862,420
+32,230,349
+Long term loans and advances
+
+(2,548,929)
+(2,010,931)
+Government grants received
+
+5,396,465
+6,999,490
+Return on long term loans and short term investments
+
+4,672,585
+6,289,322
+Net cash generated from investing activities
+
+113,062,686
+8,865,965
+Cash flows from financing activities
+Loan from banks - net
+
+(124,312,970)
+(7,616,298)
+Subordinated debt
+
+(850,000)
+(428,132)
+Vendor liability
+
+(17,407,431)
+(7,666,456)
+License fee - repayment
+
+(2,525,011)
+(299,835)
+Finance cost paid
+
+(27,732,207)
+(32,540,408)
+Lease liabilities
+
+(12,305,686)
+(7,940,998)
+Dividend paid
+
+(313)
+(98)
+Net cash used in financing activities
+
+(185,133,618)
+(56,492,225)
+Net (decrease) / increase in cash and cash equivalents
+
+(14,442,307)
+2,696,287
+Cash and cash equivalents at the beginning of the period
+(27,537,635)
+(28,188,412)
+Cash and cash equivalents at the end of the period
+
+(41,979,942)
+(25,492,125)
+The annexed notes 1 to 22 are an integral part of these condensed consolidated interim financial
+statements.
+
+Chairman
+Chief Financial Officer
+President & CEO
+
+
+================================================================================
+PAGE 35
+================================================================================
+
+CONDENSED CONSOLIDATED INTERIM
+STATEMENT OF CHANGES IN EQUITY
+SEPTEMBER 30, 2025
+
+Chairman
+Chief Financial Officer
+President & CEO
+
+
+
+Issued, subscribed and paid-up capital
+Revenue reserves
+
+Unrealized gain / (loss) on
+
+
+
+
+
+
+
+
+Statutory
+investments measured
+
+
+
+
+
+
+General
+Unappropriated
+and other
+at fair value
+
+
+
+Class “A”
+Class “B”
+Total
+reserve
+loss
+reserves
+through OCI
+Total
+
+
+
+
+
+(Rupees in ‘000)
+Balance as at January 01, 2024 (Audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+(22,077,634)
+909,981
+(39,198)
+57,290,221
+Total comprehensive income for the period
+
+Loss for the nine months ended September 30, 2024
+
+-
+-
+-
+-
+(15,323,546)
+-
+-
+(15,323,546)
+
+Other comprehensive income
+
+-
+-
+-
+-
+-
+-
+81,420
+81,420
+
+
+
+
+-
+-
+-
+-
+(15,323,546)
+-
+81,420
+(15,242,126)
+Balance as at September 30, 2024 (Un-Audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+(37,401,180)
+909,981
+42,222
+42,048,095
+
+Income for the three months ended December 31, 2024
+
+-
+-
+-
+-
+929,386
+-
+-
+929,386
+
+Other comprehensive (loss) / income
+
+-
+-
+-
+-
+(7,103,937)
+-
+366,940
+(6,736,997)
+
+
+
+
+-
+-
+-
+-
+(6,174,551)
+-
+366,940
+(5,807,611)
+
+Transfer to statutory and other reserves
+
+-
+-
+-
+-
+-
+25,771
+-
+25,771
+Balance as at December 31, 2024 (Audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+(43,575,731)
+935,752
+409,162
+36,266,255
+Total comprehensive income for the period
+
+Loss for the nine months ended September 30, 2025
+
+-
+-
+-
+-
+(11,175,579)
+-
+-
+(11,175,579)
+
+Other comprehensive income / (loss)
+
+-
+-
+-
+-
+16,772,037
+-
+(325,557)
+16,446,480
+
+
+
+
+-
+-
+-
+-
+5,596,458
+-
+(325,557)
+5,270,901
+Transfer to statutory and other reserves
+
+-
+-
+-
+-
+-
+-
+-
+-
+Balance as at September 30, 2025 (Un-Audited)
+
+37,740,000
+13,260,000
+51,000,000
+27,497,072
+(37,979,273)
+935,752
+83,605
+41,537,156
+The annexed notes 1 to 22 are an integral part of these condensed consolidated interim financial statements.
+Report 2025
+
+
+================================================================================
+PAGE 36
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+1.
+LEGAL STATUS AND NATURE OF BUSINESS
+1.1	 Constitution and ownership
+
+The condensed consolidated interim financial statements of the Pakistan Telecommunication
+Company Limited and its subsidiaries (“the Group”) comprise of the financial information of:
+
+Pakistan Telecommunication Company Limited (PTCL)
+
+Pakistan Telecommunication Company Limited (the Holding Company) was incorporated in Pakistan
+on December 31, 1995 and commenced business on January 01, 1996. The Holding Company, which
+is listed on the Pakistan Stock Exchange Limited (PSX) (formerly Karachi, Lahore and Islamabad
+Stock Exchanges), was established to undertake the telecommunication business formerly carried
+on by Pakistan Telecommunication Corporation (PTC). PTC’s business was transferred to the
+Holding Company on January 01, 1996 under the Pakistan Telecommunication (Re-organization) Act,
+1996, on which date, the Holding Company took over all the properties, rights, assets, obligations
+and liabilities of PTC, except those transferred to the National Telecommunication Corporation
+(NTC), the Frequency Allocation Board (FAB), the Pakistan Telecommunication Authority (PTA)
+and the Pakistan Telecommunication Employees Trust (PTET). The registered office of the Holding
+Company is situated at PTCL Head office, Room No. 17, Ground Floor (Margalla side), Ufone Tower
+Plot No. 55-C, Main Jinnah Avenue, Blue Area , Sector F-7/1 Islamabad.
+
+The Holding Company provides telecommunication services in Pakistan. It owns and operates
+telecommunication facilities and provides domestic and international telephone services and other
+communication facilities throughout Pakistan. The Holding Company has also been licensed to
+provide such services in territories of Azad Jammu and Kashmir and Gilgit-Baltistan.
+
+The Holding Company has signed a Share Purchase Agreement with Telenor Pakistan B.V.
+(Telenor) in 2023 to acquire a 100% stake in Telenor Pakistan (Pvt) Ltd (Telenor Pakistan) and Orion
+Towers (Pvt) Ltd based on an Enterprise Value of Rs. 108,000,000 thousand on a cash free, debt free
+basis. The transaction will be financed through a seven year (with one year grace period) US Dollar
+syndicated Financing Facility amounting to USD 400,000 thousand led by International Finance
+Corporation (IFC) and the relevant Financing agreements have been signed on June 27, 2024.
+
+On October 1, 2025, the Competition Commission of Pakistan (CCP), through its Phase-II order on
+the Holding Company’s pre-merger application, granted approval for the proposed transaction. The
+transaction remains subject to other necessary regulatory approvals.”
+
+Pak Telecom Mobile Limited (PTML)
+
+PTML was incorporated in Pakistan on July 18, 1998, as a public limited company to provide cellular
+mobile telephony services in Pakistan. PTML commenced its commercial operations on January
+29, 2001, under the brand name of Ufone. It is a wholly owned subsidiary of the Holding Company.
+The registered office of PTML is situated at Ufone Tower, Plot No. 55-C, Jinnah Avenue, Blue Area,
+Islamabad.
+
+U Microfinance Bank Limited (U Bank)
+
+The Holding Company acquired 100% ownership of U Bank on August 30, 2012 to offer services
+of digital commerce and branchless banking. U Bank was incorporated on October 29, 2003 as
+a public limited company. The registered office of U Bank is situated at Jinnah Super Market F-7
+Markaz, Islamabad.
+
+DVCOM Data (Private) Limited (DVCOM Data)
+
+DVCOM Data was incorporated as a private limited company under the Companies Ordinance, 1984
+(repealed with the enactment of the Companies Act, 2017 on 30 May 2017) on 27 March 2007.
+Effective April 01, 2015, the Holding Company acquired 100% shareholding of DVCOM Data. The
+license for the spectrum allocated to DVCOM Data by PTA expired during 2024. The registered office
+of DVCOM Data is located at Hatim Alvi Road, Clifton, Karachi.
+
+Smart Sky (Private) Limited (Smart Sky)
+
+Smart Sky was incorporated in Pakistan on October 12, 2015 as a private limited company. Smart
+Sky is a wholly owned subsidiary of PTCL. The registered office of Smart Sky is located at PTCL
+Nest office, G-8/4, Islamabad.
+1.2	 Activities of the Group
+
+The Group principally provides telecommunication and broadband internet services in Pakistan.
+PTCL owns and operates telecommunication facilities and provides domestic and international
+telephone services throughout Pakistan. PTCL has also been licensed to provide such services
+to territories in Azad Jammu and Kashmir and Gilgit-Baltistan. PTML provides cellular mobile
+telephony services throughout Pakistan and Azad Jammu and Kashmir. Principal business of
+U Bank, incorporated under Microfinance Institutions Ordinance, 2001, is to provide nationwide
+microfinance and branchless banking services.
+
+
+================================================================================
+PAGE 37
+================================================================================
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+1.3	 Going concern basis of accounting
+
+The Group has incurred loss after tax amounting to Rs 11,175,579 thousands, for the nine
+months period ended September 30, 2025 (September 30, 2024: Rs 15,323,546 thousand) and its
+unappropriated loss as at September 30, 2025 amounts to Rs 37,979,273 thousand (December 31,
+2024: Rs 43,575,731 thousand). As of September 30, 2025, current liabilities of the Group exceed its
+current assets by Rs 71,021,425 thousand (December 31, 2024: Rs 82,494,224 thousand).
+
+However, as part of annual budgetary process of the Group, the Group has prepared five years
+projections for the years ending 31 December 2029 duly approved by the Board of Directors of the
+Group. These projections are based on individual business plans for the Holding Company, and
+each of its subsidiaries approved by those charged with governance. As per these projections, the
+Group will continue to generate sufficient cashflows to meet its obligations as they fall due. The
+existence of material uncertainty, if any, is mitigated based on the following factors: a) there has
+been increase in number of subscribers in the Group, the consumption of data per day prices of
+its products have also increased resulting in overall increase average revenue per user. These
+are expected to increase further in future years; b) there has been increase in Wireline segment’s
+revenue due to introduction of Flash Fiber, Fiber-to-the-Home (FTTH) service and is expected to
+continue to grow in future years; c) the reduction in policy rate to 11% is expected to result in
+significant decrease in finance cost. Reduction in inflation has been noted in Pakistan which is
+expected to have positive impact on operational cost of the Group; d) secured lending as a proportion
+of total advances in Banking segment is expected to increase which will result in lower delinquency
+ratio and improved profitability; and e) the Banking segment has closed certain banking branches
+which is expected to have positive impact on the profit of the Banking segment.
+
+During the first nine months of the current year, the Group reported a 15% increase in
+revenue and reported an operating profit of Rs 15,939,487 thousand, compared to an
+operating profit of Rs 1,582,232 thousand in the corresponding period of the previous year.
+Accordingly, considering the aforesaid factors, these consolidated financial statements have been
+prepared on a going concern basis.
+2.
+STATEMENT OF COMPLIANCE
+
+These condensed consolidated interim financial statements have been prepared in accordance with
+the accounting and reporting standards as applicable in Pakistan for interim financial reporting.
+The accounting and reporting standards as applicable in Pakistan for interim financial reporting
+comprise of:
+-	 International Accounting Standard (IAS) 34, Interim Financial Reporting, issued by the
+International Accounting Standards Board (IASB) as notified under the Companies Act, 2017; and
+-	 Provisions of and directives issued under the Companies Act, 2017.
+
+Where the provisions of and directives issued under the Companies Act, 2017 differ with the
+requirements of IAS 34, the provisions of and directives issued under the Companies Act, 2017
+have been followed.
+
+The applicable financial reporting framework for consolidated subsidiary also includes the
+following:
+-	 Microfinance Institutions Ordinance, 2001 (the MFI Ordinance); and
+-	 Directives issued by the Securities and Exchange Commission of Pakistan (SECP) and State
+Bank of Pakistan (SBP);
+
+Where the requirements of the Companies Act, 2017, the MFI Ordinance and the directives issued
+by the SECP and SBP differ with the requirements of IAS 34, the requirements of the Companies
+Act, 2017, the MFI Ordinance, or the requirements of the said directives shall prevail.
+3.
+BASIS OF PREPARATION
+
+These condensed consolidated interim financial statements do not include all of the information
+required in the annual consolidated financial statements prepared in accordance with the
+accounting and reporting standards as applicable in Pakistan. However, selected explanatory
+notes are included to explain events and transactions that are significant to an understanding of
+the changes in the Group’s financial position and performance since the last annual consolidated
+financial statements. These condensed consolidated interim financial statements should be read
+in conjunction with the Group’s latest annual consolidated financial statements as at and for the
+year ended December 31, 2024.
+4.
+CRITICAL ACCOUNTING ESTIMATES AND JUDGEMENTS
+
+The preparation of this condensed consolidated interim financial information in conformity with
+
+Report 2025
+
+
+================================================================================
+PAGE 38
+================================================================================
+
+approved accounting standards requires the use of certain critical accounting estimates. It also
+requires management to exercise its judgement in the process of applying the Group’s accounting
+policies. Estimates and judgements are continually evaluated and are based on historic experience,
+including expectations of future events that are believed to be reasonable under the circumstances.
+
+Estimates and judgments made by the management in the preparation of these condensed
+consolidated interim financial statements are the same as those used in the preparation of audited
+consolidated financial statements of the Group for the year ended December 31, 2024, except for
+note 4.1:
+4.1	 As disclosed in Note 11.2, during the period, a change in accounting estimate has been recognized
+in accordance with IAS 8 – Accounting Policies, Changes in Accounting Estimates and Errors, as a
+result of the judgment of the Supreme Court of Pakistan (SCP) in relation to pension litigation.
+
+Following the SCP’s judgment, the Holding Company conducted a revised actuarial valuation for
+employees entitled to increased pensionary benefits and compensation. This revised valuation was
+carried out in accordance with prevailing standards applicable to similarly situated civil servants.
+
+As a result of this reassessment, the following changes in actuarial assumptions and estimates
+were made:
+•	 Adjustment to future pension growth rate assumptions for civil servants and others.
+•	 Incorporation of additional compensation elements mandated by the SCP decision.
+
+As a result, the loss before tax has increased by Rs. 5,890,142 thousand and Other Comprehensive
+Income (net of tax) has increased by Rs. 16,772,037 thousand. The Holding Company will continue
+to assess these assumptions periodically in accordance with applicable accounting standards.”
+5.
+MATERIAL ACCOUNTING POLICIES
+
+The accounting policies and the methods of computations adopted in the preparation of these
+condensed consolidated interim financial statements are consistent with those followed in the
+preparation of the Group’s audited consolidated financial statements for the year ended December
+31, 2024.
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+6.
+TRADE AND OTHER PAYABLES
+
+Trade creditors
+
+21,087,078
+24,062,927
+
+Accrued and other liabilities
+6.1
+64,323,089
+60,108,504
+
+Technical services assistance fee
+6.2
+54,103,224
+48,230,684
+
+Advances from customers / contract liabilities
+
+12,110,326
+13,982,012
+
+Retention money / payable to contractors
+
+
+and suppliers
+
+6,100,511
+7,582,467
+
+Income tax collected from subscribers/
+
+
+deducted at source
+
+631,550
+1,048,418
+
+Sales tax payable
+
+4,374,069
+3,585,788
+
+
+
+
+
+162,729,847
+158,600,800
+6.1	 Accrued and other liabilities
+
+Accrued liability for operational expenses
+
+25,415,203
+19,851,025
+
+Amount withheld on account of provincial levies
+
+
+(Sub-judice) for ICH operations
+
+12,110,803
+12,110,803
+
+Accrual for Government / regulatory expenses
+
+19,875,367
+18,172,962
+
+Accrued wages
+
+4,033,954
+4,163,239
+
+Others
+
+2,887,762
+5,810,475
+
+
+
+
+
+64,323,089
+60,108,504
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+================================================================================
+PAGE 39
+================================================================================
+
+6.2	 Liability has not been settled since State Bank of Pakistan has not yet acknowledged the extension
+of Technical Service Assistance (TSA) Agreement.
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+7.
+PROPERTY, PLANT AND EQUIPMENT
+
+Operating fixed assets
+7.1
+243,997,961
+238,897,893
+
+Capital work-in-progress
+7.3
+49,050,349
+44,723,518
+
+
+
+
+
+293,048,310
+283,621,411
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+7.1	 Operating fixed assets
+
+Opening net book value
+
+238,897,893
+216,872,000
+
+Additions during the period
+7.2
+31,673,501
+35,561,611
+
+
+
+
+
+270,571,394
+252,433,611
+
+Disposals during the period - at net book value
+
+(227,626)
+(465,434)
+
+Impairment
+
+(316,174)
+-
+
+Depreciation for the period
+
+(26,029,633)
+(24,486,337)
+
+
+
+
+
+(26,573,433)
+(24,951,771)
+
+Closing net book value
+
+243,997,961
+227,481,840
+7.2	 Detail of additions during the period:
+
+Buildings on freehold land
+
+144,906
+288,194
+
+Buildings on leasehold land
+
+194,613
+165,984
+
+Lines and wires
+
+13,849,978
+10,942,756
+
+Apparatus, plant and equipment
+
+16,606,209
+21,402,211
+
+Office equipment
+
+378,843
+955,833
+
+Computer equipment
+
+280,954
+523,582
+
+Furniture and fittings
+
+2,497
+379,424
+
+Vehicles
+
+96,190
+105,334
+
+Submarine cables
+
+119,311
+798,293
+
+
+
+
+
+31,673,501
+35,561,611
+7.3	 Additions to CWIP during the nine months ended September 30, 2025 were Rs 36,362,317 thousand
+(September 30, 2024: Rs 37,086,941 thousand). Transfers from CWIP to operating fixed assets
+during the nine months period ended September 30, 2025 were Rs 32,035,486 thousand (September
+30, 2024: Rs 35,360,541 thousand).
+
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+Report 2025
+
+
+================================================================================
+PAGE 40
+================================================================================
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+8.
+TRADE DEBTS AND CONTRACT ASSETS
+
+Trade debts
+
+74,101,982
+65,555,932
+
+Contract assets
+
+7,132,873
+6,764,824
+
+
+
+
+
+81,234,855
+72,320,756
+
+Allowance for expected credit loss
+
+(9,638,695)
+(7,965,047)
+
+
+
+
+
+71,596,160
+64,355,709
+9.
+SHORT TERM INVESTMENTS
+
+Amortized cost
+
+
+Lending to Financial Instituition
+
+5,558,456
+12,195,250
+
+Fair value through Profit or Loss
+
+
+Non Government debt securities
+
+1,698,411
+1,697,008
+
+
+Mutual funds
+
+7,053,328
+-
+
+
+
+
+
+8,751,739
+1,697,008
+
+Fair value through Other Comprehensive Income
+
+
+Federal Government securities
+
+12,992,048
+147,255,738
+
+
+Non Government debt securities
+
+66,626
+83,293
+
+
+
+
+
+13,058,674
+147,339,031
+
+
+
+
+
+27,368,869
+161,231,289
+10. 	 CASH AND BANK BALANCES
+
+Cash in hand
+
+1,200,587
+1,827,897
+
+Balances with banks:
+10.1
+
+Local currency
+
+
+Current account maintained with SBP
+
+2,924,166
+5,140,886
+
+
+Current accounts
+
+2,560,124
+1,280,430
+
+
+Saving accounts
+
+5,984,204
+5,035,063
+
+
+
+
+
+11,468,494
+11,456,379
+
+Foreign currency
+
+
+Current accounts
+
+11,757,412
+9,321,664
+
+
+Saving accounts
+
+1,678,586
+1,535,061
+
+
+
+
+
+13,435,998
+10,856,725
+
+
+
+
+
+26,105,079
+24,141,001
+10.1	Bank balance includes Rs 2,982 thousand (December 31, 2024: Rs 212,391 thousand) carrying
+profit rates ranging from 2.7% to 9.5% (December 31, 2024: 7% to 21%) per annum from Shariah
+arrangements.
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+================================================================================
+PAGE 41
+================================================================================
+
+11. 	 CONTINGENCIES AND COMMITMENTS
+
+There has been no material changes in contingencies as disclosed in the last audited consolidated
+financial statements for the year ended December 31, 2024 except in notes 11.1, 11.2 and 11.3 as
+disclosed below:
+11.1	For the tax years 2007, 2009, 2010, 2011 to 2023, Taxation Officer disallowed certain expenses, tax
+credits and levied short deduction of Withholding Tax (WHT). The impugned orders were challenged
+at the relevant appellate forums which allowed partial relief thereof. After taking into account the
+orders of CIR (Appeals), ATIR as well as rectification orders tax impact of the disallowances is Rs
+51,115,762 thousand. Appeals on the remaining outstanding items are pending adjudication before
+ATIR. Reference in respect of 2007 is subjudice before the Honorable Islamabad High Court. Stay
+has been obtained in all cases from different fora. The CIR (Appeals) have remanded back the
+disallowances relating to tax years 2014 and 2020 having tax impact of Rs. 5,937,972 thousand to
+Taxation Officer.
+11.2	This relates to pension litigation disclosed in note 18.7 of the Group’s consolidated financial
+statements for the year ended December 31, 2024. By order dated July 10, 2025, the Honorable
+Supreme Court of Pakistan (SCP) directed the Holding Company to recognize its continuing liability
+towards former civil servants transferred from the Telegraph & Telephone (T&T) Department to the
+PTC and subsequently to the Holding Company, and to record this as a declared liability in line with
+applicable accounting and corporate law.
+
+The liability covers differential of pension payable in accordance with prevailing standards for
+similarly placed public servants. The SCP further held that such benefits are not payable to
+workmen/workers, ex-civil servants who availed Voluntary Separation Scheme (VSS), or employees
+appointed by PTC, and remanded certain transferred employees’ cases to the High Courts for
+determination of their civil servant status.
+
+To comply, the Holding Company engaged an independent legal advisor to determine such
+transferred employees who being civil servant at the time of their transfer are entitled to increase
+in pension and has recognized an amount of Rs. 5,890,142 thousand, as past service cost in the
+consolidated statement of profit or loss, based on its best estimate of expenditure required to meet
+its obligation as determined by the SCP. In this respect, the Holding Company had also engaged
+independent actuary to calculate additional pension liability (refer to note 4.1, for changes in
+underlying actuarial assumptions).
+
+Based on this exercise, adequate provision has been made, and based on legal advice, any
+potential adverse findings from the High Courts are not expected to materially impact the financial
+statements.
+11.3	This relates to the Competition Commission of Pakistan (CCP) litigation as disclosed in Note 18.8
+of the Group’s consolidated financial statements for the year ended December 31, 2024. Pursuant
+to the proceedings, the Competition Appellate Tribunal, vide its order dated August 11, 2025, has
+imposed a penalty on the Holding Company equivalent to 2% of the turnover from the relevant
+period, generated by Long Distance and International (LDI) operations solely through International
+Clearing House (ICH) linked activities. In compliance with this order, the Group has recognized a
+penalty amounting to Rs. 458,830 thousands under other costs in the consolidated statement of
+profit or loss. The Holding Company has deposited the amount under protest and filed an appeal
+before Supreme Court against the said order.
+
+
+
+
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+Report 2025
+
+
+================================================================================
+PAGE 42
+================================================================================
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+11.4	Bank guarantees and bid bonds
+
+issued in favor of:
+
+Universal Service Fund (USF) against
+
+
+government grants
+
+17,959,093
+19,079,452
+
+Pakistan Telecommunication Authority
+
+
+against 3G and 2G Licenses
+
+3,024,161
+4,387,163
+
+Others
+11.4.1
+2,661,125
+3,514,199
+
+
+
+
+
+23,644,379
+26,980,814
+
+Corporate guarantee in favour of PTML
+
+71,497,000
+65,497,000
+
+Corporate guarantee in favour of Ubank
+
+-
+10,000,000
+
+
+
+
+
+71,497,000
+75,497,000
+11.4.1	Others includes bank guarantee given on behalf of DVCOM Data (Private) Limited to PTA amounting
+to Rs 675,000 thousand (December 31, 2024: Rs. 675,000 thousand).
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+11.5	Commitments
+
+Letters of credit for purchase of stock
+
+162,142
+467,691
+
+Letters of comfort in favour of PTML
+
+3,500,000
+3,500,000
+
+Contracts for capital expenditure
+
+27,169,224
+32,226,978
+
+
+
+
+
+30,831,366
+36,194,669
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+================================================================================
+PAGE 43
+================================================================================
+
+12. 	 REVENUE
+
+The Group principally obtains revenue from providing telecommunication services such as data,
+voice, IPTV, connectivity services, interconnect, information and communication technology (ICT),
+digital solutions and equipment sales, messaging services, sales of mobile devices. Further, U
+Bank provides banking and microfinance services.
+
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+
+Revenue segments
+
+Broadband and IPTV
+
+41,149,418
+36,301,051
+
+Cellular and other wireless services
+
+69,357,204
+59,011,281
+
+Voice services - fixed line
+
+6,054,419
+6,526,806
+
+Revenue from retail customers
+
+116,561,041
+101,839,138
+
+Corporate and wholesale
+
+41,551,586
+35,584,500
+
+International
+
+9,365,521
+8,867,158
+
+Banking
+
+20,844,252
+17,675,165
+
+Total revenue
+
+188,322,400
+163,965,961
+12.1	Revenue is stated net of trade discount amounting to Rs 2,933,886 thousand (September 30, 2024:
+Rs 2,976,589 thousand) and Federal excise duty and sales tax amounting to Rs 27,604,769 thousand
+(September 30, 2024: Rs 26,301,484 thousand).
+
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+Note
+Rs ‘000
+Rs ‘000
+13. 	 OTHER INCOME
+
+Income from financial assets - net
+13.1
+6,669,085
+6,026,637
+
+Income from non-financial assets
+
+5,190,287
+8,078,321
+
+
+
+
+
+11,859,372
+14,104,958
+13.1	Income from financial assets include Rs 66 thousand (September 30, 2024: Rs 257 thousand)
+earned from Shariah arrangements.
+
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+Report 2025
+
+
+================================================================================
+PAGE 44
+================================================================================
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+14. 	 CASH GENERATED FROM OPERATIONS
+
+Loss before tax
+
+(14,224,697)
+(22,999,519)
+
+Adjustments for non-cash charges and other items:
+
+
+Depreciation of property, plant and equipment
+
+26,029,633
+24,486,337
+
+
+Amortization of intangible assets
+
+5,752,520
+5,811,343
+
+
+Amortization of contract costs
+
+5,953,270
+5,154,690
+
+
+Impairment of property, plant and equipment
+
+316,174
+-
+
+
+Depreciation of right of use assets
+
+8,693,058
+4,899,868
+
+
+Allowance for expected credit loss
+
+10,978,532
+3,103,794
+
+
+Provision for obsolete stores, spares and loose tools
+88,020
+180,673
+
+
+Provision for employees retirement benefits
+
+7,679,678
+4,767,465
+
+
+Imputed interest on lease liabilities
+
+4,678,895
+2,183,039
+
+
+Interest cost on employee retirement benefits
+
+3,384,362
+2,957,654
+
+
+Unearned revenue realized
+
+(129,955)
+(180,397)
+
+
+Gain on disposal of property, plant and equipment
+(781,931)
+(2,781,444)
+
+
+Return on bank deposits and Government securities
+(4,848,171)
+(6,242,960)
+
+
+Release of deferred government grants
+
+(2,415,026)
+(2,501,583)
+
+
+Finance costs
+
+28,070,157
+33,523,406
+
+
+
+
+
+79,224,519
+52,362,366
+
+Effect on cash flows due to working capital changes:
+
+Increase in current assets:
+
+
+Stock in trade, stores and spares
+
+685,498
+86,586
+
+
+Trade debts and contract assets
+
+(8,917,779)
+(5,472,183)
+
+
+Loans to banking customers
+
+(5,637,067)
+12,608,715
+
+
+Loans and advances
+
+(31,771)
+(1,953,386)
+
+
+Deposits, prepayments and other receivables
+
+1,018,224
+(11,578,171)
+
+
+
+
+
+(12,882,895)
+(6,308,439)
+
+Increase in current liabilities:
+
+
+Trade and other payables
+
+5,912,022
+14,915,791
+
+
+Security deposits
+
+305,077
+108,796
+
+
+
+
+6,217,099
+15,024,587
+
+
+
+
+
+72,558,723
+61,078,514
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+================================================================================
+PAGE 45
+================================================================================
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+15. 	 CASH AND CASH EQUIVALENTS
+
+Cash and bank balances
+
+26,105,079
+21,156,669
+
+Short term running finance
+
+(68,085,021)
+(46,648,794)
+
+
+
+
+
+(41,979,942)
+(25,492,125)
+16. 	 SEGMENT INFORMATION
+
+For management purposes, the Group is organized into three operating segments i.e. fixed line
+communications (Wire line), wireless communications (Wireless) and Banking. The reportable
+operating segments derive their revenue primarily from voice, data and other services.
+16.1 	Segment information for the reportable segments is as follows:
+
+
+
+
+
+Wireline
+Wireless
+Banking
+Total
+
+
+
+
+
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+
+Nine months ended September 30, 2025
+
+Segment revenue
+
+89,228,201
+83,966,532
+21,091,752
+194,286,485
+
+Inter segment revenue
+
+(4,944,345)
+(772,240)
+(247,500)
+(5,964,085)
+
+Revenue from external customers
+
+84,283,856
+83,194,292
+20,844,252
+188,322,400
+
+Segment results
+
+(1,205,020)
+(3,227,468)
+(6,743,091)
+(11,175,579)
+
+Nine months ended September 30, 2024
+
+Segment revenue
+
+78,680,342
+73,822,721
+17,675,165
+170,178,228
+
+Inter segment revenue
+
+(4,597,139)
+(1,615,128)
+-
+(6,212,267)
+
+Revenue from external customers
+
+74,083,203
+72,207,593
+17,675,165
+163,965,961
+
+Segment results
+
+989,980
+(10,207,229)
+(6,106,297)
+(15,323,546)
+
+
+
+
+
+Wireline
+Wireless
+Banking
+Total
+
+
+
+
+
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+
+As at September 30, 2025
+
+Segment assets
+
+342,179,375 	 226,797,814 	 140,034,457 	 709,011,646
+
+Segment liabilities
+
+319,892,529 	 199,134,159 	 148,447,802 	 667,474,490
+
+As at December 31, 2024
+
+Segment assets
+
+312,773,909 	 217,760,775 	 275,897,220 	 806,431,904
+
+Segment liabilities
+
+296,343,468 	 194,236,144 	 279,586,037 	 770,165,649
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+Report 2025
+
+
+================================================================================
+PAGE 46
+================================================================================
+
+17. 	 TRANSACTIONS AND BALANCES WITH RELATED PARTIES
+
+
+
+
+
+
+Nine months ended
+
+
+
+
+September 30,
+September 30,
+
+
+
+
+
+(Un-Audited)
+(Un-Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+Relationship with the Group
+Nature of transaction
+i.	 Shareholders
+
+Technical services assistance fee
+5,872,540
+4,976,618
+ii. 	Associated undertakings
+Sale of goods and services
+6,076,415
+5,962,418
+
+
+
+
+
+
+Purchase of goods and services
+2,221,832
+1,646,727
+
+
+
+
+
+
+Prepaid rent
+750,830
+690,313
+iii.	Employees benefits
+PTCL
+Gratuity Fund
+119,286
+56,908
+
+
+plans
+PTML
+Gratuity Fund
+163,160
+154,662
+
+
+
+
+
+U Bank	 Gratuity Fund
+102,512
+100,097
+iv.	Employees contribution	 PTCL
+PTCL Employees GPF Trust - net
+50,017
+60,518
+
+
+plans
+U Bank	 Provident Fund
+84,283
+79,675
+v.	 The Government of Pakistan and
+
+its related entities
+PTCL
+Charges under license obligation
+2,473,050
+1,326,035
+vi.	Directors, Chief Executive and
+Fee and remuneration including
+
+Key Management Personnel benefits and perquisites
+
+2,070,523
+2,022,062
+
+
+
+
+September 30,
+December 31,
+
+
+
+
+
+(Un-Audited)
+(Audited)
+
+
+
+
+Rs ‘000
+Rs ‘000
+
+Trade debts and contract assets
+
+
+-	 Associated undertakings
+
+47,259,467
+42,021,388
+
+Deposits, prepayments and other receivables
+
+
+-	 Pakistan Telecommunication Employees Trust (PTET)
+55,533
+25,634
+
+
+-	 Associated undertakings
+
+118,336
+240,148
+
+Pakistan Telecommunication Employees Trust (PTET)
+
+20,645,815
+2,951,439
+
+Long term loans to executives
+
+and key management personnel
+PTCL
+96,487
+96,680
+
+Trade and other payables
+
+Trade creditors
+
+
+-	 Associated Undertakings
+
+5,448,545
+4,973,512
+
+
+-	 The Government of Pakistan and its related entities
+
+2,913,747
+2,293,643
+
+Retention money payable to associated undertaking
+
+2,940
+2,940
+
+Technical assistance services fee payable to Etisalat
+
+54,103,224
+48,230,684
+
+Pakistan Telecommunication Company Limited Employees gratuity fund
+85,733
+89,535
+
+PTML
+
+
+-	 Gratuity Fund
+
+395,680
+231,620
+
+U Bank
+
+
+-	 Gratuity Fund Receivable
+
+82,068
+68,787
+
+
+-	 Provident Fund
+
+135,232
+57,406
+18. 	 FAIR VALUE ESTIMATION
+
+The carrying value of financial assets and liabilities approximates their fair value.
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+
+
+================================================================================
+PAGE 47
+================================================================================
+
+19. 	 OFFSETTING OF FINANCIAL ASSETS AND LIABILITIES
+
+
+
+Gross
+
+
+Amount
+Net as per
+
+
+
+amounts
+
+
+not in
+statement
+
+
+
+subject to
+
+Net
+scope of
+of financial
+
+
+
+offsetting
+Offset
+amount
+offsetting
+position
+
+
+
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+Rs ‘000
+
+As at September 30, 2025
+
+Trade debts and contract assets
+47,536,807
+(5,599,692)
+41,937,115
+39,297,740
+81,234,855
+
+Trade creditors
+(6,996,699)
+5,599,692
+(1,397,007)	 (19,690,071)	 (21,087,078)
+
+As at December 31, 2024
+
+Trade debts and contract assets
+43,855,454
+(5,940,017)
+37,915,437 	 34,405,319
+72,320,756
+
+Trade creditors
+(6,708,478)
+5,940,017
+(768,461)	 (23,294,466)	 (24,062,927)
+20. 	 FINANCIAL RISK MANAGEMENT
+
+The Group’s financial risk management objectives and policies are consistent with that disclosed in the annual
+consolidated financial statements for the year ended December 31, 2024. There is no change in the nature and
+corresponding hierarchies of fair value levels of financial instruments from those as disclosed in the audited
+consolidated financial statements of the Group for the year ended December 31, 2024.
+21. 	 CORRESPONDING FIGURES
+
+Prior year figure have been re-arranged, wherever necessary, for better presentation and comparison.
+Reclassification of corresponding figures of the financial statements is given below:
+
+Reclassification from
+Reclassification to
+Rs ‘000
+
+Cost of services
+Revenue
+3,359,960
+
+Selling and marketing expenses
+Cost of services
+151,742
+
+Other income
+Finance costs
+22,610
+22. 	 DATE OF AUTHORIZATION FOR ISSUE OF CONDENSED CONSOLIDATED INTERIM FINANCIAL
+
+STATEMENTS
+
+These condensed consolidated interim financial statements for the nine months period ended September 30,
+2025 were authorized for issue by the Board of Directors of the Holding Company on October 21, 2025.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chairman
+Chief Financial Officer
+President & CEO
+NOTES TO AND FORMING PART OF THE
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 (UN-AUDITED)
+Report 2025
+
+
+================================================================================
+PAGE 48
+================================================================================
+
+NOTES
+
+
+================================================================================
+PAGE 49
+================================================================================
+
+Report 2025
+
