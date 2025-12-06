@@ -23,7 +23,7 @@ def text_metadata(company: str, year: str, doc_type: str = "financial_report") -
     """
     return {
         "company": company,
-        "year": year,
+        "period": year,  # Use 'period' key for consistency
         "doc_type": doc_type,
         "type": "text_chunk"
     }
